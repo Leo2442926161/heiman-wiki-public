@@ -1,42 +1,42 @@
 ---
 sidebar_position: 4
 ---
-# HS2SK-WiFi - 智能计量插座（WiFi）
+#HS2SK-WiFi - Akıllı ölçümlü soket (WiFi)
 
-## 概述
+## Genel Bakış
 
-HS2SK-WiFi 是海曼推出的 WiFi 智能计量插座，支持 2.4GHz 802.11 b/g/n 直连家庭路由器，无需额外网关即可实现远程控制与能耗监测。适用于家庭、办公室等场景的电器智能化管理。
+HS2SK-WiFi, Heiman tarafından piyasaya sürülen bir WiFi akıllı ölçüm soketidir. Ev yönlendiricilerine 2,4 GHz 802.11 b/g/n doğrudan bağlantıyı destekler ve ek ağ geçitlerine ihtiyaç duymadan uzaktan kontrol ve enerji tüketimi takibi gerçekleştirebilir. Evlerde, ofislerde ve diğer senaryolarda elektrikli cihazların akıllı yönetimi için uygundur.
 
-## 技术规格
+## Teknik özellikler
 
-| 参数 | 值 |
-|------|-----|
-| 通信协议 | IEEE 802.11 b/g/n（2.4 GHz） |
-| 最大负载 | 16A |
-| 最大功率 | 3680W（230V）/ 1800W（110V） |
-| 计量精度 | ±2% |
-| 供电方式 | 市电供电 |
-| 待机功耗 | ≤ 0.5W |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤ 90% RH |
-| 外壳材质 | PC V0 阻燃 |
-| 插孔规格 | 欧标 / 美标（视市场版本） |
+| Parametre | Değer |
+|----------|-----|
+| İletişim Protokolü | IEEE 802.11 b/g/n (2,4 GHz) |
+| Maksimum yük | 16A |
+| Maksimum güç | 3680W (230V) / 1800W (110V) |
+| Ölçüm doğruluğu | ±%2 |
+| Güç kaynağı yöntemi | Şebeke güç kaynağı |
+| Bekleme modunda güç tüketimi | ≤ 0,5W |
+| Çalışma sıcaklığı | -10°C ~ +50°C |
+| Çalışma nemi | ≤ %90 bağıl nem |
+| Kabuk malzemesi | PC V0 alev geciktirici |
+| Kriko özellikleri | Avrupa standardı / Amerika standardı (pazar versiyonuna bağlı olarak) |
 
-## 功能特性
+## Özellikler
 
-- 支持 Smart Life / Tuya 智能 App 远程控制
-- 实时功率监测与能耗统计
-- 远程开关控制
-- 定时开关与倒计时
-- 场景联动与自动化
-- 语音控制（兼容 Alexa、Google Home）
+-Akıllı Yaşam / Tuya akıllı Uygulama uzaktan kumandasını destekleyin
+- Gerçek zamanlı güç izleme ve enerji tüketimi istatistikleri
+- Uzaktan anahtar kontrolü
+- Zamanlama anahtarı ve geri sayım
+- Sahne bağlantısı ve otomasyon
+- Ses kontrolü (Alexa, Google Home ile uyumlu)
 
-## 认证标准
+## Sertifikasyon standartları
 
-- CE / FCC
+-CE/FCC
 - RoHS
-- ETL / UL（视市场版本）
+- ETL/UL (piyasa sürümüne bağlı olarak)
 
-## 关联文档
+## İlgili belgeler
 
-- 参见 [WiFi 技术参数](../技术参数.md)
+- Bkz. [WiFi teknik verileri](../teknik veriler.md)

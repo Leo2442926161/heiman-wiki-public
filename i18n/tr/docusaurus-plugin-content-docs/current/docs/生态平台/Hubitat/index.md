@@ -1,32 +1,32 @@
 ---
 sidebar_position: 10
 ---
-# Hubitat
+#hubitat
 
-Hubitat 是一个专注于本地化控制的智能家居中枢，支持 Zigbee 和 Z-Wave 设备，所有自动化均在本地执行，无需云服务。
+Hubitat, yerelleştirilmiş kontrole odaklanan, Zigbee ve Z-Wave cihazlarını destekleyen, tüm otomasyonun bulut hizmetlerine ihtiyaç duymadan yerel olarak gerçekleştirildiği akıllı bir ev merkezidir.
 
-## 集成方式
+## Entegrasyon yöntemi
 
-### Zigbee 设备
+### Zigbee Cihazları
 
-海曼 Zigbee 传感器可直接与 Hubitat Elevation 中枢配对：
+Hyman Zigbee sensörleri doğrudan Hubitat Elevation hub'larıyla eşleşir:
 
-1. 在 Hubitat 中进入 Zigbee 配对模式
-2. 将海曼传感器进入配对模式
-3. 设备将被自动发现并添加
+1. Hubitat'ta Zigbee eşleştirme moduna girin
+2. Heiman sensörünü eşleştirme moduna getirin
+3. Cihaz otomatik olarak keşfedilecek ve eklenecektir
 
-### Z-Wave 设备
+### Z-Wave Cihazları
 
-海曼 Z-Wave 设备同样支持与 Hubitat 直接配对，利用 Hubitat 的内置 Z-Wave 芯片。
+Hyman Z-Wave cihazları aynı zamanda Hubitat'ın yerleşik Z-Wave çipinden yararlanarak Hubitat ile doğrudan eşleştirmeyi de destekler.
 
-### 自定义驱动
+### Özel sürücü
 
-部分海曼设备可能需要自定义 Driver，社区用户已为常见传感器编写了兼容驱动。
+Bazı Heiman cihazları özel sürücüler gerektirebilir ve topluluk kullanıcıları, ortak sensörler için uyumlu sürücüler yazmıştır.
 
-## 优势
+## Avantajları
 
-- **100% 本地化**：所有自动化逻辑在 Hubitat 本地执行，不依赖云端
-- **低延迟**：本地 Zigbee/Z-Wave Mesh 网络，响应快速
-- **丰富社区**：Hubitat Community 有大量海曼用户的配置分享
+- **%100 yerelleştirme**: Tüm otomasyon mantığı Hubitat'ta yerel olarak yürütülür ve buluta bağlı değildir
+- **Düşük Gecikme**: Yerel Zigbee/Z-Wave Mesh ağı, hızlı yanıt
+- **Zengin Topluluk**: Hubitat Topluluğu, çok sayıda Heiman kullanıcısının yapılandırma paylaşımına sahiptir
 
-> **参考**：[Hubitat Community - Heiman 设备讨论](https://community.hubitat.com/)
+> **Referans**: [Hubitat Topluluğu - Heiman Ekipman Tartışması](https://community.hubitat.com/)

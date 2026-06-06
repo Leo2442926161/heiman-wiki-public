@@ -1,36 +1,36 @@
 ---
 sidebar_position: 8
 ---
-# C1 系列 - 一氧化碳报警器（Zigbee）
+# C1 Serisi - Karbon Monoksit Alarmı (Zigbee)
 
-## 概述
+## Genel Bakış
 
-C1 系列是海曼推出的基础型 Zigbee 一氧化碳报警器，采用电化学传感器，适用于一氧化碳泄漏检测场景，已通过 EN 50291 认证。
+C1 serisi, Heiman tarafından başlatılan temel bir Zigbee karbon monoksit alarmıdır. Elektrokimyasal sensörler kullanır ve karbon monoksit sızıntısı tespit senaryolarına uygundur. EN 50291 sertifikasını geçmiştir.
 
-## 技术规格
+## Teknik özellikler
 
-| 参数 | 值 |
-|------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 电化学 |
-| 检测范围 | 0 ~ 1000 ppm |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | 电池供电 |
-| 传感器寿命 | 约 7 年 |
-| 工作温度 | -10°C ~ +50°C |
+| Parametre | Değer |
+|----------|-----|
+| İletişim Protokolü | Zigbee 3.0 |
+| Sensör Tipi | Elektrokimyasal |
+| Algılama aralığı | 0 ~ 1000 sayfa/dakika |
+| Alarm ses basıncı | ≥85 dB (3 metre) |
+| Güç kaynağı yöntemi | Pille çalışan |
+| Sensör ömrü | Yaklaşık 7 yıl |
+| Çalışma sıcaklığı | -10°C ~ +50°C |
 
-## 功能特性
+## Özellikler
 
-- 电化学 CO 检测
-- 浓度分级报警
-- 85 dB 声光报警
-- 低电量提醒
-- 自检功能
+- Elektrokimyasal CO tespiti
+- Konsantrasyon sınıflandırma alarmı
+- 85 dB sesli ve görsel alarm
+- Düşük pil hatırlatıcısı
+- Kendi kendine test fonksiyonu
 
-## 认证标准
+## Sertifikasyon standartları
 
-- EN 50291
+-EN 50291
 
-## 关联文档
+## İlgili belgeler
 
-- 参见 [产品类型: 一氧化碳传感器](../../../产品类型/一氧化碳传感器/index.md)
+- Bkz. [Ürün Tipi: Karbon Monoksit Sensörü](../../../Ürün Tipi/Karbon Monoksit Sensörü/index.md)

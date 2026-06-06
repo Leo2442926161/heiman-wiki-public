@@ -1,61 +1,61 @@
 ---
 sidebar_position: 4
 ---
-# HS1SA-M 智能烟雾报警器（Matter）
+# HS1SA-M Akıllı Duman Alarmı (Madde)
 
-HS1SA-M 是海曼推出的 **Matter over Thread** 智能烟雾报警器，采用光电式感烟技术，支持跨生态智能家居平台互联。
+HS1SA-M, Hyman tarafından piyasaya sürülen **Matter Over Thread** akıllı duman alarmıdır. Fotoelektrik duman algılama teknolojisini kullanır ve çapraz ekolojik akıllı ev platformu ara bağlantısını destekler.
 
-## 产品概述
+## Ürüne Genel Bakış
 
-- **产品类型**：智能烟雾报警器
-- **通信协议**：Matter over Thread
-- **认证标准**：EN 14604
-- **典型场景**：家庭、公寓、酒店等场所的火灾预警
+- **Ürün Tipi**: Akıllı Duman Alarmı
+- **İletişim Protokolü**: Konu Üzerinden Madde
+- **Sertifika Standardı**: EN 14604
+- **Tipik senaryolar**: Evlerde, apartmanlarda, otellerde vb. yangın uyarısı.
 
-## 技术参数
+## Teknik parametreler
 
-| 参数 | 值 |
-|------|-----|
-| 传感器类型 | 红外光电式 |
-| 通信协议 | Matter over Thread（IEEE 802.15.4） |
-| 工作频段 | 2.4 GHz |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | DC 3V（CR123A 锂电池） |
-| 电池寿命 | 约 3 年 |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤95% RH（无凝结） |
+| Parametre | Değer |
+|----------|-----|
+| Sensör tipi | Kızılötesi fotoelektrik |
+| İletişim Protokolü | Konu Üzerindeki Madde (IEEE 802.15.4) |
+| Çalışma frekansı bandı | 2,4 GHz |
+| Alarm ses basıncı | ≥85 dB (3 metre) |
+| Güç kaynağı yöntemi | DC 3V (CR123A lityum pil) |
+| Pil ömrü | Yaklaşık 3 yıl |
+| Çalışma sıcaklığı | -10°C ~ +50°C |
+| Çalışma nemi | ≤%95 bağıl nem (yoğuşmasız) |
 
-## 功能特性
+## Özellikler
 
-- 光电式烟雾检测，可探测慢燃和明火烟雾
-- 85 dB 高声光报警
-- 低电量提醒
-- 自检功能（一键测试）
-- 防拆报警
-- 远程静音
-- Matter 多生态跨平台互操作
+- Yavaş yanma ve açık alev dumanını tespit etmek için fotoelektrik duman algılama
+- 85 dB yüksek sesli ve ışıklı alarm
+- Düşük pil hatırlatıcısı
+- Kendi kendine test fonksiyonu (tek tıkla test)
+- Kurcalamaya karşı alarm
+- Uzaktan sessize alma
+- Matter'ın çoklu-ekolojik platformlar arası birlikte çalışabilirliği
 
-## 认证
+## Sertifika
 
-- EN 14604 认证
-- Matter 认证
+- EN 14604 sertifikası
+- Madde sertifikası
 
-## 兼容平台
+## Uyumlu platformlar
 
-| 平台 | 支持情况 |
-|------|----------|
-| Apple Home | ✅ 需 Thread 边界路由器 |
-| Google Home | ✅ 需 Thread 边界路由器 |
-| Amazon Alexa | ✅ 需 Thread 边界路由器 |
-| Home Assistant | ✅ Matter 认证 |
-| SmartThings | ✅ 需 Thread 边界路由器 |
+| Platformu | Destek |
+|----------|----------|
+| Apple Ana Sayfası | ✅ İplik sınırı yönlendiricisi gerekli |
+| Google Ana Sayfası | ✅ İplik sınırı yönlendiricisi gerekli |
+| Amazon Alexa | ✅ İplik sınırı yönlendiricisi gerekli |
+| Ev Asistanı | ✅ Madde Sertifikalı |
+| SmartThings | ✅ İş parçacığı sınır yönlendiricisi gerektirir |
 
-## 边界路由要求
+## Sınır yönlendirme gereksinimleri
 
-需 Thread 边界路由器（Border Router），如 Apple HomePod mini、Google Nest Hub 2代、Amazon Echo 4代 等。
+Apple HomePod mini, Google Nest Hub 2. nesil, Amazon Echo 4. nesil vb. gibi bir Thread border yönlendiricisi gereklidir.
 
-## 相关链接
+## İlgili bağlantılar
 
-- [产品类型：烟雾传感器](../../../产品类型/烟雾传感器/index.md)
-- [Matter 技术参数](../技术参数.md)
-- [支持型号列表](../支持型号列表.md)
+- [Ürün Tipi: Duman Sensörü](../../../Ürün Tipi/Duman Sensörü/index.md)
+- [Teknik parametrelerle ilgili](../teknik parametreler.md)
+- [Desteklenen model listesi](../Desteklenen model listesi.md)

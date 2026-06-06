@@ -1,28 +1,28 @@
 ---
 sidebar_position: 6
 ---
-# wM-Bus（无线计量总线）
+# wM-Bus (kablosuz ölçüm veri yolu)
 
-wM-Bus（Wireless Meter-Bus）是欧洲标准（EN 13757）定义的无线抄表协议，广泛用于水表、燃气表、电表、热量表等能源计量设备的远程数据采集。
+wM-Bus (Kablosuz Sayaç-Bus), Avrupa standardı (EN 13757) tarafından tanımlanan bir kablosuz sayaç okuma protokolüdür. Su sayaçları, gaz sayaçları, elektrik sayaçları ve ısı sayaçları gibi enerji ölçüm ekipmanlarının uzaktan veri toplanmasında yaygın olarak kullanılır.
 
-## 技术规格
+## Teknik özellikler
 
-| 特性 | 说明 |
+| Özellikler | Açıklama |
 |------|------|
-| 标准 | EN 13757 |
-| 工作频段 | 868 MHz（欧盟标准） |
-| 传输距离 | 开阔环境 100-500 米 |
-| 功耗 | 极低，电池续航可达 10 年 |
-| 主要应用 | 能源计量、集中抄表 |
+| Standartlar | EN 13757 |
+| Çalışma frekans bandı | 868 MHz (AB standardı) |
+| İletim mesafesi | Açık ortam 100-500 metre |
+| Güç tüketimi | Son derece düşük, 10 yıla kadar pil ömrü |
+| Ana uygulamalar | Enerji ölçümü, merkezi sayaç okuma |
 
-## 海曼与 wM-Bus
+## Heimann ve wM-Bus
 
-海曼利用 wM-Bus 技术为智慧燃气和智慧水务领域提供解决方案。wM-Bus 产品主要用于大中型工商业项目，配合海曼智慧消防平台使用。
+Heimann, akıllı gaz ve akıllı su sahalarına yönelik çözümler sunmak için wM-Bus teknolojisini kullanıyor. wM-Bus ürünleri esas olarak büyük ve orta ölçekli endüstriyel ve ticari projelerde kullanılmaktadır ve Haiman akıllı yangından korunma platformuyla birlikte kullanılmaktadır.
 
-## 适用场景
+## Uygulanabilir senaryolar
 
-- 集中式公寓/住宅燃气抄表
-- 商业建筑能耗监测
-- 智慧城市基础设施
+- Merkezi apartman/konut gaz sayacı okuması
+- Ticari bina enerji tüketiminin izlenmesi
+- Akıllı şehir altyapısı
 
-> **注意**：wM-Bus 是垂直行业协议，主要用于海曼的燃气与消防项目解决方案，不适用于普通家庭智能家居场景。
+> **Not**: wM-Bus, esas olarak Heiman'ın gaz ve yangından korunma proje çözümleri için kullanılan dikey bir endüstri protokolüdür ve sıradan ev akıllı ev senaryoları için uygun değildir.

@@ -1,42 +1,42 @@
 ---
 sidebar_position: 5
 ---
-# HS8SA-WiFi - 智能烟雾报警器（WiFi 美国版）
+# HS8SA-WiFi - Akıllı Duman Alarmı (WiFi ABD Versiyonu)
 
-## 概述
+## Genel Bakış
 
-HS8SA-WiFi 是海曼面向美国市场推出的 WiFi 智能烟雾报警器，采用光电式感烟技术，支持 WiFi 联网与独立工作双模式，通过 UL 217 认证。适用于家庭、公寓等居住场所的火灾安全防护。
+HS8SA-WiFi, Hyman tarafından ABD pazarı için piyasaya sürülen bir WiFi akıllı duman alarmıdır. Fotoelektrik duman algılama teknolojisini kullanır, WiFi ağını ve bağımsız çalışan ikili modları destekler ve UL 217 sertifikasını geçmiştir. Evlerde, apartmanlarda ve diğer yerleşim yerlerinde yangın güvenliği koruması için uygundur.
 
-## 技术规格
+## Teknik özellikler
 
-| 参数 | 值 |
-|------|-----|
-| 通信协议 | IEEE 802.11 b/g/n（2.4 GHz） |
-| 传感器类型 | 红外光电式 |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | 电池供电 |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤ 90% RH |
-| 安装方式 | 吸顶安装 |
+| Parametre | Değer |
+|----------|-----|
+| İletişim Protokolü | IEEE 802.11 b/g/n (2,4 GHz) |
+| Sensör tipi | Kızılötesi fotoelektrik |
+| Alarm ses basıncı | ≥85 dB (3 metre) |
+| Güç kaynağı yöntemi | Pille çalışan |
+| Çalışma sıcaklığı | -10°C ~ +50°C |
+| Çalışma nemi | ≤ %90 bağıl nem |
+| Kurulum yöntemi | Tavan kurulumu |
 
-## 功能特性
+## Özellikler
 
-- 光电式烟雾检测，可探测慢燃和明火产生的烟雾
-- WiFi 联网远程告警推送
-- 独立运行模式（断网时仍可本地声光报警）
-- 85 dB 高声光报警
-- 低电量提醒
-- 自检功能（一键测试）
-- 防拆报警
-- 支持远程静音
+- Yavaş yanıklardan ve açık alevlerden kaynaklanan dumanı tespit etmek için fotoelektrik duman algılama
+- WiFi ağı uzaktan alarmı itme
+- Bağımsız çalışma modu (ağ bağlantısı kesildiğinde yerel ses ve ışık alarmı yine de oluşabilir)
+- 85 dB yüksek sesli ve ışıklı alarm
+- Düşük pil hatırlatıcısı
+- Kendi kendine test fonksiyonu (tek tıkla test)
+- Kurcalamaya karşı alarm
+-Uzaktan sessize alma desteği
 
-## 认证标准
+## Sertifikasyon standartları
 
-- UL 217（烟雾报警器美国标准）
-- FCC
-- NFPA 72 合规
+- UL 217 (Duman Alarmları için Amerikan Standardı)
+-FCC
+- NFPA 72 Uyumluluğu
 
-## 关联文档
+## İlgili belgeler
 
-- 参见 [产品类型: 烟雾传感器](../../../产品类型/烟雾传感器/index.md)
-- 参见 [WiFi 技术参数](../技术参数.md)
+- Bkz. [Ürün Tipi: Duman Sensörü](../../../Ürün Tipi/Duman Sensörü/index.md)
+- Bkz. [WiFi teknik verileri](../teknik veriler.md)

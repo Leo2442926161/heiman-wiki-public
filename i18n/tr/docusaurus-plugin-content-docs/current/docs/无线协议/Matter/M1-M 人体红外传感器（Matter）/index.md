@@ -1,51 +1,51 @@
 ---
 sidebar_position: 6
 ---
-# M1-M 人体红外传感器（Matter）
+# M1-M İnsan Vücudu Kızılötesi Sensör (Madde)
 
-M1-M 是海曼推出的 **Matter over Thread** 人体红外传感器，集成 PIR 检测与光照度检测功能，适用于智能家居自动化场景。
+M1-M, Hyman tarafından piyasaya sürülen bir **Matter Over Thread** insan vücudu kızılötesi sensörüdür. PIR algılama ve aydınlatma algılama işlevlerini entegre eder ve akıllı ev otomasyon senaryoları için uygundur.
 
-## 产品概述
+## Ürüne Genel Bakış
 
-- **产品类型**：人体红外传感器
-- **通信协议**：Matter over Thread
-- **检测方式**：被动红外（PIR）+ 光照度检测
-- **典型场景**：人来灯亮、安防联动、环境自动化
+- **Ürün Türü**: İnsan vücudu kızılötesi sensörü
+- **İletişim Protokolü**: Konu Üzerinden Madde
+- **Algılama yöntemi**: Pasif kızılötesi (PIR) + aydınlatma algılama
+- **Tipik Senaryo**: İnsanlar geldiğinde ışıklar açılır, güvenlik bağlantısı, çevresel otomasyon
 
-## 技术参数
+## Teknik parametreler
 
-| 参数 | 值 |
-|------|-----|
-| 检测角度 | 110°（壁挂）/ 360°（吸顶） |
-| 检测距离 | ≤7 m（25°C） |
-| 光照度范围 | 0~1200 Lux |
-| 通信协议 | Matter over Thread（IEEE 802.15.4） |
-| 工作频段 | 2.4 GHz |
-| 供电方式 | DC 3V 锂电池 |
-| 电池寿命 | 约 1 年（Matter 模式） |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤95% RH（无凝结） |
+| Parametre | Değer |
+|----------|-----|
+| Algılama açısı | 110° (duvara monte) / 360° (tavana) |
+| Algılama mesafesi | ≤7 m (25°C) |
+| Aydınlatma aralığı | 0~1200 Lüks |
+| İletişim Protokolü | Konu Üzerindeki Madde (IEEE 802.15.4) |
+| Çalışma frekansı bandı | 2,4 GHz |
+| Güç kaynağı yöntemi | DC 3V lityum pil |
+| Pil ömrü | Yaklaşık 1 yıl (Madde modu) |
+| Çalışma sıcaklığı | -10°C ~ +50°C |
+| Çalışma nemi | ≤%95 bağıl nem (yoğuşmasız) |
 
-## 功能特性
+## Özellikler
 
-- 移动人体检测
-- 环境光照度检测
-- 检测距离 ≤7m
-- 支持壁挂或吸顶安装
-- Matter 多生态跨平台互操作
+- Mobil insan tespiti
+- Ortam aydınlatması algılama
+- Algılama mesafesi ≤7m
+- Destek duvar veya tavan kurulumu
+- Matter'ın çoklu-ekolojik platformlar arası birlikte çalışabilirliği
 
-## 兼容平台
+## Uyumlu platformlar
 
-| 平台 | 支持情况 |
-|------|----------|
-| Apple Home | ✅ 需 Thread 边界路由器 |
-| Google Home | ✅ 需 Thread 边界路由器 |
-| Amazon Alexa | ✅ 需 Thread 边界路由器 |
-| Home Assistant | ✅ |
-| SmartThings | ✅ 需 Thread 边界路由器 |
+| Platformu | Destek |
+|----------|----------|
+| Apple Ana Sayfası | ✅ İplik sınırı yönlendiricisi gerekli |
+| Google Ana Sayfası | ✅ İplik sınırı yönlendiricisi gerekli |
+| Amazon Alexa | ✅ İplik sınırı yönlendiricisi gerekli |
+| Ev Asistanı | ✅ |
+| SmartThings | ✅ İş parçacığı sınır yönlendiricisi gerektirir |
 
-## 相关链接
+## İlgili bağlantılar
 
-- [产品类型：人体红外传感器](../../../产品类型/人体红外传感器/index.md)
-- [Matter 技术参数](../技术参数.md)
-- [支持型号列表](../支持型号列表.md)
+- [Ürün Tipi: İnsan Vücudu Kızılötesi Sensör](../../../Ürün Tipi/İnsan Vücudu Kızılötesi Sensör/index.md)
+- [Teknik parametrelerle ilgili](../teknik parametreler.md)
+- [Desteklenen model listesi](../Desteklenen model listesi.md)

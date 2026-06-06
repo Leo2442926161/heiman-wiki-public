@@ -1,28 +1,28 @@
 ---
 sidebar_position: 3
 ---
-# Wi-Fi
+#Wi-Fi
 
-Wi-Fi 是普及度最高的无线网络协议，基于 IEEE 802.11 标准。海曼部分智能设备支持 Wi-Fi 连接，可直连路由器使用，无需额外网关。
+Wi-Fi, en popüler kablosuz ağ protokolüdür ve IEEE 802.11 standardını temel alır. Bazı Heiman akıllı cihazları Wi-Fi bağlantısını destekler ve ek bir ağ geçidine ihtiyaç duymadan doğrudan bir yönlendiriciye bağlanabilir.
 
-## 适用场景
+## Uygulanabilir senaryolar
 
-Wi-Fi 设备适合以下情况：
+Wi-Fi cihazları aşağıdaki durumlar için uygundur:
 
-- 网络基础设施完善，无需额外购买网关
-- 对功耗不敏感的设备（如智能插座）
-- 需要远程访问和云服务的场景
-- 已有成熟 Wi-Fi Mesh 网络覆盖的家庭
+- Eksiksiz ağ altyapısı, ek ağ geçitleri satın almanıza gerek yok
+- Güç tüketimine duyarlı olmayan cihazlar (akıllı prizler gibi)
+- Uzaktan erişim ve bulut hizmetleri gerektiren senaryolar
+- Evler halihazırda olgun Wi-Fi Mesh ağları kapsamındadır
 
-## 海曼 Wi-Fi 产品
+## Hyman Wi-Fi Ürünleri
 
-海曼提供支持 Wi-Fi 连接的产品：
+Heimann, Wi-Fi bağlantısını destekleyen ürünler sunar:
 
-- **智能插座 HS2SK-WiFi** — 功耗计量、远程开关
-- **智能网关** — 可通过 Wi-Fi 连接路由器
+- **Akıllı Soket HS2SK-WiFi** — Güç tüketimi ölçümü, uzaktan kumanda
+- **Akıllı Ağ Geçidi** — Wi-Fi aracılığıyla yönlendiriciye bağlanır
 
-## 注意事项
+## Notlar
 
-- Wi-Fi 传感器电池消耗比 Zigbee/Thread 快
-- 大量 Wi-Fi 设备可能影响网络稳定性
-- 海曼主力产品以 Zigbee / Matter over Thread 为主，Wi-Fi 产品线相对精简
+- Wi-Fi sensörünün pili Zigbee/Thread'a göre daha hızlı tükeniyor
+- Çok sayıda Wi-Fi cihazı ağ kararlılığını etkileyebilir
+- Haiman'ın ana ürünleri Zigbee/Matter over Thread'dir ve Wi-Fi ürün grubu nispeten modernleştirilmiştir

@@ -1,34 +1,34 @@
 ---
 sidebar_position: 9
 ---
-# Tuya（涂鸦智能）
+#Tuya (Tuya)
 
-Tuya（涂鸦智能）是全球领先的 IoT 云平台，海曼是其重要的生态合作伙伴之一。通过 Tuya 生态，海曼设备可以快速接入 1000+ 品牌的智能家居系统。
+Tuya (Tuya Smart) dünyanın önde gelen IoT bulut platformudur ve Heiman da onun önemli ekolojik ortaklarından biridir. Heiman cihazları, Tuya ekosistemi aracılığıyla 1.000'den fazla markanın akıllı ev sistemine hızla bağlanabiliyor.
 
-## 集成方式
+## Entegrasyon yöntemi
 
-### Smart Life App
+### Akıllı Yaşam Uygulaması
 
-海曼 Zigbee 设备可通过 Tuya 的 Smart Life App 进行配置和控制：
+Hyman Zigbee cihazları Tuya'nın Smart Life Uygulaması aracılığıyla yapılandırılabilir ve kontrol edilebilir:
 
-1. 准备 Tuya 兼容的 Zigbee 网关（如海曼 HS6GW 系列）
-2. 打开 Smart Life App → 添加设备
-3. 选择 Zigbee 网关 → 搜索子设备
-4. 将传感器进入配对模式即可自动发现
+1. Tuya uyumlu Zigbee ağ geçidini hazırlayın (Heiman HS6GW serisi gibi)
+2. Smart Life Uygulamasını açın → Cihaz ekle
+3. Zigbee ağ geçidini seçin → Alt cihazı ara
+4. Otomatik olarak keşfetmek için sensörü eşleştirme moduna getirin
 
-### 跨平台支持
+### Platformlar arası destek
 
-通过 Tuya 生态，海曼设备可与以下平台联动：
+Tuya ekosistemi aracılığıyla Heiman ekipmanları aşağıdaki platformlara bağlanabilir:
 
-- Amazon Alexa
-- Google Assistant
-- Apple Siri Shortcuts
-- IFTTT
+-Amazon Alexa
+- Google Asistan
+- Apple Siri Kısayolları
+-IFTTT
 
-### 本地化 Tuya 网关
+### Yerelleştirilmiş Tuya Ağ Geçidi
 
-通过 Tuya Local（如 Home Assistant 的 Tuya Local 集成），可在本地直接控制海曼设备，减少云端延迟。
+Home Assistant'ın Tuya Local entegrasyonu gibi Tuya Local ile Heiman cihazları doğrudan yerel olarak kontrol edilebilir ve böylece buluttaki gecikme azalır.
 
-## 适用范围
+## Uygulama kapsamı
 
-Tuya 兼容的海曼产品线包括：烟雾传感器、一氧化碳传感器、门磁、人体红外、温湿度、水浸、插座等 Zigbee 设备。
+Tuya'nın uyumlu Heiman ürün serisi şunları içerir: duman sensörleri, karbon monoksit sensörleri, kapı sensörleri, insan vücudu kızılötesi, sıcaklık ve nem, suya daldırma, prizler ve diğer Zigbee cihazları.

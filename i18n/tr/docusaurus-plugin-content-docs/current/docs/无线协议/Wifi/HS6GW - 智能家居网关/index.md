@@ -1,42 +1,42 @@
 ---
 sidebar_position: 6
 ---
-# HS6GW - 智能家居网关
+#HS6GW - Akıllı Ev Ağ Geçidi
 
-## 概述
+## Genel Bakış
 
-HS6GW 是海曼推出的智能家居网关，支持 WiFi + 以太网上行，内置 Zigbee 协调器，可管理最多 128 个 Zigbee 子设备。通过连接互联网实现远程访问与云服务，是海曼智能家居系统的核心枢纽。
+HS6GW, Heiman tarafından piyasaya sürülen, Wi-Fi + Ethernet uplink'i, yerleşik Zigbee koordinatörünü destekleyen ve 128'e kadar Zigbee alt cihazını yönetebilen bir akıllı ev ağ geçididir. İnternete bağlanarak uzaktan erişim ve bulut hizmetlerinin gerçekleştirilmesi, Haiman akıllı ev sisteminin temel merkezidir.
 
-## 技术规格
+## Teknik özellikler
 
-| 参数 | 值 |
-|------|-----|
-| 上行通信 | IEEE 802.11 b/g/n（2.4 GHz WiFi）+ 10/100M 以太网 |
-| 下行通信 | Zigbee 3.0（协调器模式） |
-| 最大子设备数 | 128 个 |
-| 供电方式 | DC 5V / 1A（Micro USB） |
-| 待机功耗 | ≤ 1W |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤ 90% RH |
-| 指示灯 | WiFi 状态 / 电源 / Zigbee 网络状态 |
-| 复位方式 | 按键复位 + 长按恢复出厂 |
+| Parametre | Değer |
+|----------|-----|
+| Yukarı bağlantı iletişimi | IEEE 802.11 b/g/n (2,4 GHz WiFi) + 10/100M Ethernet |
+| Downlink iletişimi | Zigbee 3.0 (koordinatör modu) |
+| Maksimum alt cihaz sayısı | 128 |
+| Güç kaynağı yöntemi | DC 5V / 1A (Mikro USB) |
+| Bekleme modunda güç tüketimi | ≤ 1W |
+| Çalışma sıcaklığı | -10°C ~ +50°C |
+| Çalışma nemi | ≤ %90 bağıl nem |
+| Gösterge Işığı | WiFi Durumu/Güç/Zigbee Ağ Durumu |
+| Yöntemi sıfırla | Düğme sıfırlama + fabrika ayarlarını geri yüklemek için uzun basma |
 
-## 功能特性
+## Özellikler
 
-- 双上行链路：WiFi 或以太网有线连接，可根据网络环境灵活选择
-- 支持远程访问：通过云端 App 随时随地查看设备状态
-- 本地场景联动：支持局域网内设备自动化运行（断网仍可用）
-- OTA 固件升级
-- 支持 Tuya / Smart Life 平台
-- 最多管理 128 个 Zigbee 子设备
-- 支持 Zigbee 网络自愈与路由优化
+- Çift uplink: WiFi veya Ethernet kablolu bağlantı, ağ ortamına göre esnek seçim
+-Uzaktan erişimi destekleyin: Bulut Uygulaması aracılığıyla cihaz durumunu istediğiniz zaman ve istediğiniz yerde kontrol edin
+- Yerel sahne bağlantısı: LAN içindeki ekipmanın otomatik çalışmasını destekler (bağlantı kesildiğinde hala kullanılabilir)
+-OTA ürün yazılımı yükseltmesi
+- Tuya / Akıllı Yaşam platformunu destekleyin
+- 128'e kadar Zigbee alt cihazını yönetin
+-Zigbee ağının kendi kendini iyileştirmesini ve yönlendirme optimizasyonunu destekleyin
 
-## 认证标准
+## Sertifikasyon standartları
 
-- CE / FCC
+-CE/FCC
 - RoHS
 
-## 关联文档
+## İlgili belgeler
 
-- 参见 [WiFi 技术参数](../技术参数.md)
-- 参见 [Zigbee 技术参数](../../Zigbee/技术参数.md)
+- Bkz. [WiFi teknik verileri](../teknik veriler.md)
+- Bkz. [Zigbee teknik parametreleri](../../Zigbee/teknik parametreler.md)

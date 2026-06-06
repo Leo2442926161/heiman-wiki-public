@@ -1,29 +1,29 @@
 ---
 sidebar_position: 4
 ---
-# Sub-1G（远距离通信）
+# Sub-1G (uzun mesafe iletişimi)
 
-Sub-1G 是一种工作在 1 GHz 以下频段的无线通信技术，具有超远传输距离和极低功耗的特点，非常适合需要大范围覆盖的物联网场景。
+Sub-1G, 1 GHz'in altındaki frekans bandında çalışan kablosuz iletişim teknolojisidir. Ultra uzun iletim mesafesi ve son derece düşük güç tüketimi özelliklerine sahiptir. Büyük ölçekli kapsama gerektiren IoT senaryoları için oldukça uygundur.
 
-## 特点
+## Özellikler
 
-| 特性 | 说明 |
+| Özellikler | Açıklama |
 |------|------|
-| 工作频段 | 433 MHz / 868 MHz（欧盟）/ 915 MHz（美国） |
-| 传输距离 | 开阔环境可达 1-3 公里 |
-| 穿透能力 | 优于 2.4 GHz，对墙体障碍物穿透力强 |
-| 功耗 | 极低，电池续航可达 5-10 年 |
-| 传输速率 | 低（适合小数据量场景） |
+| Çalışma frekansı bandı | 433 MHz / 868 MHz (AB) / 915 MHz (ABD) |
+| İletim mesafesi | Açık ortamda 1-3 kilometreye kadar |
+| Penetrasyon yeteneği | 2,4 GHz'den daha iyi, duvar engellerine güçlü nüfuz |
+| Güç tüketimi | Son derece düşük, pil ömrü 5-10 yıla ulaşabilir |
+| İletim hızı | Düşük (küçük veri hacmi senaryolarına uygun) |
 
-## 应用场景
+## Uygulama senaryoları
 
-- **独立式烟雾/CO 报警器**：楼栋内跨楼层互联
-- **大型建筑消防系统**：商场、酒店、学校
-- **智慧养老社区**：跨单元紧急呼叫
-- **Sub-1G + Wi-Fi 网关**：子设备通过 Sub-1G 通信，网关连接云端
+- **Bağımsız duman/CO alarmı**: binadaki katlar arasında birbirine bağlantılı
+- **Büyük bina yangın koruma sistemi**: alışveriş merkezleri, oteller, okullar
+- **Akıllı Yaşlı Yaşam Topluluğu**: Birimler arası acil durum çağrısı
+- **Sub-1G + Wi-Fi Ağ Geçidi**: Alt cihaz Sub-1G aracılığıyla iletişim kurar ve ağ geçidi buluta bağlanır
 
-## 海曼 Sub-1G 产品
+## Hyman Alt-1G Ürünleri
 
-海曼拥有多年的 Sub-1G 无线消防产品经验，包括独立式烟雾报警器 S1 系列等。这些设备可在没有互联网的情况下实现设备间互联组网。
+Hyman, S1 Serisi bağımsız duman alarmları da dahil olmak üzere Sub-1G kablosuz yangın koruma ürünleri konusunda uzun yıllara dayanan deneyime sahiptir. Bu cihazlar, internet olmadan cihazlar arasında ara bağlantı gerçekleştirebilir.
 
-> **注意**：Sub-1G 多用于海曼的消防安防产品线，智能家居产品线以 Zigbee / Matter 为主。
+> **Not**: Sub-1G çoğunlukla Heiman'ın yangın ve güvenlik ürün gruplarında kullanılır ve akıllı ev ürün grubu ise çoğunlukla Zigbee/Matter'dır.

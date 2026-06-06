@@ -1,35 +1,35 @@
 ---
 sidebar_position: 15
 ---
-# 跌倒探测器
+# düşme dedektörü
 
-跌倒探测器（Fall Down Detector）专为老年人设计，可自动检测摔倒事件并及时发出求救信号，是智慧养老解决方案的关键设备。
+Düşme Dedektörü yaşlılar için özel olarak tasarlanmıştır. Düşme olaylarını otomatik olarak algılayabilir ve zamanında bir tehlike sinyali gönderebilir. Akıllı yaşlı bakımı çözümleri için önemli bir ekipmandır.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 特点 |
+| Serisi | İletişim yöntemleri | Özellikler |
 |------|----------|------|
-| HS2FD | Zigbee | 智能跌倒检测，自动报警 |
+| HS2FD | Zigbee | Akıllı düşme algılama, otomatik alarm |
 
-## 核心技术
+## Temel Teknoloji
 
-采用**多传感器融合算法**，结合加速度计和陀螺仪数据，通过 AI 算法判断跌倒姿态，有效区分跌倒与正常活动（如坐下、弯腰），降低误报率。
+**Çok sensörlü füzyon algoritmasını** benimser, ivmeölçer ve jiroskop verilerini birleştirir ve düşme duruşunu belirlemek, düşmeleri normal aktivitelerden (oturma, eğilme gibi) etkili bir şekilde ayırt etmek ve yanlış alarm oranlarını azaltmak için AI algoritmasını kullanır.
 
-## 核心功能
+## Temel işlevler
 
-- 自动跌倒检测
-- 一键手动求救
-- 穿戴式设计（腰带夹或挂绳）
-- 低电量提醒
+- Otomatik düşme tespiti
+- Tek tıklamayla manuel olarak yardım çağırın
+- Giyilebilir tasarım (kemer klipsi veya kordon)
+- Düşük pil hatırlatıcısı
 
-## 适用场景
+## Uygulanabilir senaryolar
 
-- 居家养老：独居老人全天候守护
-- 养老机构：集中监护管理
-- 康复中心：术后患者跌倒风险监测
+- Yaşlılar için evde bakım: Yalnız yaşayan yaşlılar için 24 saat bakım
+- Huzurevleri: merkezi gözetim ve yönetim
+- Rehabilitasyon merkezi: Ameliyat sonrası hastalarda düşme riskinin izlenmesi
 
-## 联动方案
+## Bağlantı planı
 
-- 检测到跌倒 → 自动通知家人手机
-- 联动紧急按钮 → 双重求救保障
-- 联动海曼智慧养老平台 → 机构集中管理
+- Düşmeyi tespit edin → Aile üyelerini cep telefonlarından otomatik olarak bilgilendirin
+- Bağlantılı acil durum butonu → çift kurtarma koruması
+- Linkage Haiman Akıllı Yaşlı Bakım Platformu → Kurumların merkezi yönetimi

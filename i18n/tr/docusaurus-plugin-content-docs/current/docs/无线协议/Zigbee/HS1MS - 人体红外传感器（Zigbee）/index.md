@@ -1,33 +1,33 @@
 ---
 sidebar_position: 13
 ---
-# HS1MS - 人体红外传感器（Zigbee）
+#HS1MS - İnsan Vücudu Kızılötesi Sensör (Zigbee)
 
-## 概述
+## Genel Bakış
 
-HS1MS 是海曼推出的标准型 Zigbee 人体红外传感器（PIR），采用被动红外检测技术，可感知移动人体发出的红外热辐射，广泛应用于智能照明和安防场景。
+HS1MS, Hyman tarafından piyasaya sürülen standart bir Zigbee insan vücudu kızılötesi sensörüdür (PIR). Pasif kızılötesi algılama teknolojisini kullanır ve hareket eden bir insan vücudunun yaydığı kızılötesi ısı radyasyonunu algılayabilir. Akıllı aydınlatma ve güvenlik senaryolarında yaygın olarak kullanılır.
 
-## 技术规格
+## Teknik özellikler
 
-| 参数 | 值 |
-|------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 被动红外（PIR） |
-| 检测角度 | 110° |
-| 检测距离 | ≤7 m（25°C） |
-| 供电方式 | DC 3V 锂电池 |
-| 电池寿命 | 约 3 年 |
-| 工作温度 | -10°C ~ +50°C |
-| 安装方式 | 壁挂安装 |
+| Parametre | Değer |
+|----------|-----|
+| İletişim Protokolü | Zigbee 3.0 |
+| Sensör Tipi | Pasif Kızılötesi (PIR) |
+| Algılama açısı | 110° |
+| Algılama mesafesi | ≤7 m (25°C) |
+| Güç kaynağı yöntemi | DC 3V lityum pil |
+| Pil ömrü | Yaklaşık 3 yıl |
+| Çalışma sıcaklığı | -10°C ~ +50°C |
+| Kurulum yöntemi | Duvar montajı |
 
-## 功能特性
+## Özellikler
 
-- 移动人体检测
-- 110° 广角检测
-- 低电量提醒
-- 防拆报警
-- 支持场景联动
+- Mobil insan tespiti
+- 110° geniş açı algılama
+- Düşük pil hatırlatıcısı
+- Kurcalamaya karşı alarm
+- Sahne bağlantısını destekleyin
 
-## 关联文档
+## İlgili belgeler
 
-- 参见 [产品类型: 人体红外传感器](../../../产品类型/人体红外传感器/index.md)
+- Bkz. [Ürün Tipi: İnsan Vücudu Kızılötesi Sensörü](../../../Ürün Tipi/İnsan Vücudu Kızılötesi Sensörü/index.md)

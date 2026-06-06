@@ -1,45 +1,45 @@
 ---
 sidebar_position: 7
 ---
-# HS1CA-E - 智能一氧化碳报警器（Zigbee）
+# HS1CA-E - Akıllı Karbon Monoksit Alarmı (Zigbee)
 
-## 概述
+## Genel Bakış
 
-HS1CA-E 是海曼面向欧盟市场的 Zigbee 智能一氧化碳（CO）报警器，采用电化学传感器，可精准检测 0~1000 ppm 浓度的一氧化碳气体，已通过 EN 50291 认证。
+HS1CA-E, Hyman'ın AB pazarına yönelik Zigbee akıllı karbon monoksit (CO) alarmıdır. Bir elektrokimyasal sensör kullanır ve 0~1000 ppm konsantrasyonuna sahip karbon monoksit gazını doğru bir şekilde tespit edebilir. EN 50291 sertifikasını geçmiştir.
 
-## 技术规格
+## Teknik özellikler
 
-| 参数 | 值 |
-|------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 电化学 |
-| 检测范围 | 0 ~ 1000 ppm |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | DC 3V（CR123A） |
-| 传感器寿命 | 约 7 年 |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤95% RH |
-| 安装方式 | 壁挂安装 |
+| Parametre | Değer |
+|----------|-----|
+| İletişim Protokolü | Zigbee 3.0 |
+| Sensör Tipi | Elektrokimyasal |
+| Algılama aralığı | 0 ~ 1000 sayfa/dakika |
+| Alarm ses basıncı | ≥85 dB (3 metre) |
+| Güç kaynağı yöntemi | DC 3V (CR123A) |
+| Sensör ömrü | Yaklaşık 7 yıl |
+| Çalışma sıcaklığı | -10°C ~ +50°C |
+| Çalışma nemi | ≤%95 bağıl nem |
+| Kurulum yöntemi | Duvar montajı |
 
-## 功能特性
+## Özellikler
 
-- 高精度电化学 CO 传感器
-- 浓度分级报警（声光提示）
-- 85 dB 报警声
-- 低电量提醒
-- 传感器寿命到期提醒
-- 自检功能
-- OTA 固件升级
+- Yüksek hassasiyetli elektrokimyasal CO sensörü
+- Konsantrasyon dereceli alarm (sesli ve ışıklı uyarı)
+- 85 dB alarm sesi
+- Düşük pil hatırlatıcısı
+- Sensör ömrünün sona ermesi hatırlatıcısı
+- Kendi kendine test fonksiyonu
+-OTA ürün yazılımı yükseltmesi
 
-## 认证标准
+## Sertifikasyon standartları
 
-- EN 50291（一氧化碳报警器欧洲标准）
-- CE / RED
+- EN 50291 (Karbon monoksit alarmları için Avrupa standardı)
+-CE/KIRMIZI
 
-## 适用配件
+## Uygulanabilir aksesuarlar
 
-- CR123A 电池
+-CR123A pil
 
-## 关联文档
+## İlgili belgeler
 
-- 参见 [产品类型: 一氧化碳传感器](../../../产品类型/一氧化碳传感器/index.md)
+- Bkz. [Ürün Tipi: Karbon Monoksit Sensörü](../../../Ürün Tipi/Karbon Monoksit Sensörü/index.md)

@@ -1,61 +1,61 @@
 ---
 sidebar_position: 4
 ---
-# S1 系列 - 独立式烟雾报警器（Sub-1G）
+# S1 Serisi - Bağımsız Duman Alarmı (Sub-1G)
 
-## 概述
+## Genel Bakış
 
-S1 系列是海曼推出的独立式 Sub-1G 烟雾报警器，工作在 433 MHz / 868 MHz 频段，采用光电式感烟技术，通过 EN 14604 认证。无需网关、无需互联网，设备间通过 Sub-1G 射频直接互联，任一设备触发报警时同组所有设备同步报警，适用于楼栋、商场、酒店等大范围消防联动场景。
+S1 serisi, Hyman tarafından piyasaya sürülen bağımsız bir Sub-1G duman alarmıdır. 433 MHz / 868 MHz frekans bandında çalışır, fotoelektrik duman algılama teknolojisini kullanır ve EN 14604 sertifikasyonunu geçmiştir. Ağ geçidi veya İnternet gerekmez. Cihazlar Sub-1G radyo frekansı aracılığıyla doğrudan birbirine bağlanır. Herhangi bir cihaz alarm tetiklediğinde aynı gruptaki tüm cihazlar aynı anda alarm verecektir. Binalar, alışveriş merkezleri ve oteller gibi büyük ölçekli yangın bağlantı senaryoları için uygundur.
 
-## 技术规格
+## Teknik özellikler
 
-| 参数 | 值 |
-|------|-----|
-| 通信协议 | 433 MHz / 868 MHz Sub-1G（视市场区域） |
-| 传感器类型 | 红外光电式 |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | 电池供电（CR123A / AA 锂电池） |
-| 电池寿命 | ≥ 5 年 |
-| 通信距离 | 空旷环境约 1~3 公里 |
-| 组网容量 | 单组最多支持 50+ 节点 |
-| 互联方式 | 无线射频互联（无需网关） |
-| 工作温度 | -10°C ~ +55°C |
-| 工作湿度 | ≤ 95% RH |
-| 安装方式 | 吸顶安装 |
+| Parametre | Değer |
+|----------|-----|
+| İletişim Protokolü | 433 MHz / 868 MHz Sub-1G (pazar alanına bağlı olarak) |
+| Sensör tipi | Kızılötesi fotoelektrik |
+| Alarm ses basıncı | ≥85 dB (3 metre) |
+| Güç kaynağı yöntemi | Pille çalışan (CR123A / AA lityum pil) |
+| Pil ömrü | ≥ 5 yıl |
+| İletişim mesafesi | Açık ortamda yaklaşık 1~3 kilometre |
+| Ağ kapasitesi | Tek bir grup 50'den fazla düğümü destekler |
+| Ara bağlantı yöntemi | Kablosuz radyo frekansı ara bağlantısı (ağ geçidi gerekmez) |
+| Çalışma sıcaklığı | -10°C ~ +55°C |
+| Çalışma nemi | ≤ %95 bağıl nem |
+| Kurulum yöntemi | Tavan kurulumu |
 
-## 系列型号
+## Seri modeli
 
-| 型号 | 说明 |
+| Modeli | Açıklama |
 |------|------|
-| S1-SA | 基础型，支持无线互联 |
-| S1-SA-P | 带拍照功能版本 |
-| S1-SA-T | 高温联动版本 |
-| S1-SA-RF | 射频互联型 |
+| S1-SA | Temel tip, kablosuz ara bağlantıyı destekler |
+| S1-SA-P | Kamera fonksiyonlu versiyon |
+| S1-SA-T | Yüksek sıcaklık bağlantılı versiyon |
+| S1-SA-RF | RF ara bağlantı türü |
 
-## 功能特性
+## Özellikler
 
-- 光电式烟雾检测，可探测慢燃和明火产生的烟雾
-- 无线互联报警：同一网络内任一设备触发，所有设备同步声光报警
-- 独立工作模式：无需网关、无需互联网，设备间直接通信
-- 85 dB 高声光报警
-- 低电量提醒
-- 自检功能（一键测试）
-- 防拆报警
-- 支持远程静音
-- 超低功耗设计，电池续航 5 年以上
+- Yavaş yanıklardan ve açık alevlerden kaynaklanan dumanı tespit etmek için fotoelektrik duman algılama
+- Kablosuz ara bağlantı alarmı: aynı ağdaki herhangi bir cihaz tarafından tetiklenir, tüm cihazlar aynı anda alarm çalar ve yanar
+- Bağımsız çalışma modu: ağ geçidi yok, İnternet gerekmez, cihazlar arasında doğrudan iletişim
+- 85 dB yüksek sesli ve ışıklı alarm
+- Düşük pil hatırlatıcısı
+- Kendi kendine test fonksiyonu (tek tıkla test)
+- Kurcalamaya karşı alarm
+-Uzaktan sessize alma desteği
+- Ultra düşük güç tüketimi tasarımı, 5 yıldan fazla pil ömrü
 
-## 认证标准
+## Sertifikasyon standartları
 
-- EN 14604（烟雾报警器欧洲标准）
-- CE / RED
-- CPR（欧盟建筑产品法规）
+- EN 14604 (Duman alarmları için Avrupa standardı)
+-CE/KIRMIZI
+- CPR (AB Yapı Ürünleri Yönetmeliği)
 
-## 适用配件
+## Uygulanabilir aksesuarlar
 
-- S1-RM 无线中继器（扩展通信距离）
-- S1-RC 遥控器（测试 / 静音 / 复位）
+- S1-RM kablosuz tekrarlayıcı (uzatılmış iletişim mesafesi)
+- S1-RC uzaktan kumanda (test/sessiz/sıfırlama)
 
-## 关联文档
+## İlgili belgeler
 
-- 参见 [产品类型: 烟雾传感器](../../../产品类型/烟雾传感器/index.md)
-- 参见 [Sub-1G 技术参数](../技术参数.md)
+- Bkz. [Ürün Tipi: Duman Sensörü](../../../Ürün Tipi/Duman Sensörü/index.md)
+- Bkz. [Alt 1G teknik parametreler](../teknik parametreler.md)

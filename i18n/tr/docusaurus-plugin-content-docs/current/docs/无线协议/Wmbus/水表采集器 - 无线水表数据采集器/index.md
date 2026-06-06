@@ -1,46 +1,46 @@
 ---
 sidebar_position: 5
 ---
-# 水表采集器 - 无线水表数据采集器
+# Su sayacı toplayıcı - kablosuz su sayacı veri toplayıcı
 
-## 概述
+## Genel Bakış
 
-水表采集器是海曼面向智慧水务领域推出的 wM-Bus 无线数据采集设备，工作于 868 MHz 频段（EN 13757 标准），支持脉冲计数与无线数据传输，用于远程读取水表计量数据并上传至集中抄表系统。适用于公寓、住宅小区、商业建筑与工业用水监测等场景。
+Su sayacı toplayıcı, Hyman tarafından akıllı su sahası için piyasaya sürülen bir wM-Bus kablosuz veri toplama cihazıdır. 868 MHz frekans bandında (EN 13757 standardı) çalışır ve darbe sayımı ve kablosuz veri iletimini destekler. Su sayacı ölçüm verilerinin uzaktan okunması ve merkezi sayaç okuma sistemine yüklenmesi amacıyla kullanılır. Apartmanlar, yerleşim alanları, ticari binalar ve endüstriyel su izleme gibi senaryolar için uygundur.
 
-## 技术规格
+## Teknik özellikler
 
-| 参数 | 值 |
-|------|-----|
-| 通信协议 | wM-Bus（EN 13757） |
-| 工作频段 | 868 MHz（欧洲 SRD 频段） |
-| 传输速率 | 4.8 kbps / 16.384 kbps / 100 kbps（T/S/R 模式） |
-| 通信距离 | 室内约 100~300 米，空旷约 500~1000 米 |
-| 传感器接口 | 干簧管 / 霍尔传感器脉冲输入 |
-| 供电方式 | 工业锂电池（ER18505 / ER26500） |
-| 电池寿命 | 6~10 年（典型上报 1 次/天） |
-| 工作温度 | -20°C ~ +60°C |
-| 工作湿度 | ≤ 95% RH |
-| 防护等级 | IP65 ~ IP68（视安装环境） |
-| 数据加密 | AES-128（可选） |
+| Parametre | Değer |
+|----------|-----|
+| İletişim protokolü | wM-Bus (EN 13757) |
+| Çalışma frekansı bandı | 868 MHz (Avrupa SRD bandı) |
+| İletim hızı | 4,8 kbps / 16,384 kbps / 100 kbps (T/S/R modu) |
+| İletişim mesafesi | Kapalı alanda yaklaşık 100~300 metre, açık alanda yaklaşık 500~1000 metre |
+| Sensör arayüzü | Reed anahtarı / Hall sensörü darbe girişi |
+| Güç kaynağı yöntemi | Endüstriyel lityum pil (ER18505 / ER26500) |
+| Pil ömrü | 6~10 yıl (genellikle günde 1 kez rapor edilir) |
+| Çalışma sıcaklığı | -20°C ~ +60°C |
+| Çalışma nemi | ≤ %95 bağıl nem |
+| Koruma seviyesi | IP65 ~ IP68 (kurulum ortamına bağlı olarak) |
+| Veri şifreleme | AES-128 (isteğe bağlı) |
 
-## 功能特性
+## Özellikler
 
-- 支持干簧管 / 霍尔传感器脉冲采集
-- 脉冲计数与流量换算，自动上报用量数据
-- 支持 wM-Bus S/T/R 三种工作模式
-- 低功耗深度休眠，超长续航
-- AES-128 数据加密，保障通信安全
-- 支持远程固件升级
-- 断线重连与数据补传机制
-- 支持 EN 13757-3 应用层协议
-- 可配合 HS1-CM 采集器 / HS1-GW 网关集中上传
+- Reed anahtarı/Hall sensörü darbe toplamayı destekler
+- Darbe sayımı ve akış dönüşümü, kullanım verilerinin otomatik raporlanması
+-wM-Bus S/T/R üç çalışma modunu destekleyin
+- Düşük güç tüketimi, derin uyku, uzun pil ömrü
+- İletişim güvenliğini sağlamak için AES-128 veri şifrelemesi
+-Uzaktan firmware yükseltmesini destekleyin
+- Bağlantı kesildiğinde yeniden bağlanma ve veri yeniden iletim mekanizması
+- EN 13757-3 uygulama katmanı protokolünü destekler
+- Merkezi yükleme için HS1-CM toplayıcı / HS1-GW ağ geçidi ile kullanılabilir
 
-## 认证标准
+## Sertifikasyon standartları
 
-- EN 13757-4（无线 M-Bus 物理层）
-- EN 13757-3（M-Bus 应用层）
-- CE / RED
+- EN 13757-4 (Kablosuz M-Bus fiziksel katmanı)
+- EN 13757-3 (M-Bus uygulama katmanı)
+-CE/KIRMIZI
 
-## 关联文档
+## İlgili belgeler
 
-- 参见 [wM-Bus 技术参数](../技术参数.md)
+- Bkz. [wM-Bus teknik verileri](../teknik veriler.md)

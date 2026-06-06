@@ -1,38 +1,38 @@
 ---
 sidebar_position: 1
 ---
-# Matter
+#Madde
 
-Matter（原名 Project CHIP）是 CSA 连接标准联盟推出的智能家居互联标准，旨在打破品牌壁垒，实现跨生态的互操作性。
+Matter (eski adıyla Project CHIP), CSA Bağlantı Standartları İttifakı tarafından başlatılan, marka engellerini ortadan kaldırmayı ve çapraz ekolojik birlikte çalışabilirliği sağlamayı amaçlayan bir akıllı ev ara bağlantı standardıdır.
 
-## 海曼与 Matter
+## Heyman ve Matter
 
-海曼是 Matter 协议的早期采用者，推出了**全球首批 Matter 认证的一氧化碳报警器**。海曼的 Matter 设备均采用 **Matter over Thread** 方案。
+Hyman, Matter protokolünü ilk benimseyenlerden biri oldu ve **dünyanın ilk Matter sertifikalı karbon monoksit alarmlarını** piyasaya sürdü. Hyman'ın Matter cihazlarının tümü **Matter over Thread** çözümünü kullanır.
 
-## 技术特点
+## Teknik özellikler
 
-| 特性 | 说明 |
+| Özellikler | Açıklama |
 |------|------|
-| 底层协议 | Thread（低功耗 Mesh 网络） |
-| 网络拓扑 | Mesh 自愈网络，设备越多覆盖越广 |
-| 功耗 | 极低，电池供电可运行 1-3 年 |
-| 安全性 | 支持 AES-128-CCM 加密，设备需要认证 |
-| 互操作性 | 跨 Apple HomeKit、Google Home、Amazon Alexa、Home Assistant 等 |
+| Temel protokol | Konu (düşük güçlü Mesh ağı) |
+| Ağ topolojisi | Kendi kendini iyileştiren ağ ağı, ne kadar çok cihaz olursa kapsama alanı da o kadar geniş olur |
+| Güç tüketimi | Son derece düşük, pil gücüyle 1-3 yıl çalışabilir |
+| Güvenlik | AES-128-CCM şifrelemeyi destekler, cihaz kimlik doğrulaması gerekir |
+| Birlikte Çalışabilirlik | Apple HomeKit, Google Home, Amazon Alexa, Ev Asistanı ve daha fazlası |
 
-## 边界路由器要求
+## Sınır yönlendirici gereksinimleri
 
-使用 Matter over Thread 设备需要 Thread 边界路由器（Border Router）：
+Matter over Thread aygıtlarının kullanılması bir Thread border router gerektirir:
 
-- Apple HomePod mini / HomePod 2代 / Apple TV 4K
-- Google Nest Hub 2代 / Nest Hub Max
-- Amazon Echo 4代
-- Home Assistant Green + Connect ZBT-2
-- Homey Pro
+- Apple HomePod mini / HomePod 2. nesil / Apple TV 4K
+- Google Nest Hub 2. Nesil / Nest Hub Max
+-Amazon Echo 4. nesil
+- Ev Asistanı Yeşil + ZBT-2'yi bağlayın
+- Ev gibi Pro
 
-## 海曼 Matter 认证产品
+## Hyman Matter Sertifikalı Ürünler
 
-- 智能烟雾报警器（美国版/欧盟版）
-- 智能一氧化碳报警器（美国版/欧盟版）
-- 人体红外传感器 M1-M
-- 水浸探测器 L1-M
-- 温湿度传感器 H1-M
+- Akıllı duman alarmı (ABD versiyonu/AB versiyonu)
+- Akıllı karbon monoksit alarmı (ABD versiyonu/AB versiyonu)
+- İnsan vücudu kızılötesi sensörü M1-M
+- Suya daldırma dedektörü L1-M
+- Sıcaklık ve nem sensörü H1-M
