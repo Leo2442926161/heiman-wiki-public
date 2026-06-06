@@ -1,6 +1,6 @@
 {
   "homepage.cta": {
-    "message": "了解海曼 →"
+    "message": "하이만에 대해 알아보기 →"
   },
   "feature.fire.title": {
     "message": "智慧消防"
@@ -12,13 +12,13 @@
     "message": "智慧燃气"
   },
   "feature.gas.desc": {
-    "message": "工业及商业级燃气泄漏报警系统，高精度气体检测，实时远程监控与联动切断。"
+    "message": "산업용 및 상업용 가스 누출 경보 시스템, 고정밀 가스 감지, 실시간 원격 모니터링 및 연동 차단."
   },
   "feature.elderly.title": {
     "message": "智慧养老"
   },
   "feature.elderly.desc": {
-    "message": "跌倒检测、一键呼叫、多终端联动通知，为长者提供全方位的安全保障。"
+    "message": "넘어짐 감지, 원클릭 호출, 다중 단말기 연동 알림 기능을 통해 노인을 위한 종합적인 안전 보호 기능을 제공합니다."
   },
   "theme.ErrorPageContent.title": {
     "message": "페이지에 오류가 발생하였습니다.",

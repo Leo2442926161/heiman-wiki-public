@@ -4,7 +4,7 @@
     "description": "The title of the footer links column with title=文档 in the footer"
   },
   "link.title.产品与方案": {
-    "message": "产品与方案",
+    "message": "제품 및 솔루션",
     "description": "The title of the footer links column with title=产品与方案 in the footer"
   },
   "link.title.更多": {
@@ -28,11 +28,11 @@
     "description": "The label of footer link with label=智慧燃气 linking to https://www.heiman.com.cn/product/?type=list&classid=4"
   },
   "link.item.label.智慧养老": {
-    "message": "智慧养老",
+    "message": "스마트한 노인돌봄",
     "description": "The label of footer link with label=智慧养老 linking to https://www.heiman.com.cn/product/?type=list&classid=34"
   },
   "link.item.label.博客": {
-    "message": "博客",
+    "message": "블로그",
     "description": "The label of footer link with label=博客 linking to /blog"
   },
   "link.item.label.联系我们": {
@@ -40,7 +40,7 @@
     "description": "The label of footer link with label=联系我们 linking to https://www.heiman.com.cn/contactus/"
   },
   "copyright": {
-    "message": "Copyright © 2026 深圳市海曼科技股份有限公司",
+    "message": "저작권 © 2026 심천 하이만 기술 유한 회사",
     "description": "The footer copyright"
   }
 }

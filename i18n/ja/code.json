@@ -1,21 +1,21 @@
 {
   "homepage.cta": {
-    "message": "了解海曼 →"
+    "message": "ハイマンについて知る→"
   },
   "feature.fire.title": {
-    "message": "智慧消防"
+    "message": "スマート防火"
   },
   "feature.fire.desc": {
-    "message": "烟雾报警器、一氧化碳报警器等消防传感产品，支持蜂窝网络连接与多平台对接，守护生命财产安全。"
+    "message": "煙警報器や一酸化炭素警報器などの火災感知製品は、携帯電話ネットワーク接続とマルチプラットフォーム ドッキングをサポートし、生​​命と財産の安全を保護します。"
   },
   "feature.gas.title": {
     "message": "智慧燃气"
   },
   "feature.gas.desc": {
-    "message": "工业及商业级燃气泄漏报警系统，高精度气体检测，实时远程监控与联动切断。"
+    "message": "産業および商業グレードのガス漏れ警報システム、高精度のガス検知、リアルタイムの遠隔監視、連動遮断機能。"
   },
   "feature.elderly.title": {
-    "message": "智慧养老"
+    "message": "賢い高齢者介護"
   },
   "feature.elderly.desc": {
     "message": "跌倒检测、一键呼叫、多终端联动通知，为长者提供全方位的安全保障。"
@@ -41,7 +41,7 @@
     "description": "The ARIA label for the blog pagination"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "新しい記事",
+    "message": "新しいメモ",
     "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
   "theme.blog.paginator.olderEntries": {
@@ -53,7 +53,7 @@
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "新しい記事",
+    "message": "新しいメモ",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
@@ -77,7 +77,7 @@
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "ダークモードを切り替える(現在は{mode})",
+    "message": "ダークモードをカットできる(今は{mode})",
     "description": "The ARIA label for the color mode toggle"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
@@ -108,11 +108,11 @@
     "message": "バージョン: {versionLabel}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "これはリリース前のバージョン{versionLabel}の{siteTitle}のドキュメントです。",
+    "message": "これはリリース前のバージョン {versionLabel} の {siteTitle} のドキュメントです。",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "これはバージョン{versionLabel}の{siteTitle}のドキュメントで現在はメンテナンスされていません",
+    "message": "これはバージョン{versionLabel}の{siteTitle}のドキュメントで今はメンテナンスされていません",
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
@@ -140,11 +140,11 @@
     "description": "The words used to describe by who the page has been last updated"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "{atDate}{byUser}最終更新",
+    "message": "{atDate}{byUser} の最終更新",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "他のバージョン",
+    "message": "彼のバージョン",
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.NotFound.title": {
@@ -176,11 +176,11 @@
     "description": "The default label used for the Tip admonition (:::tip)"
   },
   "theme.admonition.warning": {
-    "message": "警告",
+    "message": "警告する",
     "description": "The default label used for the Warning admonition (:::warning)"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "閉じる",
+    "message": "閉じてください",
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.sidebar.navAriaLabel": {
@@ -192,7 +192,7 @@
     "description": "The ARIA label to expand the sidebar category"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "'{label}'の目次を隠す",
+    "message": "「{label}」のカタログを隠す",
     "description": "The ARIA label to collapse the sidebar category"
   },
   "theme.IconExternalLink.ariaLabel": {
@@ -204,7 +204,7 @@
     "description": "The ARIA label for the main navigation"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "他の言語",
+    "message": "彼の言葉",
     "description": "The label for the mobile language switcher dropdown"
   },
   "theme.NotFound.p1": {
@@ -212,7 +212,7 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "このページにリンクしているサイトの所有者にリンクが壊れていることを伝えてください",
+    "message": "このページにリンクしているサイトのオーナーにリンクが壊れていることを伝えてください",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
@@ -228,7 +228,7 @@
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "約{readingTime}分",
+    "message": "約 {readingTime} 分",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.CodeBlock.copy": {
@@ -288,15 +288,15 @@
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "サイドバーを開く",
+    "message": "サイドバーを开く",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.blog.post.plurals": {
-    "message": "{count}件",
+    "message": "{count} 個",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
-    "message": "「{tagName}」タグの記事が{nPosts}件あります",
+    "message": "「{tagName}」タグの记事が{nPosts}片あります",
     "description": "The title of the page for a blog tag"
   },
   "theme.blog.author.pageTitle": {
@@ -308,7 +308,7 @@
     "description": "The title of the authors page"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "すべての著者を見る",
+    "message": "すべての著者をみる",
     "description": "The label of the link targeting the blog authors page"
   },
   "theme.blog.author.noPosts": {
@@ -320,7 +320,7 @@
     "description": "The unlisted content banner title"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "このページは非公開です。 検索対象外となり、このページのリンクに直接アクセスできるユーザーのみに公開されます。",
+    "message": "このページは非公開です。 検毾徾外となり、このページのリンクに直接アクセスできるユーザーのみに開かれます。",
     "description": "The unlisted content banner message"
   },
   "theme.contentVisibility.draftBanner.title": {
@@ -328,7 +328,7 @@
     "description": "The draft content banner title"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "このページは下書きです。開発環境でのみ表示され、本番環境のビルドには含まれません。",
+    "message": "このページは以下です。開始環境のみは「される」を意味し、現在の環境のビルドには「まれません」が含まれます。",
     "description": "The draft content banner message"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
@@ -336,7 +336,7 @@
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "もう一度試してください",
+    "message": "一度試してみてください",
     "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
   "theme.common.skipToMainContent": {

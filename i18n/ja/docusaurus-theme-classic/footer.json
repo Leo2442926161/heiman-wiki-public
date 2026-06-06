@@ -20,19 +20,19 @@
     "description": "The label of footer link with label=产品类型 linking to /docs/产品类型/烟雾传感器"
   },
   "link.item.label.智慧消防": {
-    "message": "智慧消防",
+    "message": "スマート防火",
     "description": "The label of footer link with label=智慧消防 linking to https://www.heiman.com.cn/product/?type=list&classid=3"
   },
   "link.item.label.智慧燃气": {
-    "message": "智慧燃气",
+    "message": "スマートガス",
     "description": "The label of footer link with label=智慧燃气 linking to https://www.heiman.com.cn/product/?type=list&classid=4"
   },
   "link.item.label.智慧养老": {
-    "message": "智慧养老",
+    "message": "賢い高齢者介護",
     "description": "The label of footer link with label=智慧养老 linking to https://www.heiman.com.cn/product/?type=list&classid=34"
   },
   "link.item.label.博客": {
-    "message": "博客",
+    "message": "ブログ",
     "description": "The label of footer link with label=博客 linking to /blog"
   },
   "link.item.label.联系我们": {
@@ -40,7 +40,7 @@
     "description": "The label of footer link with label=联系我们 linking to https://www.heiman.com.cn/contactus/"
   },
   "copyright": {
-    "message": "Copyright © 2026 深圳市海曼科技股份有限公司",
+    "message": "著作権 © 2026 深セン海満技術有限公司",
     "description": "The footer copyright"
   }
 }

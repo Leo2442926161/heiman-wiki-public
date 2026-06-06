@@ -68,7 +68,7 @@
     "description": "The label for category 'Wi-Fi' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Sub-1G（远距离通信）": {
-    "message": "Sub-1G（远距离通信）",
+    "message": "Sub-1G（長距離通信）",
     "description": "The label for category 'Sub-1G（远距离通信）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Z-Wave": {
@@ -80,7 +80,7 @@
     "description": "The label for category 'wM-Bus（无线计量总线）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.产品类型": {
-    "message": "产品类型",
+    "message": "製品タイプ",
     "description": "The label for category '产品类型' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.烟雾传感器": {
@@ -96,15 +96,15 @@
     "description": "The label for category '门磁传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.人体红外传感器": {
-    "message": "人体红外传感器",
+    "message": "人体赤外線センサー",
     "description": "The label for category '人体红外传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.人体存在传感器": {
-    "message": "人体存在传感器",
+    "message": "人感センサー",
     "description": "The label for category '人体存在传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.温湿度传感器": {
-    "message": "温湿度传感器",
+    "message": "温湿度センサー",
     "description": "The label for category '温湿度传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.火灾温感传感器": {
@@ -140,7 +140,7 @@
     "description": "The label for category '紧急按钮' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.跌倒探测器": {
-    "message": "跌倒探测器",
+    "message": "落下検知器",
     "description": "The label for category '跌倒探测器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能门铃": {

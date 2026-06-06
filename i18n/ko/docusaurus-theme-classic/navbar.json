@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "海曼科技",
+    "message": "하이만테크놀로지",
     "description": "The title in the navbar"
   },
   "logo.alt": {
@@ -8,15 +8,15 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.文档中心": {
-    "message": "文档中心",
+    "message": "문서 센터",
     "description": "Navbar item with label 文档中心"
   },
   "item.label.博客": {
-    "message": "博客",
+    "message": "블로그",
     "description": "Navbar item with label 博客"
   },
   "item.label.官网": {
-    "message": "官网",
+    "message": "공식 홈페이지",
     "description": "Navbar item with label 官网"
   }
 }

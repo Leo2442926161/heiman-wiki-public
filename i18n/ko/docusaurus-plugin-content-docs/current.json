@@ -40,7 +40,7 @@
     "description": "The label for category 'Amazon Alexa' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Tuya（涂鸦智能）": {
-    "message": "Tuya（涂鸦智能）",
+    "message": "투야 (투야 스마트)",
     "description": "The label for category 'Tuya（涂鸦智能）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Hubitat": {
@@ -68,7 +68,7 @@
     "description": "The label for category 'Wi-Fi' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Sub-1G（远距离通信）": {
-    "message": "Sub-1G（远距离通信）",
+    "message": "Sub-1G(장거리 통신)",
     "description": "The label for category 'Sub-1G（远距离通信）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Z-Wave": {
@@ -96,11 +96,11 @@
     "description": "The label for category '门磁传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.人体红外传感器": {
-    "message": "人体红外传感器",
+    "message": "인체 적외선 센서",
     "description": "The label for category '人体红外传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.人体存在传感器": {
-    "message": "人体存在传感器",
+    "message": "인간 존재 센서",
     "description": "The label for category '人体存在传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.温湿度传感器": {
@@ -120,11 +120,11 @@
     "description": "The label for category '空气质量传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.可燃气体探测器": {
-    "message": "可燃气体探测器",
+    "message": "가연성 가스 감지기",
     "description": "The label for category '可燃气体探测器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能插座": {
-    "message": "智能插座",
+    "message": "스마트 소켓",
     "description": "The label for category '智能插座' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.声光报警器（警号）": {
@@ -132,15 +132,15 @@
     "description": "The label for category '声光报警器（警号）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.振动传感器": {
-    "message": "振动传感器",
+    "message": "진동센서",
     "description": "The label for category '振动传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.紧急按钮": {
-    "message": "紧急按钮",
+    "message": "패닉 버튼",
     "description": "The label for category '紧急按钮' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.跌倒探测器": {
-    "message": "跌倒探测器",
+    "message": "추락 감지기",
     "description": "The label for category '跌倒探测器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能门铃": {
@@ -148,7 +148,7 @@
     "description": "The label for category '智能门铃' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能网关": {
-    "message": "智能网关",
+    "message": "스마트 게이트웨이",
     "description": "The label for category '智能网关' in sidebar 'tutorialSidebar'"
   }
 }
