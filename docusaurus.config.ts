@@ -14,7 +14,7 @@ const config: Config = {
   },
 
   url: 'https://heiman-wiki.github.io',
-  baseUrl: '/',
+  baseUrl: '/heiman-wiki-public/',
 
   organizationName: 'heiman-wiki',
   projectName: 'heiman-wiki',
