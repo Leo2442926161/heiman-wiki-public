@@ -1,0 +1,154 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.生态平台": {
+    "message": "生态平台",
+    "description": "The label for category '生态平台' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Home Assistant": {
+    "message": "Home Assistant",
+    "description": "The label for category 'Home Assistant' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Zigbee2MQTT": {
+    "message": "Zigbee2MQTT",
+    "description": "The label for category 'Zigbee2MQTT' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Homey": {
+    "message": "Homey",
+    "description": "The label for category 'Homey' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.OpenHAB": {
+    "message": "OpenHAB",
+    "description": "The label for category 'OpenHAB' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.SmartThings": {
+    "message": "SmartThings",
+    "description": "The label for category 'SmartThings' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Apple Home（HomeKit）": {
+    "message": "Apple Home（HomeKit）",
+    "description": "The label for category 'Apple Home（HomeKit）' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Google Home": {
+    "message": "Google Home",
+    "description": "The label for category 'Google Home' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Amazon Alexa": {
+    "message": "Amazon Alexa",
+    "description": "The label for category 'Amazon Alexa' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Tuya（涂鸦智能）": {
+    "message": "Tuya（涂鸦智能）",
+    "description": "The label for category 'Tuya（涂鸦智能）' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Hubitat": {
+    "message": "Hubitat",
+    "description": "The label for category 'Hubitat' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.ZHA（Zigbee Home Automation）": {
+    "message": "ZHA（Zigbee Home Automation）",
+    "description": "The label for category 'ZHA（Zigbee Home Automation）' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.无线协议": {
+    "message": "无线协议",
+    "description": "The label for category '无线协议' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Matter": {
+    "message": "Matter",
+    "description": "The label for category 'Matter' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Zigbee": {
+    "message": "Zigbee",
+    "description": "The label for category 'Zigbee' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Wi-Fi": {
+    "message": "Wi-Fi",
+    "description": "The label for category 'Wi-Fi' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Sub-1G（远距离通信）": {
+    "message": "Sub-1G（远距离通信）",
+    "description": "The label for category 'Sub-1G（远距离通信）' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Z-Wave": {
+    "message": "Z-Wave",
+    "description": "The label for category 'Z-Wave' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.wM-Bus（无线计量总线）": {
+    "message": "wM-Bus（无线计量总线）",
+    "description": "The label for category 'wM-Bus（无线计量总线）' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.产品类型": {
+    "message": "产品类型",
+    "description": "The label for category '产品类型' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.烟雾传感器": {
+    "message": "烟雾传感器",
+    "description": "The label for category '烟雾传感器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.一氧化碳传感器": {
+    "message": "一氧化碳传感器",
+    "description": "The label for category '一氧化碳传感器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.门磁传感器": {
+    "message": "门磁传感器",
+    "description": "The label for category '门磁传感器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.人体红外传感器": {
+    "message": "人体红外传感器",
+    "description": "The label for category '人体红外传感器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.人体存在传感器": {
+    "message": "人体存在传感器",
+    "description": "The label for category '人体存在传感器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.温湿度传感器": {
+    "message": "温湿度传感器",
+    "description": "The label for category '温湿度传感器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.火灾温感传感器": {
+    "message": "火灾温感传感器",
+    "description": "The label for category '火灾温感传感器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.水浸探测传感器": {
+    "message": "水浸探测传感器",
+    "description": "The label for category '水浸探测传感器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.空气质量传感器": {
+    "message": "空气质量传感器",
+    "description": "The label for category '空气质量传感器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.可燃气体探测器": {
+    "message": "可燃气体探测器",
+    "description": "The label for category '可燃气体探测器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.智能插座": {
+    "message": "智能插座",
+    "description": "The label for category '智能插座' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.声光报警器（警号）": {
+    "message": "声光报警器（警号）",
+    "description": "The label for category '声光报警器（警号）' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.振动传感器": {
+    "message": "振动传感器",
+    "description": "The label for category '振动传感器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.紧急按钮": {
+    "message": "紧急按钮",
+    "description": "The label for category '紧急按钮' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.跌倒探测器": {
+    "message": "跌倒探测器",
+    "description": "The label for category '跌倒探测器' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.智能门铃": {
+    "message": "智能门铃",
+    "description": "The label for category '智能门铃' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.智能网关": {
+    "message": "智能网关",
+    "description": "The label for category '智能网关' in sidebar 'tutorialSidebar'"
+  }
+}
