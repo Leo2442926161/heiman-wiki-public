@@ -88,6 +88,30 @@ html, body {
 
 .footer--dark {
   --ifm-footer-background-color: transparent;
+  --ifm-footer-title-color: var(--ifm-color-emphasis-800);
+  --ifm-footer-link-color: var(--ifm-color-emphasis-700);
+  --ifm-footer-link-hover-color: var(--ifm-color-primary);
+  --ifm-footer-color: var(--ifm-color-emphasis-600);
+}
+
+[data-theme='dark'] .footer--dark {
+  --ifm-footer-title-color: var(--ifm-color-emphasis-300);
+  --ifm-footer-link-color: var(--ifm-color-emphasis-400);
+  --ifm-footer-link-hover-color: var(--ifm-color-primary-lighter);
+  --ifm-footer-color: var(--ifm-color-emphasis-500);
+}
+
+.footer__link-item {
+  font-weight: 500;
+}
+
+.footer__title {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.footer__copyright {
+  opacity: 0.8;
 }
 
 .pagination-nav__link {
