@@ -9,96 +9,96 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>tr</language>
         <item>
-            <title><![CDATA[Heiman Teknoloji Wiki'ye Hoş Geldiniz]]></title>
+            <title><![CDATA[欢迎来到海曼科技 Wiki]]></title>
             <link>https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/welcome</link>
             <guid>https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Heiman Teknoloji Wiki'ye hoş geldiniz! Bu, ürün dokümantasyonu, teknik çözümler, sektör haberleri ve şirket güncellemelerini bir araya getiren resmi bilgi tabanıdır.]]></description>
-            <content:encoded><![CDATA[<p>Heiman Teknoloji Wiki'ye hoş geldiniz! Bu, ürün dokümantasyonu, teknik çözümler, sektör haberleri ve şirket güncellemelerini bir araya getiren resmi bilgi tabanıdır.</p>
+            <description><![CDATA[欢迎来到海曼科技 Wiki！这里是海曼科技的官方知识库，汇聚了产品文档、技术方案、行业资讯和公司动态。]]></description>
+            <content:encoded><![CDATA[<p>欢迎来到海曼科技 Wiki！这里是海曼科技的官方知识库，汇聚了产品文档、技术方案、行业资讯和公司动态。</p>
 <!-- -->
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="bu-site-hakkında">Bu Site Hakkında<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/welcome#bu-site-hakk%C4%B1nda" class="hash-link" aria-label="Bu Site Hakkında doğrudan bağlantı" title="Bu Site Hakkında doğrudan bağlantı" translate="no">​</a></h2>
-<p>Heiman Teknoloji Wiki, iş ortaklarına, geliştiricilere ve müşterilere tek duraktan teknik kaynak sağlamaya adanmıştır:</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="关于本站">关于本站<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/welcome#%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99" class="hash-link" aria-label="关于本站 doğrudan bağlantı" title="关于本站 doğrudan bağlantı" translate="no">​</a></h2>
+<p>海曼科技 Wiki 致力于为合作伙伴、开发者及客户提供一站式技术资源，帮助您快速了解：</p>
 <ul>
-<li class=""><strong>Ürünler</strong> — Akıllı Yangın Güvenliği, Akıllı Gaz Güvenliği, Akıllı Yaşlı Bakımı, Akıllı Sensörler</li>
-<li class=""><strong>Çözümler</strong> — Sektör düzeyinde akıllı güvenlik çözümleri</li>
-<li class=""><strong>Teknik Dokümanlar</strong> — API entegrasyon kılavuzları, SDK kullanımı, kurulum kılavuzları</li>
-<li class=""><strong>Sektör İçgörüleri</strong> — Akıllı güvenlik trendleri ve politika yorumları</li>
+<li class=""><strong>产品中心</strong> — 智慧消防、智慧燃气、智慧养老、智能传感全系列产品</li>
+<li class=""><strong>解决方案</strong> — 行业级智慧安防整体方案</li>
+<li class=""><strong>技术文档</strong> — API 对接指南、SDK 使用说明、安装部署手册</li>
+<li class=""><strong>行业洞察</strong> — 智慧安防领域前沿趋势与政策解读</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="hızlı-gezinme">Hızlı Gezinme<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/welcome#h%C4%B1zl%C4%B1-gezinme" class="hash-link" aria-label="Hızlı Gezinme doğrudan bağlantı" title="Hızlı Gezinme doğrudan bağlantı" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="快速导航">快速导航<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/welcome#%E5%BF%AB%E9%80%9F%E5%AF%BC%E8%88%AA" class="hash-link" aria-label="快速导航 doğrudan bağlantı" title="快速导航 doğrudan bağlantı" translate="no">​</a></h2>
 <ul>
-<li class=""><a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/tr/docs/tutorial-basics/create-a-page">Ürünler ve Çözümler</a> sayfasını inceleyin</li>
-<li class="">Heiman'ın hikayesini öğrenmek için <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/tr/docs/intro">Hakkımızda</a> sayfasını okuyun</li>
-<li class=""><a href="https://www.heiman.com.cn/" target="_blank" rel="noopener noreferrer" class="">Heiman Resmi Sitesini</a> ziyaret edin</li>
+<li class="">查看 <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/tr/docs/%E4%BA%A7%E5%93%81%E7%B1%BB%E5%9E%8B/%E7%83%9F%E9%9B%BE%E4%BC%A0%E6%84%9F%E5%99%A8">产品类型</a> 了解海曼产品线</li>
+<li class="">阅读 <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/tr/docs/intro">企业介绍</a> 了解海曼发展历程</li>
+<li class="">访问 <a href="https://www.heiman.com.cn/" target="_blank" rel="noopener noreferrer" class="">海曼官网</a> 获取更多信息</li>
 </ul>
-<p>Herhangi bir sorunuz için çağrı hattımızı <strong>400-8959-500</strong> arayın veya çevrimiçi desteğe başvurun.</p>]]></content:encoded>
-            <category>Heiman Teknoloji</category>
+<p>如有任何问题，请拨打客服热线 <strong>400-8959-500</strong> 或联系在线客服。</p>]]></content:encoded>
+            <category>海曼科技</category>
         </item>
         <item>
-            <title><![CDATA[Heiman Matter Akıllı Duman Alarmı Resmi Olarak Piyasaya Sürüldü]]></title>
+            <title><![CDATA[海曼 Matter 协议智能烟雾报警器正式发布]]></title>
             <link>https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/mdx-blog-post</link>
             <guid>https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Heiman Teknoloji'nin yeni nesil Matter protokolü akıllı duman alarmı HS1SA-M resmi olarak piyasaya sürüldü — Matter 1.2 sertifikası alan sektördeki ilk duman alarmlarından biridir.]]></description>
-            <content:encoded><![CDATA[<p>Heiman Teknoloji'nin yeni nesil Matter protokolü akıllı duman alarmı HS1SA-M resmi olarak piyasaya sürüldü — Matter 1.2 sertifikası alan sektördeki ilk duman alarmlarından biridir.</p>
+            <description><![CDATA[海曼科技新一代 Matter 协议智能烟雾报警器 HS1SA-M 正式发布，这是行业内首批获得 Matter 1.2 认证的烟雾报警器产品。]]></description>
+            <content:encoded><![CDATA[<p>海曼科技新一代 Matter 协议智能烟雾报警器 HS1SA-M 正式发布，这是行业内首批获得 Matter 1.2 认证的烟雾报警器产品。</p>
 <!-- -->
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>ipucu</div><div class="admonitionContent_BuS1"><p>HS1SA-M, Apple HomeKit, Amazon Alexa, Google Home ve Samsung SmartThings — dört büyük akıllı ev ekosistemini destekler.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="temel-özellikler">Temel Özellikler<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/mdx-blog-post#temel-%C3%B6zellikler" class="hash-link" aria-label="Temel Özellikler doğrudan bağlantı" title="Temel Özellikler doğrudan bağlantı" translate="no">​</a></h2>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>ipucu</div><div class="admonitionContent_BuS1"><p>HS1SA-M 支持 Apple HomeKit、Amazon Alexa、Google Home 和 Samsung SmartThings 四大主流智能家居生态。</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="核心特性">核心特性<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/mdx-blog-post#%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7" class="hash-link" aria-label="核心特性 doğrudan bağlantı" title="核心特性 doğrudan bağlantı" translate="no">​</a></h2>
 <ul>
-<li class=""><strong>Matter 1.2 Sertifikalı</strong> — Çapraz marka, çapraz ekosistem birlikte çalışabilirliği</li>
-<li class=""><strong>Fotoelektrik Duman Algılama</strong> — Çeşitli yangın duman türlerine hızlı tepki</li>
-<li class=""><strong>Sesli Alarm</strong> — Birden çok dil seçeneği, net tehlike uyarıları</li>
-<li class=""><strong>Kendi Kendine Test Fonksiyonu</strong> — Normal çalışmayı sağlamak için düzenli kendi kendine kontroller</li>
-<li class=""><strong>Uzaktan Bildirim</strong> — Telefon uygulamanıza gerçek zamanlı anında bildirimler</li>
+<li class=""><strong>Matter 1.2 认证</strong> — 实现跨品牌、跨生态互联互通</li>
+<li class=""><strong>光电式烟雾传感</strong> — 快速响应各类火灾烟雾</li>
+<li class=""><strong>语音报警提示</strong> — 多种语音可选，清晰传达险情</li>
+<li class=""><strong>自检功能</strong> — 定期自检，确保设备正常运行</li>
+<li class=""><strong>远程通知</strong> — 手机 APP 实时推送报警信息</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="uyumluluk">Uyumluluk<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/mdx-blog-post#uyumluluk" class="hash-link" aria-label="Uyumluluk doğrudan bağlantı" title="Uyumluluk doğrudan bağlantı" translate="no">​</a></h2>
-<p>HS1SA-M, başlıca akıllı ev platformlarıyla sorunsuz bir şekilde entegre olur ve ek bir ağ geçidi gerektirmez — her şeyi doğrudan telefonunuzdan yönetin.</p>
-<p>Daha fazla bilgi için <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/tr/docs/tutorial-basics/create-a-page">Ürünler</a> sayfasını ziyaret edin.</p>]]></content:encoded>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="兼容性">兼容性<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/mdx-blog-post#%E5%85%BC%E5%AE%B9%E6%80%A7" class="hash-link" aria-label="兼容性 doğrudan bağlantı" title="兼容性 doğrudan bağlantı" translate="no">​</a></h2>
+<p>HS1SA-M 可无缝对接主流智能家居平台，用户无需额外网关即可直接通过手机控制和管理。</p>
+<p>详情请访问 <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/tr/docs/%E4%BA%A7%E5%93%81%E7%B1%BB%E5%9E%8B/%E7%83%9F%E9%9B%BE%E4%BC%A0%E6%84%9F%E5%99%A8">产品类型</a> 了解更多。</p>]]></content:encoded>
             <category>Matter</category>
-            <category>Akıllı Yangın Güvenliği</category>
+            <category>智慧消防</category>
         </item>
         <item>
-            <title><![CDATA[Heiman Teknoloji Kilometre Taşları]]></title>
+            <title><![CDATA[海曼科技发展历程回顾]]></title>
             <link>https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post</link>
             <guid>https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[2005 yılında kuruluşundan bu yana, Heiman Teknoloji 20 yılı aşkın bir yolculuk geçirdi. Bu makale Heiman'ın önemli kilometre taşlarını gözden geçirmektedir.]]></description>
-            <content:encoded><![CDATA[<p>2005 yılında kuruluşundan bu yana, Heiman Teknoloji 20 yılı aşkın bir yolculuk geçirdi. Bu makale Heiman'ın önemli kilometre taşlarını gözden geçirmektedir.</p>
+            <description><![CDATA[从2005年成立至今，海曼科技已走过20余年的发展历程。本文将带您回顾海曼的重要里程碑。]]></description>
+            <content:encoded><![CDATA[<p>从2005年成立至今，海曼科技已走过20余年的发展历程。本文将带您回顾海曼的重要里程碑。</p>
 <!-- -->
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2005---şirket-kuruluşu">2005 - Şirket Kuruluşu<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2005---%C5%9Firket-kurulu%C5%9Fu" class="hash-link" aria-label="2005 - Şirket Kuruluşu doğrudan bağlantı" title="2005 - Şirket Kuruluşu doğrudan bağlantı" translate="no">​</a></h2>
-<p>Shenzhen Heiman Technology Co., Ltd. resmen kuruldu ve güvenlik sensörü alanına girdi.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2006---uluslararası-başlangıç">2006 - Uluslararası Başlangıç<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2006---uluslararas%C4%B1-ba%C5%9Flang%C4%B1%C3%A7" class="hash-link" aria-label="2006 - Uluslararası Başlangıç doğrudan bağlantı" title="2006 - Uluslararası Başlangıç doğrudan bağlantı" translate="no">​</a></h2>
-<p>Birden fazla ürün AB CE sertifikası aldı ve China Mobile ile ortaklık kurdu.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2011---uluslararası-sertifikasyon-atılımı">2011 - Uluslararası Sertifikasyon Atılımı<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2011---uluslararas%C4%B1-sertifikasyon-at%C4%B1l%C4%B1m%C4%B1" class="hash-link" aria-label="2011 - Uluslararası Sertifikasyon Atılımı doğrudan bağlantı" title="2011 - Uluslararası Sertifikasyon Atılımı doğrudan bağlantı" translate="no">​</a></h2>
-<p>Birden fazla ürün AB EN54-7 ve EN14604 sertifikalarını alarak uluslararası kalite standartlarına ulaştı.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2012---akıllı-ev-dönüşümü">2012 - Akıllı Ev Dönüşümü<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2012---ak%C4%B1ll%C4%B1-ev-d%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC" class="hash-link" aria-label="2012 - Akıllı Ev Dönüşümü doğrudan bağlantı" title="2012 - Akıllı Ev Dönüşümü doğrudan bağlantı" translate="no">​</a></h2>
-<p>Akıllı ev projesi tamamen başlatıldı ve Heiman'ı akıllı ev ürünlerinin Ar-Ge, üretim ve satışında uzmanlaşmış bir şirkete dönüştürdü.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2017---büyük-atılımlar">2017 - Büyük Atılımlar<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2017---b%C3%BCy%C3%BCk-at%C4%B1l%C4%B1mlar" class="hash-link" aria-label="2017 - Büyük Atılımlar doğrudan bağlantı" title="2017 - Büyük Atılımlar doğrudan bağlantı" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2005---公司成立">2005 - 公司成立<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2005---%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B" class="hash-link" aria-label="2005 - 公司成立 doğrudan bağlantı" title="2005 - 公司成立 doğrudan bağlantı" translate="no">​</a></h2>
+<p>深圳市海曼科技股份有限公司正式成立，开始进入安防传感领域。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2006---国际化起步">2006 - 国际化起步<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2006---%E5%9B%BD%E9%99%85%E5%8C%96%E8%B5%B7%E6%AD%A5" class="hash-link" aria-label="2006 - 国际化起步 doğrudan bağlantı" title="2006 - 国际化起步 doğrudan bağlantı" translate="no">​</a></h2>
+<p>多款产品通过欧盟CE认证，并与中国移动达成合作。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2011---国际认证突破">2011 - 国际认证突破<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2011---%E5%9B%BD%E9%99%85%E8%AE%A4%E8%AF%81%E7%AA%81%E7%A0%B4" class="hash-link" aria-label="2011 - 国际认证突破 doğrudan bağlantı" title="2011 - 国际认证突破 doğrudan bağlantı" translate="no">​</a></h2>
+<p>多款产品通过欧盟EN54-7、EN14604认证，标志着产品质量达到国际先进水平。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2012---智能家居转型">2012 - 智能家居转型<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2012---%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E8%BD%AC%E5%9E%8B" class="hash-link" aria-label="2012 - 智能家居转型 doğrudan bağlantı" title="2012 - 智能家居转型 doğrudan bağlantı" translate="no">​</a></h2>
+<p>智能家居项目全面启动，海曼转型为专注研发、生产、销售智能家居产品的企业。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2017---重大突破">2017 - 重大突破<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2017---%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4" class="hash-link" aria-label="2017 - 重大突破 doğrudan bağlantı" title="2017 - 重大突破 doğrudan bağlantı" translate="no">​</a></h2>
 <ul>
-<li class="">Çin'in ilk NB-IoT duman alarmını geliştirdi</li>
-<li class="">2 Red Dot Tasarım Ödülü kazandı</li>
-<li class="">MFi sertifikasını geçerek Apple üreticisi olarak nitelendirildi</li>
+<li class="">研发出国内首款NB-IoT烟雾报警器</li>
+<li class="">荣获2项德国红点设计大奖</li>
+<li class="">通过MFi认证，获得Apple制造商资质</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2020---sermaye-desteği">2020 - Sermaye Desteği<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2020---sermaye-deste%C4%9Fi" class="hash-link" aria-label="2020 - Sermaye Desteği doğrudan bağlantı" title="2020 - Sermaye Desteği doğrudan bağlantı" translate="no">​</a></h2>
-<p>Shenzhen Yüksek Teknoloji Yatırım Grubu ile Series A finansmanını tamamladı, "Guangdong Eyaleti Özel ve Yeni KOBİ" olarak tanındı.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2022---ulusal-tanınma">2022 - Ulusal Tanınma<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2022---ulusal-tan%C4%B1nma" class="hash-link" aria-label="2022 - Ulusal Tanınma doğrudan bağlantı" title="2022 - Ulusal Tanınma doğrudan bağlantı" translate="no">​</a></h2>
-<p>Ulusal Özel ve Yeni "Küçük Dev" Kuruluşu olarak tanındı. K1 serisi Red Dot Tasarım Ödülü kazandı.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2023---uluslararası-standartlar-liderliği">2023 - Uluslararası Standartlar Liderliği<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2023---uluslararas%C4%B1-standartlar-liderli%C4%9Fi" class="hash-link" aria-label="2023 - Uluslararası Standartlar Liderliği doğrudan bağlantı" title="2023 - Uluslararası Standartlar Liderliği doğrudan bağlantı" translate="no">​</a></h2>
-<p>Heiman test laboratuvarı resmen CNAS sertifikası aldı. Duman alarmları ve CO alarmları, Matter 1.2 sertifikasını alan ilk ürünler arasında yer aldı.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2024---günümüz">2024 - Günümüz<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2024---g%C3%BCn%C3%BCm%C3%BCz" class="hash-link" aria-label="2024 - Günümüz doğrudan bağlantı" title="2024 - Günümüz doğrudan bağlantı" translate="no">​</a></h2>
-<p>İnovasyona devam ederek, Akıllı Yangın Güvenliği, Akıllı Gaz Güvenliği, Akıllı Yaşlı Bakımı ve Akıllı Sensörler alanlarına olan bağlılığını derinleştirerek dünya çapında 100'den fazla ülkedeki müşterilere kaliteli ürün ve hizmet sunmaktadır.</p>]]></content:encoded>
-            <category>Heiman Teknoloji</category>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2020---资本助力">2020 - 资本助力<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2020---%E8%B5%84%E6%9C%AC%E5%8A%A9%E5%8A%9B" class="hash-link" aria-label="2020 - 资本助力 doğrudan bağlantı" title="2020 - 资本助力 doğrudan bağlantı" translate="no">​</a></h2>
+<p>完成A轮融资，投资方为深圳高新投集团，获得"广东省专精特新中小企业"称号。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2022---国家级认可">2022 - 国家级认可<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2022---%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%AE%A4%E5%8F%AF" class="hash-link" aria-label="2022 - 国家级认可 doğrudan bağlantı" title="2022 - 国家级认可 doğrudan bağlantı" translate="no">​</a></h2>
+<p>获评国家专精特新"小巨人"企业，K1系列获德国红点设计大奖。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2023---国际标准引领">2023 - 国际标准引领<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2023---%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E5%BC%95%E9%A2%86" class="hash-link" aria-label="2023 - 国际标准引领 doğrudan bağlantı" title="2023 - 国际标准引领 doğrudan bağlantı" translate="no">​</a></h2>
+<p>海曼检测实验室正式通过国家CNAS认证，烟雾报警器和一氧化碳报警器首批获得Matter 1.2认证。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2024---至今">2024 - 至今<a href="https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/long-blog-post#2024---%E8%87%B3%E4%BB%8A" class="hash-link" aria-label="2024 - 至今 doğrudan bağlantı" title="2024 - 至今 doğrudan bağlantı" translate="no">​</a></h2>
+<p>持续创新，深耕智慧消防、智慧燃气、智慧养老、智能传感四大领域，为全球100+国家客户提供优质产品与服务。</p>]]></content:encoded>
+            <category>海曼科技</category>
         </item>
         <item>
-            <title><![CDATA[Heinan Teknoloji Ulusal "Küçük Dev" Kuruluşu Olarak Tanındı]]></title>
+            <title><![CDATA[海曼科技获国家专精特新"小巨人"企业认定]]></title>
             <link>https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/first-blog-post</link>
             <guid>https://heiman-wiki.github.io/heiman-wiki-public/tr/blog/first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[2022 yılında Heiman Teknoloji, akıllı sensör alanındaki derin teknik birikimi ve inovasyonu nedeniyle resmen Ulusal Özel ve Yeni "Küçük Dev" Kuruluşu olarak tanındı.]]></description>
-            <content:encoded><![CDATA[<p>2022 yılında Heiman Teknoloji, akıllı sensör alanındaki derin teknik birikimi ve inovasyonu nedeniyle resmen Ulusal Özel ve Yeni "Küçük Dev" Kuruluşu olarak tanındı.</p>
+            <description><![CDATA[2022年，海曼科技凭借在智能传感领域的深厚技术积累和创新能力，正式获评为国家专精特新"小巨人"企业。]]></description>
+            <content:encoded><![CDATA[<p>2022年，海曼科技凭借在智能传感领域的深厚技术积累和创新能力，正式获评为国家专精特新"小巨人"企业。</p>
 <!-- -->
-<p>Bu ulusal düzeydeki takdir, Heiman'ın uzmanlaşma, incelik, farklılaşma ve inovasyon konularındaki mükemmelliğini onaylamaktadır. Heiman, Akıllı Yangın Güvenliği, Akıllı Gaz Güvenliği, Akıllı Yaşlı Bakımı ve Akıllı Sensörler alanlarındaki çalışmalarını derinleştirmeye ve müşterilere sürekli olarak yüksek kaliteli ürünler ve hizmetler sunmaya devam edecektir.</p>
-<p>Heiman daha önce Ulusal Yüksek Teknoloji Kuruluşu ve Guangdong Eyaleti Özel ve Yeni KOBİ olarak da tanınmıştı.</p>]]></content:encoded>
-            <category>Heiman Teknoloji</category>
+<p>这一国家级认定是对海曼科技在专业化、精细化、特色化、新颖化方面的高度认可。海曼将继续深耕智慧消防、智慧燃气、智慧养老和智能传感领域，持续为客户提供优质的产品和服务。</p>
+<p>此前，海曼科技已获得国家高新技术企业、广东省专精特新中小企业等多项权威资质认定。</p>]]></content:encoded>
+            <category>海曼科技</category>
         </item>
     </channel>
 </rss>

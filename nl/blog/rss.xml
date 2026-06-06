@@ -9,96 +9,96 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>nl</language>
         <item>
-            <title><![CDATA[Welkom bij de Heiman Technology Wiki]]></title>
+            <title><![CDATA[欢迎来到海曼科技 Wiki]]></title>
             <link>https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/welcome</link>
             <guid>https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welkom bij de Heiman Technology Wiki! Dit is de officiële kennisbank van Heiman Technology, met productdocumentatie, technische oplossingen, industrietrends en bedrijfsnieuws.]]></description>
-            <content:encoded><![CDATA[<p>Welkom bij de Heiman Technology Wiki! Dit is de officiële kennisbank van Heiman Technology, met productdocumentatie, technische oplossingen, industrietrends en bedrijfsnieuws.</p>
+            <description><![CDATA[欢迎来到海曼科技 Wiki！这里是海曼科技的官方知识库，汇聚了产品文档、技术方案、行业资讯和公司动态。]]></description>
+            <content:encoded><![CDATA[<p>欢迎来到海曼科技 Wiki！这里是海曼科技的官方知识库，汇聚了产品文档、技术方案、行业资讯和公司动态。</p>
 <!-- -->
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="over-deze-site">Over Deze Site<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/welcome#over-deze-site" class="hash-link" aria-label="Direct link naar Over Deze Site" title="Direct link naar Over Deze Site" translate="no">​</a></h2>
-<p>De Heiman Technology Wiki biedt partners, ontwikkelaars en klanten een one-stop technische bron om snel het volgende te ontdekken:</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="关于本站">关于本站<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/welcome#%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99" class="hash-link" aria-label="Direct link naar 关于本站" title="Direct link naar 关于本站" translate="no">​</a></h2>
+<p>海曼科技 Wiki 致力于为合作伙伴、开发者及客户提供一站式技术资源，帮助您快速了解：</p>
 <ul>
-<li class=""><strong>Productencentrum</strong> — Volledige serie producten voor Slimme Brandveiligheid, Slimme Gasveiligheid, Slimme Ouderenzorg en Slimme Sensoren</li>
-<li class=""><strong>Oplossingen</strong> — Complete slimme beveiligingsoplossingen op industrieniveau</li>
-<li class=""><strong>Technische Documentatie</strong> — API-integratiegidsen, SDK-gebruiksinstructies, installatie- en implementatiehandleidingen</li>
-<li class=""><strong>Industrie-inzichten</strong> — Trends en beleidsinterpretaties in de slimme beveiligingssector</li>
+<li class=""><strong>产品中心</strong> — 智慧消防、智慧燃气、智慧养老、智能传感全系列产品</li>
+<li class=""><strong>解决方案</strong> — 行业级智慧安防整体方案</li>
+<li class=""><strong>技术文档</strong> — API 对接指南、SDK 使用说明、安装部署手册</li>
+<li class=""><strong>行业洞察</strong> — 智慧安防领域前沿趋势与政策解读</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="snelle-navigatie">Snelle Navigatie<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/welcome#snelle-navigatie" class="hash-link" aria-label="Direct link naar Snelle Navigatie" title="Direct link naar Snelle Navigatie" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="快速导航">快速导航<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/welcome#%E5%BF%AB%E9%80%9F%E5%AF%BC%E8%88%AA" class="hash-link" aria-label="Direct link naar 快速导航" title="Direct link naar 快速导航" translate="no">​</a></h2>
 <ul>
-<li class="">Bekijk <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/nl/docs/tutorial-basics/create-a-page">Producten &amp; Oplossingen</a> voor het Heiman-productaanbod</li>
-<li class="">Lees <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/nl/docs/intro">Bedrijfsintroductie</a> om de ontwikkelingsgeschiedenis van Heiman te ontdekken</li>
-<li class="">Bezoek <a href="https://www.heiman.com.cn/" target="_blank" rel="noopener noreferrer" class="">Heiman Website</a> voor meer informatie</li>
+<li class="">查看 <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/nl/docs/%E4%BA%A7%E5%93%81%E7%B1%BB%E5%9E%8B/%E7%83%9F%E9%9B%BE%E4%BC%A0%E6%84%9F%E5%99%A8">产品类型</a> 了解海曼产品线</li>
+<li class="">阅读 <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/nl/docs/intro">企业介绍</a> 了解海曼发展历程</li>
+<li class="">访问 <a href="https://www.heiman.com.cn/" target="_blank" rel="noopener noreferrer" class="">海曼官网</a> 获取更多信息</li>
 </ul>
-<p>Bij vragen kunt u de klantenservice bellen op <strong>400-8959-500</strong> of contact opnemen met online klantenservice.</p>]]></content:encoded>
-            <category>Heiman Technology</category>
+<p>如有任何问题，请拨打客服热线 <strong>400-8959-500</strong> 或联系在线客服。</p>]]></content:encoded>
+            <category>海曼科技</category>
         </item>
         <item>
-            <title><![CDATA[Heiman Matter Protocol Slimme Rookmelder Officieel Gelanceerd]]></title>
+            <title><![CDATA[海曼 Matter 协议智能烟雾报警器正式发布]]></title>
             <link>https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/mdx-blog-post</link>
             <guid>https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Heiman Technology's nieuwste Matter protocol slimme rookmelder HS1SA-M is officieel gelanceerd. Dit is een van de eerste rookmelders in de industrie die Matter 1.2-certificering heeft ontvangen.]]></description>
-            <content:encoded><![CDATA[<p>Heiman Technology's nieuwste Matter protocol slimme rookmelder HS1SA-M is officieel gelanceerd. Dit is een van de eerste rookmelders in de industrie die Matter 1.2-certificering heeft ontvangen.</p>
+            <description><![CDATA[海曼科技新一代 Matter 协议智能烟雾报警器 HS1SA-M 正式发布，这是行业内首批获得 Matter 1.2 认证的烟雾报警器产品。]]></description>
+            <content:encoded><![CDATA[<p>海曼科技新一代 Matter 协议智能烟雾报警器 HS1SA-M 正式发布，这是行业内首批获得 Matter 1.2 认证的烟雾报警器产品。</p>
 <!-- -->
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>HS1SA-M ondersteunt Apple HomeKit, Amazon Alexa, Google Home en Samsung SmartThings — de vier grootste smart home-ecosystemen.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kernfuncties">Kernfuncties<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/mdx-blog-post#kernfuncties" class="hash-link" aria-label="Direct link naar Kernfuncties" title="Direct link naar Kernfuncties" translate="no">​</a></h2>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>HS1SA-M 支持 Apple HomeKit、Amazon Alexa、Google Home 和 Samsung SmartThings 四大主流智能家居生态。</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="核心特性">核心特性<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/mdx-blog-post#%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7" class="hash-link" aria-label="Direct link naar 核心特性" title="Direct link naar 核心特性" translate="no">​</a></h2>
 <ul>
-<li class=""><strong>Matter 1.2-certificering</strong> — Realiseert cross-brand, cross-ecosysteem interconnectiviteit</li>
-<li class=""><strong>Optische rookdetectie</strong> — Snelle respons op verschillende soorten brandrook</li>
-<li class=""><strong>Spraakalarmmelding</strong> — Meerdere spraakopties, duidelijke waarschuwing bij gevaar</li>
-<li class=""><strong>Zelftestfunctie</strong> — Periodieke zelftest om normale werking te garanderen</li>
-<li class=""><strong>Melding op afstand</strong> — Realtime pushmeldingen naar telefoon APP</li>
+<li class=""><strong>Matter 1.2 认证</strong> — 实现跨品牌、跨生态互联互通</li>
+<li class=""><strong>光电式烟雾传感</strong> — 快速响应各类火灾烟雾</li>
+<li class=""><strong>语音报警提示</strong> — 多种语音可选，清晰传达险情</li>
+<li class=""><strong>自检功能</strong> — 定期自检，确保设备正常运行</li>
+<li class=""><strong>远程通知</strong> — 手机 APP 实时推送报警信息</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="compatibiliteit">Compatibiliteit<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/mdx-blog-post#compatibiliteit" class="hash-link" aria-label="Direct link naar Compatibiliteit" title="Direct link naar Compatibiliteit" translate="no">​</a></h2>
-<p>HS1SA-M kan naadloos worden geïntegreerd met gangbare smart home-platforms. Gebruikers hebben geen extra gateway nodig en kunnen het apparaat direct via hun telefoon bedienen en beheren.</p>
-<p>Bezoek <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/nl/docs/tutorial-basics/create-a-page">Productencentrum</a> voor meer informatie.</p>]]></content:encoded>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="兼容性">兼容性<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/mdx-blog-post#%E5%85%BC%E5%AE%B9%E6%80%A7" class="hash-link" aria-label="Direct link naar 兼容性" title="Direct link naar 兼容性" translate="no">​</a></h2>
+<p>HS1SA-M 可无缝对接主流智能家居平台，用户无需额外网关即可直接通过手机控制和管理。</p>
+<p>详情请访问 <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/nl/docs/%E4%BA%A7%E5%93%81%E7%B1%BB%E5%9E%8B/%E7%83%9F%E9%9B%BE%E4%BC%A0%E6%84%9F%E5%99%A8">产品类型</a> 了解更多。</p>]]></content:encoded>
             <category>Matter</category>
-            <category>Slimme Brandveiligheid</category>
+            <category>智慧消防</category>
         </item>
         <item>
-            <title><![CDATA[Terugblik op de Ontwikkelingsgeschiedenis van Heiman Technology]]></title>
+            <title><![CDATA[海曼科技发展历程回顾]]></title>
             <link>https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post</link>
             <guid>https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Vanaf de oprichting in 2005 heeft Heiman Technology meer dan 20 jaar ontwikkeling doorgemaakt. Dit artikel neemt u mee langs de belangrijke mijlpalen van Heiman.]]></description>
-            <content:encoded><![CDATA[<p>Vanaf de oprichting in 2005 heeft Heiman Technology meer dan 20 jaar ontwikkeling doorgemaakt. Dit artikel neemt u mee langs de belangrijke mijlpalen van Heiman.</p>
+            <description><![CDATA[从2005年成立至今，海曼科技已走过20余年的发展历程。本文将带您回顾海曼的重要里程碑。]]></description>
+            <content:encoded><![CDATA[<p>从2005年成立至今，海曼科技已走过20余年的发展历程。本文将带您回顾海曼的重要里程碑。</p>
 <!-- -->
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2005---bedrijfsoprichting">2005 - Bedrijfsoprichting<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2005---bedrijfsoprichting" class="hash-link" aria-label="Direct link naar 2005 - Bedrijfsoprichting" title="Direct link naar 2005 - Bedrijfsoprichting" translate="no">​</a></h2>
-<p>Shenzhen Heiman Technology Co., Ltd. wordt officieel opgericht en betreedt de beveiligingssensorindustrie.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2006---internationale-start">2006 - Internationale Start<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2006---internationale-start" class="hash-link" aria-label="Direct link naar 2006 - Internationale Start" title="Direct link naar 2006 - Internationale Start" translate="no">​</a></h2>
-<p>Meerdere producten behalen CE-certificering van de Europese Unie en er wordt samenwerking gestart met China Mobile.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2011---internationale-certificeringsdoorbraak">2011 - Internationale Certificeringsdoorbraak<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2011---internationale-certificeringsdoorbraak" class="hash-link" aria-label="Direct link naar 2011 - Internationale Certificeringsdoorbraak" title="Direct link naar 2011 - Internationale Certificeringsdoorbraak" translate="no">​</a></h2>
-<p>Meerdere producten behalen EU EN54-7 en EN14604-certificering, wat aangeeft dat de productkwaliteit internationaal geavanceerd niveau heeft bereikt.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2012---transformatie-naar-slimme-woningen">2012 - Transformatie naar Slimme Woningen<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2012---transformatie-naar-slimme-woningen" class="hash-link" aria-label="Direct link naar 2012 - Transformatie naar Slimme Woningen" title="Direct link naar 2012 - Transformatie naar Slimme Woningen" translate="no">​</a></h2>
-<p>Het smart home-project wordt volledig gelanceerd. Heiman transformeert naar een bedrijf dat zich richt op onderzoek, productie en verkoop van smart home-producten.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2017---belangrijke-doorbraak">2017 - Belangrijke Doorbraak<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2017---belangrijke-doorbraak" class="hash-link" aria-label="Direct link naar 2017 - Belangrijke Doorbraak" title="Direct link naar 2017 - Belangrijke Doorbraak" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2005---公司成立">2005 - 公司成立<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2005---%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B" class="hash-link" aria-label="Direct link naar 2005 - 公司成立" title="Direct link naar 2005 - 公司成立" translate="no">​</a></h2>
+<p>深圳市海曼科技股份有限公司正式成立，开始进入安防传感领域。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2006---国际化起步">2006 - 国际化起步<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2006---%E5%9B%BD%E9%99%85%E5%8C%96%E8%B5%B7%E6%AD%A5" class="hash-link" aria-label="Direct link naar 2006 - 国际化起步" title="Direct link naar 2006 - 国际化起步" translate="no">​</a></h2>
+<p>多款产品通过欧盟CE认证，并与中国移动达成合作。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2011---国际认证突破">2011 - 国际认证突破<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2011---%E5%9B%BD%E9%99%85%E8%AE%A4%E8%AF%81%E7%AA%81%E7%A0%B4" class="hash-link" aria-label="Direct link naar 2011 - 国际认证突破" title="Direct link naar 2011 - 国际认证突破" translate="no">​</a></h2>
+<p>多款产品通过欧盟EN54-7、EN14604认证，标志着产品质量达到国际先进水平。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2012---智能家居转型">2012 - 智能家居转型<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2012---%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E8%BD%AC%E5%9E%8B" class="hash-link" aria-label="Direct link naar 2012 - 智能家居转型" title="Direct link naar 2012 - 智能家居转型" translate="no">​</a></h2>
+<p>智能家居项目全面启动，海曼转型为专注研发、生产、销售智能家居产品的企业。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2017---重大突破">2017 - 重大突破<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2017---%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4" class="hash-link" aria-label="Direct link naar 2017 - 重大突破" title="Direct link naar 2017 - 重大突破" translate="no">​</a></h2>
 <ul>
-<li class="">Ontwikkeling van de eerste NB-IoT rookmelder in China</li>
-<li class="">Ontvangt 2 Duitse Red Dot Design Awards</li>
-<li class="">Behaalt MFi-certificering en verkrijgt Apple-fabrikantkwalificatie</li>
+<li class="">研发出国内首款NB-IoT烟雾报警器</li>
+<li class="">荣获2项德国红点设计大奖</li>
+<li class="">通过MFi认证，获得Apple制造商资质</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2020---kapitaalinjectie">2020 - Kapitaalinjectie<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2020---kapitaalinjectie" class="hash-link" aria-label="Direct link naar 2020 - Kapitaalinjectie" title="Direct link naar 2020 - Kapitaalinjectie" translate="no">​</a></h2>
-<p>Voltooit Series A-financiering met Shenzhen Hi-Tech Investment Group als investeerder. Ontvangt de titel "Guangdong Gespecialiseerde en Nieuwe MKB-onderneming".</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2022---nationale-erkenning">2022 - Nationale Erkenning<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2022---nationale-erkenning" class="hash-link" aria-label="Direct link naar 2022 - Nationale Erkenning" title="Direct link naar 2022 - Nationale Erkenning" translate="no">​</a></h2>
-<p>Wordt erkend als nationale Gespecialiseerde en Nieuwe "Kleine Reus" onderneming. K1-serie wint Duitse Red Dot Design Award.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2023---internationale-normleiding">2023 - Internationale Normleiding<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2023---internationale-normleiding" class="hash-link" aria-label="Direct link naar 2023 - Internationale Normleiding" title="Direct link naar 2023 - Internationale Normleiding" translate="no">​</a></h2>
-<p>Heiman-testlaboratorium ontvangt officiële CNAS-certificering. Rookmelders en koolmonoxidemelders zijn de eerste die Matter 1.2-certificering ontvangen.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2024---heden">2024 - Heden<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2024---heden" class="hash-link" aria-label="Direct link naar 2024 - Heden" title="Direct link naar 2024 - Heden" translate="no">​</a></h2>
-<p>Voortdurende innovatie, verdieping in vier kerngebieden: Slimme Brandveiligheid, Slimme Gasveiligheid, Slimme Ouderenzorg en Slimme Sensoren. Levert hoogwaardige producten en diensten aan klanten in 100+ landen wereldwijd.</p>]]></content:encoded>
-            <category>Heiman Technology</category>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2020---资本助力">2020 - 资本助力<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2020---%E8%B5%84%E6%9C%AC%E5%8A%A9%E5%8A%9B" class="hash-link" aria-label="Direct link naar 2020 - 资本助力" title="Direct link naar 2020 - 资本助力" translate="no">​</a></h2>
+<p>完成A轮融资，投资方为深圳高新投集团，获得"广东省专精特新中小企业"称号。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2022---国家级认可">2022 - 国家级认可<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2022---%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%AE%A4%E5%8F%AF" class="hash-link" aria-label="Direct link naar 2022 - 国家级认可" title="Direct link naar 2022 - 国家级认可" translate="no">​</a></h2>
+<p>获评国家专精特新"小巨人"企业，K1系列获德国红点设计大奖。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2023---国际标准引领">2023 - 国际标准引领<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2023---%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E5%BC%95%E9%A2%86" class="hash-link" aria-label="Direct link naar 2023 - 国际标准引领" title="Direct link naar 2023 - 国际标准引领" translate="no">​</a></h2>
+<p>海曼检测实验室正式通过国家CNAS认证，烟雾报警器和一氧化碳报警器首批获得Matter 1.2认证。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2024---至今">2024 - 至今<a href="https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/long-blog-post#2024---%E8%87%B3%E4%BB%8A" class="hash-link" aria-label="Direct link naar 2024 - 至今" title="Direct link naar 2024 - 至今" translate="no">​</a></h2>
+<p>持续创新，深耕智慧消防、智慧燃气、智慧养老、智能传感四大领域，为全球100+国家客户提供优质产品与服务。</p>]]></content:encoded>
+            <category>海曼科技</category>
         </item>
         <item>
-            <title><![CDATA[Heiman Technology Ontvangt Nationale "Kleine Reus" Ondernemingserkenning]]></title>
+            <title><![CDATA[海曼科技获国家专精特新"小巨人"企业认定]]></title>
             <link>https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/first-blog-post</link>
             <guid>https://heiman-wiki.github.io/heiman-wiki-public/nl/blog/first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[In 2022 werd Heiman Technology, dankzij zijn diepgaande technische kennis en innovatievermogen in slimme sensoren, officieel erkend als een nationale Gespecialiseerde en Nieuwe "Kleine Reus" onderneming.]]></description>
-            <content:encoded><![CDATA[<p>In 2022 werd Heiman Technology, dankzij zijn diepgaande technische kennis en innovatievermogen in slimme sensoren, officieel erkend als een nationale Gespecialiseerde en Nieuwe "Kleine Reus" onderneming.</p>
+            <description><![CDATA[2022年，海曼科技凭借在智能传感领域的深厚技术积累和创新能力，正式获评为国家专精特新"小巨人"企业。]]></description>
+            <content:encoded><![CDATA[<p>2022年，海曼科技凭借在智能传感领域的深厚技术积累和创新能力，正式获评为国家专精特新"小巨人"企业。</p>
 <!-- -->
-<p>Deze nationale erkenning is een hoge waardering voor Heiman Technology op het gebied van specialisatie, verfijning, karakterisering en vernieuwing. Heiman zal zich blijven verdiepen in slimme brandveiligheid, slimme gasveiligheid, slimme ouderenzorg en slimme sensoren, en klanten blijven voorzien van hoogwaardige producten en diensten.</p>
-<p>Eerder had Heiman Technology al meerdere gezaghebbende kwalificaties verkregen, waaronder Nationale Hightech-onderneming en Guangdong Gespecialiseerde en Nieuwe MKB-onderneming.</p>]]></content:encoded>
-            <category>Heiman Technology</category>
+<p>这一国家级认定是对海曼科技在专业化、精细化、特色化、新颖化方面的高度认可。海曼将继续深耕智慧消防、智慧燃气、智慧养老和智能传感领域，持续为客户提供优质的产品和服务。</p>
+<p>此前，海曼科技已获得国家高新技术企业、广东省专精特新中小企业等多项权威资质认定。</p>]]></content:encoded>
+            <category>海曼科技</category>
         </item>
     </channel>
 </rss>
