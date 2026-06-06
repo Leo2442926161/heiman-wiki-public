@@ -208,22 +208,47 @@ article {
   padding-bottom: 8px;
 }
 
+.table-wrapper {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
 .markdown table {
+  display: table;
+  width: 100%;
+  min-width: 640px;
   backdrop-filter: blur(var(--glass-blur)) saturate(1.2);
   -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(1.2);
   background: var(--glass-bg);
   border-radius: 12px;
   border: 1px solid var(--glass-border);
   box-shadow: var(--glass-shadow);
-  overflow: hidden;
+  table-layout: auto;
 }
 
 .markdown th {
   background: rgba(79, 106, 245, 0.08);
+  white-space: nowrap;
+  vertical-align: middle;
 }
 
 .markdown td, .markdown th {
   border-color: var(--glass-border);
+  vertical-align: middle;
+  padding: 10px 14px;
+  line-height: 1.5;
+}
+
+.markdown td:last-child {
+  min-width: 200px;
+}
+
+@media (min-width: 768px) {
+  .markdown table {
+    min-width: 100%;
+  }
 }
 
 blockquote {
