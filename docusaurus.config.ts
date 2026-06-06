@@ -68,6 +68,22 @@ const config: Config = {
     },
   },
 
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        language: ["en", "zh"],
+        indexBlog: true,
+        indexDocs: true,
+        docsRouteBasePath: "/docs",
+        highlightSearchTermsOnTargetPage: true,
+        searchResultLimits: 12,
+        searchResultContextMaxLength: 60,
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
