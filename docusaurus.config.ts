@@ -17,7 +17,7 @@ const config: Config = {
   organizationName: 'heiman-wiki',
   projectName: 'heiman-wiki',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   i18n: {
     defaultLocale: 'zh-Hans',
@@ -129,12 +129,12 @@ const config: Config = {
           title: '文档',
           items: [
             {
-              label: '企业介绍',
+              label: '海曼简介',
               to: '/docs/intro',
             },
             {
-              label: '产品中心',
-              to: '/docs/tutorial-basics/create-a-page',
+              label: '产品类型',
+              to: '/docs/产品类型/烟雾传感器',
             },
           ],
         },
