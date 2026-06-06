@@ -1,37 +1,37 @@
 ---
 sidebar_position: 11
 ---
-# JT 系列 - 燃气紧急切断阀（Zigbee）
+# JT-serien - Gasnödavstängningsventil (Zigbee)
 
-## 概述
+## Översikt
 
-JT 系列燃气紧急切断阀是与海曼 Zigbee 可燃气体探测器配合使用的执行设备，检测到燃气泄漏时可远程或自动关闭燃气管道阀门，防止事故发生。
+JT-seriens gasnödavstängningsventil är en utförandeanordning som används i kombination med Hyman Zigbee detektor för brännbar gas. När en gasläcka upptäcks kan den på distans eller automatiskt stänga gasledningens ventil för att förhindra olyckor.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 类型 | 独立式 + Zigbee 联动 |
-| 检测气体 | 天然气 / 液化石油气 |
-| 认证标准 | GB 15322 |
-| 工作温度 | -10°C ~ +50°C |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Skriv | Fristående + Zigbee länkage |
+| Testgas | Naturgas / Liquefied petroleum gas |
+| Certifieringsstandarder | GB 15322 |
+| Drifttemperatur | -10°C ~ +50°C |
 
-## 功能特性
+## Funktioner
 
-- 与 HS1CG / HS3CG 联动自动关阀
-- 支持远程手动关阀
-- 泄漏报警推送
-- 电磁阀驱动
+- Länkad med HS1CG / HS3CG för att automatiskt stänga ventilen
+-Stöd fjärrstyrd manuell ventilstängning
+- Tryck på läckagelarm
+- Magnetventildrivare
 
-## 认证标准
+## Certifieringsstandarder
 
 - GB 15322
 
-## 适用配件
+## Tillämpliga tillbehör
 
-- HS1CG / HS3CG 可燃气体探测器
+- HS1CG / HS3CG detektor för brännbar gas
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 可燃气体探测器](../../../产品类型/可燃气体探测器/index.md)
+- Se [Produkttyp: Detektor för brännbar gas](../../../Produkttyp/detektor för brännbar gas/index.md)

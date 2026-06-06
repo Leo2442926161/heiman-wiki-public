@@ -1,35 +1,35 @@
 ---
 sidebar_position: 15
 ---
-# M1-Z - 人体红外传感器（Zigbee）
+# M1-Z - Människokroppens infraröda sensor (Zigbee)
 
-## 概述
+## Översikt
 
-M1-Z 是海曼推出的紧凑型 Zigbee 人体红外传感器，支持 110° 或 360° 检测角度（视安装方式），内置光照度传感器，适用于智能照明和安防场景。
+M1-Z är en kompakt Zigbee infraröd sensor för människokroppen lanserad av Heiman. Den stöder 110° eller 360° detekteringsvinkel (beroende på installationsmetod), har en inbyggd belysningssensor och är lämplig för smart belysning och säkerhetsscenarier.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 被动红外（PIR）+ 光照度 |
-| 检测角度 | 110°（壁挂）/ 360°（吸顶） |
-| 检测距离 | ≤7 m（25°C） |
-| 光照度范围 | 0 ~ 1200 Lux |
-| 供电方式 | DC 3V 锂电池 |
-| 电池寿命 | 约 3 年 |
-| 工作温度 | -10°C ~ +50°C |
-| 安装方式 | 壁挂 / 吸顶 |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Passiv infraröd (PIR) + belysning |
+| Detekteringsvinkel | 110° (väggmonterad) / 360° (tak) |
+| Detektionsavstånd | ≤7 m (25°C) |
+| Belysningsstyrka | 0 ~ 1200 lux |
+| Strömförsörjningsmetod | DC 3V litiumbatteri |
+| Batteritid | Cirka 3 år |
+| Drifttemperatur | -10°C ~ +50°C |
+| Installationsmetod | Vägghängd/tak |
 
-## 功能特性
+## Funktioner
 
-- 移动人体检测
-- 光照度检测（0~1200 Lux）
-- 110° / 360° 可切换
-- 低电量提醒
-- 防拆报警
-- 紧凑型设计
+- Mobil mänsklig upptäckt
+- Belysningsdetektering (0~1200 Lux)
+- 110° / 360° omkopplingsbar
+- Påminnelse om lågt batteri
+- Anti-manipuleringslarm
+- Kompakt design
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 人体红外传感器](../../../产品类型/人体红外传感器/index.md)
+- Se [Produkttyp: Human Body Infrared Sensor](../../../Product Type/Human Body Infrared Sensor/index.md)

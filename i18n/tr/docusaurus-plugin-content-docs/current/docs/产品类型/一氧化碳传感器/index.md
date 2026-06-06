@@ -1,41 +1,41 @@
 ---
 sidebar_position: 2
 ---
-# 一氧化碳传感器
+# karbon monoksit sensörü
 
-一氧化碳（CO）是一种无色、无味、无刺激性的有毒气体，被称为"隐形杀手"。海曼一氧化碳传感器采用**电化学传感器技术**，可精准检测空气中的 CO 浓度。
+Karbon monoksit (CO), "görünmez katil" olarak bilinen, renksiz, kokusuz, tahriş edici olmayan zehirli bir gazdır. Hyman karbon monoksit sensörleri, havadaki CO konsantrasyonunu doğru şekilde tespit etmek için **elektrokimyasal sensör teknolojisini** kullanır.
 
-## 认证成就
+## Sertifikalı Başarılar
 
-海曼推出了**全球首批 Matter 认证的一氧化碳报警器**，并已通过 Works with Home Assistant 认证。
+Hyman, **dünyanın ilk Matter sertifikalı karbon monoksit alarmını** piyasaya sürdü ve Works with Home Assistant tarafından onaylandı.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 认证标准 | 适用市场 |
+| Serisi | İletişim yöntemleri | Sertifikasyon standartları | Uygulanabilir pazarlar |
 |------|----------|----------|----------|
-| HS1CA 系列 | Zigbee / Z-Wave | EN 50291 | 欧盟 |
-| C1 系列 | Zigbee | EN 50291 | 欧盟 |
-| HS1CA-M | Matter over Thread | EN 50291 | 全球 |
-| HS-720ES-M | Matter over Thread | UL 2034 | 美国 |
+| HS1CA Serisi | Zigbee / Z-Dalga | EN 50291 | Avrupa Birliği |
+| C1 Serisi | Zigbee | EN 50291 | Avrupa Birliği |
+| HS1CA-M | Konu Üzerindeki Madde | EN 50291 | Küresel |
+| HS-720ES-M | Konu Üzerindeki Madde | UL 2034 | Amerika Birleşik Devletleri |
 
-## 核心功能
+## Temel işlevler
 
-- 高精度电化学 CO 传感器
-- 检测范围：0~1000 ppm
-- 浓度分级报警（声光提示）
-- 85 dB 报警声
-- 低电量提醒
-- 传感器寿命到期提醒（典型 7 年）
-- 自检功能
+- Yüksek hassasiyetli elektrokimyasal CO sensörü
+- Algılama aralığı: 0~1000 ppm
+- Konsantrasyon dereceli alarm (sesli ve ışıklı uyarı)
+- 85 dB alarm sesi
+- Düşük pil hatırlatıcısı
+- Sensör ömrünün sona ermesi hatırlatıcısı (genellikle 7 yıl)
+- Kendi kendine test fonksiyonu
 
-## 安全提示
+## Güvenlik İpuçları
 
-CO 浓度与人体反应：
+CO konsantrasyonu ve insan vücudunun tepkisi:
 
-| CO 浓度（ppm） | 人体反应 |
+| CO konsantrasyonu (ppm) | İnsan vücudunun reaksiyonu |
 |---------------|----------|
-| 50 | 健康成人可承受 8 小时 |
-| 200 | 2-3 小时后轻度头痛 |
-| 400 | 1-2 小时后头痛恶心 |
-| 800 | 45 分钟内眩晕抽搐 |
-| 1600+ | 2 小时内致命 |
+| 50 | Sağlıklı yetişkinler 8 saati tolere edebilir |
+| 200 | 2-3 saat sonra hafif baş ağrısı |
+| 400 | 1-2 saat sonra baş ağrısı ve mide bulantısı |
+| 800 | 45 dakika içinde baş dönmesi ve kasılmalar |
+| 1600+ | 2 saat içinde ölümcül |

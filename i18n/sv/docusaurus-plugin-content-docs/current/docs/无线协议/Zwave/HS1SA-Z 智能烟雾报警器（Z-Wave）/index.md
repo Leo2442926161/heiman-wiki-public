@@ -1,61 +1,61 @@
 ---
 sidebar_position: 4
 ---
-# HS1SA-Z 智能烟雾报警器（Z-Wave）
+# HS1SA-Z Smart Brandvarnare (Z-Wave)
 
-HS1SA-Z 是海曼推出的 **Z-Wave** 智能烟雾报警器，采用光电式感烟技术，兼容 Z-Wave Plus 标准，适用于欧美智能家居市场。
+HS1SA-Z är en **Z-Wave** smart brandvarnare lanserad av Hyman. Den använder fotoelektrisk rökavkänningsteknik, är kompatibel med Z-Wave Plus-standarden och är lämplig för de europeiska och amerikanska smarta hemmarknaderna.
 
-## 产品概述
+## Produktöversikt
 
-- **产品类型**：智能烟雾报警器
-- **通信协议**：Z-Wave Plus
-- **认证标准**：EN 14604
-- **典型场景**：家庭、公寓等场所的火灾预警
+- **Produkttyp**: Smart Brandvarnare
+- **Kommunikationsprotokoll**: Z-Wave Plus
+- **Certifieringsstandard**: EN 14604
+- **Typiskt scenario**: Brandvarning i bostäder, lägenheter och andra platser
 
-## 技术参数
+## Tekniska parametrar
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 传感器类型 | 红外光电式 |
-| 通信协议 | Z-Wave Plus（ITU-T G.9959） |
-| 工作频段 | 868.42 MHz（欧盟）/ 908.42 MHz（美国） |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | CR123A 锂电池 |
-| 电池寿命 | 约 2~3 年 |
-| 加密方式 | S2 Authenticated / S2 Unauthenticated |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤90% RH（无凝结） |
+| Sensortyp | Infraröd fotoelektrisk |
+| Kommunikationsprotokoll | Z-Wave Plus (ITU-T G.9959) |
+| Driftsfrekvensband | 868,42 MHz (EU) / 908,42 MHz (USA) |
+| Larmljudtryck | ≥85 dB (3 meter) |
+| Strömförsörjningsmetod | CR123A litiumbatteri |
+| Batteritid | Cirka 2~3 år |
+| Krypteringsmetod | S2 Authenticated / S2 Unautenticated |
+| Drifttemperatur | -10°C ~ +50°C |
+| Arbetsfuktighet | ≤90 % RH (ingen kondensation) |
 
-## 功能特性
+## Funktioner
 
-- 光电式烟雾检测，可探测慢燃和明火烟雾
-- 85 dB 高声光报警
-- 低电量提醒
-- 自检功能
-- 防拆报警
-- Z-Wave S2 安全加密
-- 支持 OTA 固件升级
+- Fotoelektrisk rökdetektion för att upptäcka långsam bränning och rök med öppen låga
+- 85 dB högt ljud- och ljuslarm
+- Påminnelse om lågt batteri
+- Självtestfunktion
+- Anti-manipuleringslarm
+- Z-Wave S2 säker kryptering
+- Stöd uppgradering av OTA-firmware
 
-## 认证
+## Certifiering
 
-- EN 14604 认证
-- Z-Wave Plus 认证
-- S2 安全认证
+- EN 14604 certifiering
+- Z-Wave Plus certifierad
+- S2 säkerhetscertifiering
 
-## 兼容中枢
+## Kompatibilitetsnav
 
-| 中枢平台 | 支持情况 |
-|----------|----------|
+| Central plattform | Supportstatus |
+|--------|--------|
 | SmartThings Hub | ✅ |
-| Hubitat Elevation | ✅ |
+| Hubitat höjd | ✅ |
 | Homey Pro | ✅ |
-| Home Assistant（Z-Wave JS） | ✅ |
+| Hemmaassistent (Z-Wave JS) | ✅ |
 | OpenHAB | ✅ |
 | Vera | ✅ |
 | Fibaro | ✅ |
 
-## 相关链接
+## Relaterade länkar
 
-- [产品类型：烟雾传感器](../../../产品类型/烟雾传感器/index.md)
-- [Z-Wave 技术参数](../技术参数.md)
-- [支持型号列表](../支持型号列表.md)
+- [Produkttyp: Röksensor](../../../Produkttyp/Röksensor/index.md)
+- [Z-Wave tekniska parametrar](../technical parameters.md)
+- [Supported model list](../Supported model list.md)

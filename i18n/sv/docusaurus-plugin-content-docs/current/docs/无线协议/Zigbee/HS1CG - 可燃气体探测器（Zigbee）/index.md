@@ -1,41 +1,41 @@
 ---
 sidebar_position: 9
 ---
-# HS1CG - 可燃气体探测器（Zigbee）
+#HS1CG - Detektor för brännbar gas (Zigbee)
 
-## 概述
+## Översikt
 
-HS1CG 是海曼推出的 Zigbee 可燃气体探测器，采用半导体传感器，可检测天然气（甲烷）和液化石油气（LPG）泄漏，已通过 GB 15322 认证，支持联动电磁阀自动关阀。
+HS1CG är en Zigbee detektor för brännbar gas som lanserats av Hyman. Den använder halvledarsensorer och kan upptäcka läckor av naturgas (metan) och flytande petroleumgas (LPG). Den har godkänt GB 15322-certifieringen och stöder automatisk ventilstängning av länksystemets magnetventil.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 半导体 |
-| 检测气体 | 天然气（甲烷）/ 液化石油气（LPG） |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | AC 220V / DC 12V |
-| 认证标准 | GB 15322 |
-| 工作温度 | -10°C ~ +50°C |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Halvledare |
+| Testgas | Naturgas (metan)/Liquefied petroleum gas (LPG) |
+| Larmljudtryck | ≥85 dB (3 meter) |
+| Strömförsörjningsmetod | AC 220V / DC 12V |
+| Certifieringsstandarder | GB 15322 |
+| Drifttemperatur | -10°C ~ +50°C |
 
-## 功能特性
+## Funktioner
 
-- 天然气 / 液化气泄漏检测
-- 浓度分级报警
-- 自动切断联动（配合电磁阀）
-- 85 dB 声光报警
-- 自检功能
-- 传感器寿命到期提醒
+- Detektering av läckage av naturgas / flytande gas
+- Koncentrationsklassificeringslarm
+- Automatisk avstängningslänkage (med magnetventil)
+- 85 dB hörbart och visuellt larm
+- Självtestfunktion
+- Påminnelse om sensorns livslängd
 
-## 认证标准
+## Certifieringsstandarder
 
-- GB 15322（可燃气体探测器中国标准）
+- GB 15322 (kinesisk standard för detektorer för brännbar gas)
 
-## 适用配件
+## Tillämpliga tillbehör
 
-- JT 系列燃气紧急切断阀
+- JT-serien gas nödavstängningsventil
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 可燃气体探测器](../../../产品类型/可燃气体探测器/index.md)
+- Se [Produkttyp: Detektor för brännbar gas](../../../Produkttyp/detektor för brännbar gas/index.md)

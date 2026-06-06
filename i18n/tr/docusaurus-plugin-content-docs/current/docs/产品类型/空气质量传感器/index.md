@@ -1,34 +1,34 @@
 ---
 sidebar_position: 9
 ---
-# 空气质量传感器
+# hava kalitesi sensörü
 
-空气质量传感器（Air Quality Monitor）用于检测室内空气中的多种污染物，帮助维持健康的居住环境。
+Hava kalitesi sensörleri (Hava Kalitesi Monitörü), sağlıklı bir yaşam ortamının korunmasına yardımcı olmak amacıyla iç mekan havasındaki çeşitli kirleticileri tespit etmek için kullanılır.
 
-## 检测参数
+## Algılama parametreleri
 
-海曼空气质量传感器可检测以下指标：
+Hyman hava kalitesi sensörleri aşağıdaki göstergeleri tespit eder:
 
-| 参数 | 说明 | 健康标准 |
-|------|------|----------|
-| PM2.5 | 细颗粒物 | ≤ 35 µg/m³（24小时平均） |
-| PM10 | 可吸入颗粒物 | ≤ 50 µg/m³（24小时平均） |
-| CO₂ | 二氧化碳 | ≤ 1000 ppm |
-| TVOC | 总挥发性有机物 | ≤ 0.6 mg/m³ |
-| 温度 | 环境温度 | 18-26°C |
-| 湿度 | 相对湿度 | 40-60% RH |
+| Parametreler | Açıklama | Sağlık Standartları |
+|------|----------|----------|
+| PM2.5 | İnce parçacıklı madde | ≤ 35 µg/m³ (24 saatlik ortalama) |
+| PM10 | Solunabilir partikül madde | ≤ 50 µg/m³ (24 saatlik ortalama) |
+| CO₂ | Karbondioksit | ≤ 1000 ppm |
+| TVOC | Toplam uçucu organik bileşikler | ≤ 0,6 mg/m³ |
+| Sıcaklık | Ortam sıcaklığı | 18-26°C |
+| Nem | Bağıl Nem | %40-60 bağıl nem |
 
-## 核心功能
+## Temel işlevler
 
-- 多参数空气质量检测
-- 彩色显示屏（视型号）
-- 超标声光报警
-- 历史数据记录
-- 联动新风/空气净化器
+- Çok parametreli hava kalitesi tespiti
+- Renkli ekran (modele bağlı olarak)
+- Standardı aşmak için sesli ve ışıklı alarm
+- Geçmiş veri kayıtları
+- Bağlantılı temiz hava/hava temizleyici
 
-## 适用场景
+## Uygulanabilir senaryolar
 
-- 卧室：监测 CO₂ 水平，提示开窗通风
-- 儿童房：保障儿童呼吸健康
-- 办公室：提高工作效率和舒适度
-- 新装修房：监测甲醛/TVOC 释放情况
+- Yatak odası: CO₂ seviyelerini izleyin ve havalandırma için pencerelerin açılmasını isteyin
+- Çocuk odası: çocukların solunum sağlığını korur
+- Ofis: Üretkenliği ve konforu artırın
+- Yeni yenilenen evler: formaldehit/TVOC salınımını izleyin

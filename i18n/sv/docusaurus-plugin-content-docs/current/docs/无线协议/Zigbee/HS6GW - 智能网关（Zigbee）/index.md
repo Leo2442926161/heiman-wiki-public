@@ -1,36 +1,36 @@
 ---
 sidebar_position: 24
 ---
-# HS6GW - 智能网关（Zigbee）
+# HS6GW - Smart Gateway (Zigbee)
 
-## 概述
+## Översikt
 
-HS6GW 是海曼推出的 Zigbee 智能网关，作为海曼 Zigbee 网络的协调器，通过 Wi-Fi 或以太网上行连接互联网，支持最多 128 个子设备接入。
+HS6GW är en Zigbee smart gateway lanserad av Heiman. Som koordinator för Heimans Zigbee-nätverk ansluter den till Internet via Wi-Fi eller Ethernet-upplänk och stöder åtkomst av upp till 128 underenheter.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0（协调器） |
-| 上行连接 | Wi-Fi / 以太网 |
-| 最大节点 | 128 个子设备 |
-| 供电方式 | DC 5V USB 供电 |
+| Kommunikationsprotokoll | Zigbee 3.0 (koordinator) |
+| Upplänksanslutning | Wi-Fi / Ethernet |
+| Max noder | 128 underenheter |
+| Strömförsörjningsmetod | DC 5V USB-strömförsörjning |
 
-## 功能特性
+## Funktioner
 
-- Zigbee 网络协调器
-- Wi-Fi / 以太网上行连接
-- 设备自动发现和配对
-- 本地场景联动
-- 远程访问（通过海曼云平台）
-- 最多支持 128 个子设备
-- OTA 固件升级
+- Zigbee Network Coordinator
+- Wi-Fi / Ethernet upplänksanslutning
+- Automatisk enhetsupptäckt och ihopparning
+- Lokal scenkoppling
+- Fjärråtkomst (via Heiman Cloud Platform)
+- Stöder upp till 128 underenheter
+- OTA-firmwareuppgradering
 
-## 适用场景
+## Tillämpliga scenarier
 
-- 海曼全屋智能的核心连接点
-- 配合海曼 APP 实现远程监控
+- Kärnan i Heiman hela husets intelligens
+- Samarbeta med Haiman APP för att realisera fjärrövervakning
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 智能网关](../../../产品类型/智能网关/index.md)
+- Se [Produkttyp: Smart Gateway](../../../Product Type/Smart Gateway/index.md)

@@ -1,34 +1,34 @@
 ---
 sidebar_position: 5
 ---
-# Z-Wave
+#Z-Wave
 
-Z-Wave 是一种专为智能家居设计的无线 Mesh 网络协议，由 Z-Wave Alliance 管理，在欧美市场拥有广泛的普及率。
+Z-Wave är ett trådlöst Mesh-nätverksprotokoll designat för smarta hem. Det förvaltas av Z-Wave Alliance och har bred penetration på de europeiska och amerikanska marknaderna.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 特性 | 说明 |
+| Funktioner | Beskrivning |
 |------|------|
-| 工作频段 | 868.42 MHz（欧盟）/ 908.42 MHz（美国） |
-| 传输速率 | 最高 100 kbps（Z-Wave 800 系列） |
-| 网络拓扑 | Mesh 网络，最多 232 个节点 |
-| 兼容性 | 向后兼容所有 Z-Wave 设备 |
-| 安全性 | Z-Wave S2 加密 |
+| Driftsfrekvensband | 868,42 MHz (EU) / 908,42 MHz (USA) |
+| Överföringshastighet | Upp till 100 kbps (Z-Wave 800-serien) |
+| Nätverkstopologi | Mesh-nätverk, upp till 232 noder |
+| Kompatibilitet | Bakåtkompatibel med alla Z-Wave-enheter |
+| Säkerhet | Z-Wave S2-kryptering |
 
-## 海曼与 Z-Wave
+## Hyman och Z-Wave
 
-海曼提供多款 Z-Wave 兼容传感器，主要在欧美市场销售。Z-Wave 版本的海曼设备包括：
+Hyman erbjuder en mängd Z-Wave-kompatibla sensorer, huvudsakligen sålda på den europeiska och amerikanska marknaden. Z-Wave-versioner av Heyman-enheter inkluderar:
 
-- 一氧化碳传感器 HS1CA-Z
-- 烟雾传感器 HS1SA-Z
-- 门磁传感器 HS1DS-Z
+- Kolmonoxidsensor HS1CA-Z
+- Röksensor HS1SA-Z
+- Dörrgivare HS1DS-Z
 
-## 兼容平台
+## Kompatibla plattformar
 
 - SmartThings Hub
-- Hubitat Elevation
-- Homey Pro
-- Home Assistant（通过 Z-Wave JS）
-- OpenHAB
+- Hubitathöjd
+- Hemtrevlig Pro
+- Hemmaassistent (via Z-Wave JS)
+-OpenHAB
 
-> **注意**：Z-Wave 在中国市场普及度较低，海曼 Z-Wave 产品主要面向欧美出口市场。
+> **Obs**: Z-Wave har låg popularitet på den kinesiska marknaden, och Haiman Z-Waves produkter är främst inriktade på europeiska och amerikanska exportmarknader.

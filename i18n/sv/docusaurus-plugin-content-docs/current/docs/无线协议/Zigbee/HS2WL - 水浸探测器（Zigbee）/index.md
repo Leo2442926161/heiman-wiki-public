@@ -1,34 +1,34 @@
 ---
 sidebar_position: 19
 ---
-# HS2WL - 水浸探测器（Zigbee）
+#HS2WL - Vattenläckagedetektor (Zigbee)
 
-## 概述
+## Översikt
 
-HS2WL 是海曼推出的第二代 Zigbee 水浸探测器，支持探针和线缆双通道检测，可用于检测水管爆裂、水槽溢水等漏水事件。
+HS2WL är andra generationens Zigbee vattendoppningsdetektor lanserad av Hyman. Den stöder dubbelkanalsdetektering av sonder och kablar, och kan användas för att upptäcka vattenläckagehändelser som vattenrörsprängningar och översvämningar.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 检测方式 | 探针检测 + 线缆检测（双通道） |
-| 供电方式 | DC 3V 电池 |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤95% RH |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Detektionsmetod | Sonddetektering + kabeldetektering (dubbelkanal) |
+| Strömförsörjningsmetod | DC 3V batteri |
+| Drifttemperatur | -10°C ~ +50°C |
+| Arbetsfuktighet | ≤95 % RH |
 
-## 功能特性
+## Funktioner
 
-- 漏水 / 积水实时检测
-- 探针 + 线缆双通道检测
-- 蜂鸣器报警
-- 低电量提醒
-- 探针防腐蚀设计
+- Realtidsdetektering av vattenläckage/vattenansamling
+- Sond + kabel dubbelkanalsdetektering
+- Summerlarm
+- Påminnelse om lågt batteri
+- Korrosionsskyddande probdesign
 
-## 适用配件
+## Tillämpliga tillbehör
 
-- 延长检测线缆
+- Förläng detekteringskabeln
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 水浸探测传感器](../../../产品类型/水浸探测传感器/index.md)
+- Se [Product Type: Water Immersion Detection Sensor](../../../Product Type/Water Immersion Detection Sensor/index.md)

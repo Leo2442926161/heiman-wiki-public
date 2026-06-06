@@ -1,26 +1,26 @@
 ---
 sidebar_position: 7
 ---
-# Google Home
+#GoogleHome
 
-Google Home 是谷歌的智能家居平台，支持 Matter 协议和广泛的设备生态。
+Google Home är Googles smarta hemplattform som stöder Matter-protokollet och ett brett utbud av enhetsekosystem.
 
-## 集成方式
+## Integrationsmetod
 
-### Matter 设备
+### Matter Utrustning
 
-海曼 Matter over Thread 设备可直接添加到 Google Home App：
+Hyman Matter over Thread-enheter kan läggas till direkt i Google Home-appen:
 
-1. 确保拥有 Thread 边界路由器（Google Nest Hub Max、Nest Hub 2代 等）
-2. 打开 Google Home App
-3. 点击"添加" → "兼容 Matter 的设备"
-4. 扫描设备上的 Matter 配对码
+1. Se till att du har en trådkantsrouter (Google Nest Hub Max, Nest Hub 2nd Generation, etc.)
+2. Öppna Google Home-appen
+3. Klicka på "Lägg till" → "Matter-kompatibla enheter"
+4. Skanna Matter-parningskoden på din enhet
 
-### 语音控制
+### Röststyrning
 
-连接后可通过 Google Assistant 语音控制：
+När du är ansluten kan du styra den via Google Assistant-röst:
 
-- "Hey Google，烟雾报警器状态如何？"
-- "Hey Google，客厅温度是多少？"
+- "Hey Google, vad är statusen för brandvarnaren?"
+- "Hey Google, vad är temperaturen i vardagsrummet?"
 
-> **参考**：海曼 Matter 设备已在 Amazon 标注支持 Google Home
+> **Referens**: Hyman Matter-enheter är markerade på Amazon som stöder Google Home

@@ -1,33 +1,33 @@
 ---
 sidebar_position: 6
 ---
-# 温湿度传感器
+# Sıcaklık ve nem sensörü
 
-温湿度传感器用于实时监测环境温度和相对湿度，是智能家居环境监控的基础设备。
+Sıcaklık ve nem sensörleri, ortam sıcaklığını ve bağıl nemi gerçek zamanlı olarak izlemek için kullanılır ve akıllı ev ortamı izleme için temel ekipmanlardır.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 特点 |
+| Serisi | İletişim yöntemleri | Özellikler |
 |------|----------|------|
-| H1 系列 | Matter / Zigbee | Matter over Thread 版已获 WWHA 认证 |
+| H1 Serisi | Madde / Zigbee | Matter Over Thread sürümü WWHA sertifikalıdır |
 
-## 核心功能
+## Temel işlevler
 
-- 实时温湿度监测
-- 低电量提醒
-- 支持联动控制（温度高时开空调、湿度高时开除湿机等）
+- Gerçek zamanlı sıcaklık ve nem izleme
+- Düşük pil hatırlatıcısı
+-Destek bağlantı kontrolü (sıcaklık yüksek olduğunda klimayı açın, nem yüksek olduğunda nem alma cihazını açın vb.)
 
-## 技术参数
+## Teknik parametreler
 
-- 温度精度：±0.3°C
-- 湿度精度：±3% RH
-- 供电方式：CR2 电池
-- 电池寿命：约 2-3 年
+- Sıcaklık doğruluğu: ±0,3°C
+- Nem doğruluğu: ±3% RH
+- Güç kaynağı: CR2 pil
+- Pil ömrü: yaklaşık 2-3 yıl
 
-## 场景示例
+## Senaryo örneği
 
-- 联动空调/暖气自动调节室温
-- 联动除湿机/加湿器维持舒适湿度
-- 监测酒窖/雪茄柜环境
-- 厨房/卫生间排气扇自动控制
-- 种植大棚环境监测
+- Oda sıcaklığını otomatik olarak ayarlamak için bağlantılı klima/ısıtma
+- Konforlu nemi korumak için bağlantılı nem alma cihazı/nemlendirme cihazı
+- Şarap mahzeni/puro dolabı ortamını izleyin
+- Mutfak/banyo egzoz fanlarının otomatik kontrolü
+- Sera ekiminin çevresel takibi

@@ -1,41 +1,41 @@
 ---
 sidebar_position: 1
 ---
-# 海曼简介
+#HymanGiriş
 
-## 关于海曼
+## Hyman Hakkında
 
-深圳市海曼科技股份有限公司（Heiman）成立于 2005 年，是一家专注于智能家居安全领域的高新技术企业。公司总部位于中国深圳，拥有超过 20 年的行业经验，产品远销欧洲、美洲、亚洲等全球多个国家和地区。
+Shenzhen Heiman Technology Co., Ltd. (Heiman) 2005 yılında kurulmuştur. Akıllı ev güvenliği alanına odaklanan yüksek teknolojiye sahip bir kuruluştur. Şirketin genel merkezi Çin'in Shenzhen şehrinde bulunmaktadır ve 20 yıldan fazla endüstri tecrübesine sahiptir. Ürünleri Avrupa, Amerika ve Asya dahil olmak üzere dünyanın birçok ülkesine ve bölgesine ihraç edilmektedir.
 
-## 核心业务
+## Ana İş
 
-海曼科技以"用匠心守护安全，让科技温暖生活"为使命，主要业务涵盖：
+Haiman Technology, "güvenliği ustalıkla korumayı ve teknolojinin yaşamı ısıtmasını sağlamayı" misyon edinmiştir. Ana iş alanı şunları kapsar:
 
-- **智慧消防**：烟雾报警器、一氧化碳报警器、可燃气体探测器、火灾温感探测器等
-- **智慧燃气**：燃气泄漏检测与远程关断解决方案
-- **智慧养老**：跌倒检测、紧急呼叫等养老安全监护方案
-- **智能传感**：人体红外、人体存在、门磁、温湿度、水浸、空气质量等各类传感器
+- **Akıllı Yangın Koruması**: duman alarmları, karbon monoksit alarmları, yanıcı gaz dedektörleri, yangın sıcaklığı dedektörleri vb.
+- **Akıllı Gaz**: Gaz kaçağı tespiti ve uzaktan kapatma çözümü
+- **Akıllı yaşlı bakımı**: düşme algılama, acil durum çağrısı ve diğer yaşlı bakımı güvenliği izleme çözümleri
+- **Akıllı Sensörler**: İnsan vücudu kızılötesi, insan varlığı, kapı sensörleri, sıcaklık ve nem, suya daldırma, hava kalitesi ve diğer sensörler
 
-## 技术实力
+## Teknik güç
 
-海曼是 **Matter 协议** 的早期采用者和推动者，推出了全球首批 Matter 认证的一氧化碳报警器。产品支持多种无线协议：
+Hyman, dünyanın ilk Matter sertifikalı karbon monoksit alarmlarını başlatan **Matter Protokolü**'nü ilk benimseyen ve destekleyenlerden biriydi. Ürün birden fazla kablosuz protokolü destekler:
 
-- **Matter over Thread** — 最新智能家居互联标准
-- **Zigbee 3.0** — 成熟的低功耗 Mesh 网络
-- **Z-Wave** — 欧美主流智能家居协议
-- **Wi-Fi** — 直连无需网关
-- **Sub-1G** — 超远距离低功耗通信
-- **wM-Bus** — 无线计量总线
+- **Matter Over Thread** — en yeni akıllı ev ara bağlantı standardı
+- **Zigbee 3.0** — olgun, düşük güçlü ağ ağı
+- **Z-Wave** — Avrupa ve Amerika'nın ana akım akıllı ev protokolü
+- **Wi-Fi** — ağ geçidi olmadan doğrudan bağlantı
+- **Sub-1G** — Ultra uzun mesafeli, düşük güçlü iletişim
+- **wM-Bus** — Kablosuz ölçüm veri yolu
 
-## 生态合作
+## Ekolojik İşbirliği
 
-海曼产品已全面接入主流智能家居平台，包括 Home Assistant、Apple HomeKit、Google Home、Amazon Alexa、SmartThings、Homey、OpenHAB、Zigbee2MQTT、ZHA、Tuya 等，并通过了 **Works with Home Assistant** 官方认证。
+Haiman ürünleri, Home Assistant, Apple HomeKit, Google Home, Amazon Alexa, SmartThings, Homey, OpenHAB, Zigbee2MQTT, ZHA, Tuya vb. dahil ana akım akıllı ev platformlarına tamamen entegre edilmiştir ve **Works with Home Assistant** resmi sertifikasını geçmiştir.
 
-## 认证与资质
+## Sertifikalar ve Nitelikler
 
-- Works with Home Assistant 官方认证合作伙伴（2026）
-- Matter 认证设备
-- EN 14604（烟雾报警器欧洲标准）
-- EN 50291（一氧化碳报警器欧洲标准）
-- UL 217 / UL 2034（美国标准）
-- ISO 9001 质量管理体系认证
+- Ev Asistanı Resmi Sertifikalı İş Ortağı ile çalışır (2026)
+- Madde sertifikalı ekipman
+- EN 14604 (Duman alarmları için Avrupa standardı)
+- EN 50291 (Karbon monoksit alarmları için Avrupa standardı)
+- UL 217/UL 2034 (Amerikan Standardı)
+- ISO 9001 kalite yönetim sistemi sertifikası

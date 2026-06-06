@@ -1,27 +1,27 @@
 ---
 sidebar_position: 16
 ---
-# HS8MLS - 微动传感器（Zigbee）
+# HS8MLS - Micro Motion Sensor (Zigbee)
 
-## 概述
+## Översikt
 
-HS8MLS 是海曼推出的长距离 Zigbee 人体红外传感器（PIR），专为需要远距离检测的场景设计，适用于走廊、大厅等开阔空间。
+HS8MLS är en långdistans Zigbee infraröd sensor för mänsklig kropp (PIR) lanserad av Heiman. Den är speciellt designad för scener som kräver långdistansdetektering och är lämplig för öppna ytor som korridorer och hallar.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 被动红外（PIR） |
-| 检测距离 | 长距离检测 |
-| 供电方式 | DC 3V 电池 |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Passiv infraröd (PIR) |
+| Detektionsavstånd | Långdistansdetektering |
+| Strömförsörjningsmetod | DC 3V batteri |
 
-## 功能特性
+## Funktioner
 
-- 长距离移动检测
-- 低功耗设计
-- 支持场景联动
+- Rörelsedetektering på långa avstånd
+- Design med låg strömförbrukning
+- Stöd scenkoppling
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 人体红外传感器](../../../产品类型/人体红外传感器/index.md)
+- Se [Produkttyp: Human Body Infrared Sensor](../../../Product Type/Human Body Infrared Sensor/index.md)

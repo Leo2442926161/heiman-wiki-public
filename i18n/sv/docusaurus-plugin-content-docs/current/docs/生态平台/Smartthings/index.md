@@ -1,20 +1,20 @@
 ---
 sidebar_position: 5
 ---
-# SmartThings
+#SmartThings
 
-SmartThings 是三星推出的智能家居平台，支持 Zigbee、Z-Wave 和 Matter 协议。
+SmartThings är en smart hemplattform lanserad av Samsung som stöder Zigbee, Z-Wave och Matter-protokoll.
 
-## 集成方式
+## Integrationsmetod
 
-海曼设备可通过以下方式接入 SmartThings：
+Heiman-enheter kan ansluta till SmartThings på följande sätt:
 
-1. **Matter 设备**：通过 SmartThings Hub 或支持 Matter 的三星设备（如 Family Hub 冰箱、SmartThings  Station）直接添加
-2. **Zigbee 设备**：SmartThings Hub v2/v3 内置 Zigbee 芯片，可直连海曼 Zigbee 传感器
-3. **Z-Wave 设备**：SmartThings Hub 支持 Z-Wave，海曼 Z-Wave 设备可直接配对
+1. **Matter Devices**: Lägg till direkt via SmartThings Hub eller Matter-aktiverade Samsung-enheter (t.ex. Family Hub Refrigerator, SmartThings Station)
+2. **Zigbee-enhet**: SmartThings Hub v2/v3 har inbyggt Zigbee-chip och kan anslutas direkt till Heiman Zigbee-sensor
+3. **Z-Wave-enheter**: SmartThings Hub stöder Z-Wave, och Heiman Z-Wave-enheter kan paras direkt
 
-## 认证状态
+## Autentiseringsstatus
 
-海曼 Matter 人体红外传感器已在 Amazon 等渠道标注支持 SmartThings，用户评价良好。
+Den infraröda sensorn Hyman Matter för mänsklig kropp har markerats som stöd för SmartThings på Amazon och andra kanaler, och har fått bra recensioner från användare.
 
-> **参考**：[SmartThings 兼容设备列表](https://www.smartthings.com/products)
+> **Referens**: [SmartThings-kompatibla enhetslista](https://www.smartthings.com/products)

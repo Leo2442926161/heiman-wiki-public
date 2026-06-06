@@ -1,34 +1,34 @@
 ---
 sidebar_position: 10
 ---
-# 可燃气体探测器
+#yanıcı gaz dedektörü
 
-可燃气体探测器用于检测天然气（甲烷）、液化石油气（丙烷）等可燃气体的泄漏，是厨房安全的核心设备。
+Yanıcı gaz dedektörleri, doğal gaz (metan) ve sıvılaştırılmış petrol gazı (propan) gibi yanıcı gazların sızıntılarını tespit etmek için kullanılır. Bunlar mutfak güvenliği için temel ekipmanlardır.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 检测气体 | 认证标准 |
+| Serisi | İletişim yöntemi | Gaz algılama | Sertifikasyon standartları |
 |------|----------|----------|----------|
-| JT-G1 | 独立式 | 天然气/液化气 | GB 15322 |
-| JT-HS1CG 系列 | Zigbee | 天然气/液化气 | GB 15322 |
-| JT-HS3CG | Zigbee | 天然气/液化气 | GB 15322 |
-| JT-HS8CG | Zigbee / Wi-Fi | 天然气/液化气 | GB 15322 |
+| JT-G1 | Bağımsız | Doğal gaz/sıvılaştırılmış gaz | GB 15322 |
+| JT-HS1CG Serisi | Zigbee | Doğal Gaz/Sıvılaştırılmış Gaz | GB 15322 |
+| JT-HS3CG | Zigbee | Doğal gaz/sıvılaştırılmış gaz | GB 15322 |
+| JT-HS8CG | Zigbee / Wi-Fi | Doğal gaz/sıvılaştırılmış gaz | GB 15322 |
 
-## 核心功能
+## Temel işlevler
 
-- 高稳定性半导体气体传感器
-- 泄漏浓度分级报警
-- 自动切断联动（配合电磁阀）
-- 声光报警（≥85 dB）
-- 自检功能
-- 传感器寿命到期提醒
+- Yüksek stabiliteye sahip yarı iletken gaz sensörü
+- Kaçak konsantrasyonu sınıflandırma alarmı
+- Otomatik kesme bağlantısı (solenoid valfli)
+- Sesli ve ışıklı alarm (≥85 dB)
+- Kendi kendine test fonksiyonu
+- Sensör ömrünün sona ermesi hatırlatıcısı
 
-## 场景联动
+## Sahne bağlantısı
 
-- **检测到泄漏 → 联动关断阀**：自动关闭燃气管道阀门
-- **报警 + 排风**：自动开启排风扇 / 油烟机
-- **推送通知**：手机实时收到泄漏报警信息
+- **Sızıntı algılandı → Bağlantılı kapatma vanası**: Gaz boru hattı vanasını otomatik olarak kapatın
+- **Alarm + Egzoz**: Egzoz fanını/davlumbazını otomatik olarak açar
+- **Anlık Bildirim**: Cep telefonunuz sızıntı alarmı bilgilerini gerçek zamanlı olarak alır
 
-## 安全提示
+## Güvenlik İpuçları
 
-如闻到燃气味，切勿开关电器或使用明火，应立即开窗通风并到室外安全区域报警。
+Gaz kokusu alırsanız elektrikli aletleri açıp kapatmayın veya açık alev kullanmayın. Hemen havalandırma için pencereleri açmalı ve polisi aramak için güvenli bir dış alana gitmelisiniz.

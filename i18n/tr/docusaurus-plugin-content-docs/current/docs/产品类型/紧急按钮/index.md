@@ -1,32 +1,32 @@
 ---
 sidebar_position: 14
 ---
-# 紧急按钮
+#panik butonu
 
-紧急按钮（Emergency Button / Panic Button）用于在紧急情况下快速触发求救信号，是智慧养老和安防系统的重要组成部分。
+Acil durum butonu (Acil Durum Butonu/Panik Butonu) acil bir durumda hızlı bir şekilde tehlike sinyalini tetiklemek için kullanılır ve akıllı yaşlı bakımı ve güvenlik sisteminin önemli bir parçasıdır.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 特点 |
+| Serisi | İletişim yöntemleri | Özellikler |
 |------|----------|------|
-| 紧急按钮 | Zigbee | 便携式，一键求救 |
+| Acil durum düğmesi | Zigbee | Taşınabilir, tek tuşla yardım çağrısı |
 
-## 核心功能
+## Temel işlevler
 
-- 一键触发紧急报警
-- 便携式设计（可随身携带或壁挂）
-- 低电量提醒
-- 防误触设计（长按触发）
+- Tek tıklamayla acil durum alarmını tetikleyin
+- Taşınabilir tasarım (etrafta taşınabilir veya duvara monte edilebilir)
+- Düşük pil hatırlatıcısı
+- Kaza önleyici dokunmatik tasarım (uzun basılan tetiğe)
 
-## 适用场景
+## Uygulanabilir senaryolar
 
-- **智慧养老**：老人突发疾病或摔倒时一键求救
-- **儿童房**：孩子独自在家时遇到紧急情况使用
-- **医疗护理**：病房/养老院床位呼叫
-- **商铺/前台**：遇到抢劫或紧急情况触发隐秘报警
+- **Akıllı Yaşlı Bakımı**: Yaşlılar aniden hastalandıklarında veya düştüklerinde tek tıkla yardım çağırabilirler.
+- **Çocuk Odası**: Çocukların evde yalnız kaldığı acil durumlarda kullanılır
+- **Tıbbi Bakım**: Koğuş/Bakımevi Yatak Çağrısı
+- **Mağaza/Ön Büro**: Soygun veya acil durumlarda gizli alarmı tetikleyin
 
-## 触发联动
+## Tetik bağlantısı
 
-- 手机推送通知给家人 / 监护人
-- 声光报警器联动
-- 自动呼叫物业或 120
+- Aile üyelerine/vasilere cep telefonu anlık bildirimleri
+- Sesli ve ışıklı alarm bağlantısı
+- Tesisi otomatik olarak arayın veya 120'yi arayın

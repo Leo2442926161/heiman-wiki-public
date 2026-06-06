@@ -1,34 +1,34 @@
 ---
 sidebar_position: 14
 ---
-# HS3MS - 人体红外传感器（Zigbee）
+#HS3MS - Människokroppens infraröda sensor (Zigbee)
 
-## 概述
+## Översikt
 
-HS3MS 是海曼第三代 Zigbee 人体红外传感器，采用 360° 吸顶安装设计，检测灵敏度和覆盖范围均较上一代显著提升。
+HS3MS är Hymans tredje generationens Zigbee infraröda sensor för människokroppen. Den har en 360° takmonterad design, och dess detekteringskänslighet och täckning är avsevärt förbättrad jämfört med föregående generation.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 被动红外（PIR） |
-| 检测角度 | 360°（吸顶安装） |
-| 检测距离 | ≤7 m（25°C） |
-| 供电方式 | DC 3V 锂电池 |
-| 电池寿命 | 约 3 年 |
-| 工作温度 | -10°C ~ +50°C |
-| 安装方式 | 吸顶安装 |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Passiv infraröd (PIR) |
+| Detekteringsvinkel | 360° (takmontering) |
+| Detektionsavstånd | ≤7 m (25°C) |
+| Strömförsörjningsmetod | DC 3V litiumbatteri |
+| Batteritid | Cirka 3 år |
+| Drifttemperatur | -10°C ~ +50°C |
+| Installationsmetod | Takinstallation |
 
-## 功能特性
+## Funktioner
 
-- 移动人体检测
-- 360° 全向覆盖
-- 低电量提醒
-- 防拆报警
-- 检测灵敏度提升
-- 支持场景联动
+- Mobil mänsklig upptäckt
+- 360° rundstrålande täckning
+- Påminnelse om lågt batteri
+- Anti-manipuleringslarm
+- Förbättrad detektionskänslighet
+- Stöd scenkoppling
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 人体红外传感器](../../../产品类型/人体红外传感器/index.md)
+- Se [Produkttyp: Human Body Infrared Sensor](../../../Product Type/Human Body Infrared Sensor/index.md)

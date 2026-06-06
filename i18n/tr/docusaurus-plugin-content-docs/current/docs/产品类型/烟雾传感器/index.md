@@ -1,34 +1,34 @@
 ---
 sidebar_position: 1
 ---
-# 烟雾传感器
+# duman sensörü
 
-海曼烟雾传感器采用**光电式感烟技术**，可灵敏探测火灾初期产生的可见烟雾颗粒，实现极早期火灾预警。
+Hyman duman sensörü, yangının erken aşamalarında oluşan görünür duman parçacıklarını hassas bir şekilde algılayabilen ve çok erken yangın uyarısı sağlayan **fotoelektrik duman algılama teknolojisini** kullanır.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 认证标准 | 适用市场 |
+| Serisi | İletişim yöntemleri | Sertifikasyon standartları | Uygulanabilir pazarlar |
 |------|----------|----------|----------|
-| HS1SA 系列 | Zigbee / Z-Wave | EN 14604 | 欧盟 |
-| HS3SA 系列 | Zigbee | EN 14604 | 欧盟 |
-| HS8SA | Zigbee / Wi-Fi | UL 217 | 美国 |
-| S1 系列 | Sub-1G 独立式 | EN 14604 | 通用 |
-| HS1SA-M | Matter over Thread | EN 14604 | 全球 |
+| HS1SA Serisi | Zigbee / Z-Dalga | EN 14604 | Avrupa Birliği |
+| HS3SA Serisi | Zigbee | EN 14604 | Avrupa Birliği |
+| HS8SA | Zigbee / Wi-Fi | UL217 | Amerika Birleşik Devletleri |
+| S1 Serisi | Sub-1G Bağımsız | EN 14604 | Genel Amaçlı |
+| HS1SA-M | Konu Üzerindeki Madde | EN 14604 | Küresel |
 
-## 核心功能
+## Temel işlevler
 
-- 光电式烟雾检测，可探测慢燃和明火产生的烟雾
-- 85 dB 高声光报警
-- 低电量提醒
-- 自检功能（一键测试）
-- 防拆报警
-- 支持远程静音
+- Yavaş yanıklardan ve açık alevlerden kaynaklanan dumanı tespit etmek için fotoelektrik duman algılama
+- 85 dB yüksek sesli ve ışıklı alarm
+- Düşük pil hatırlatıcısı
+- Kendi kendine test fonksiyonu (tek tıkla test)
+- Kurcalamaya karşı alarm
+-Uzaktan sessize alma desteği
 
-## 技术参数（以 HS1SA-M 为例）
+## Teknik parametreler (örnek olarak HS1SA-M alınır)
 
-- 传感器类型：红外光电式
-- 报警声压：≥85 dB（3米）
-- 供电方式：CR123A 电池
-- 电池寿命：约 3 年
-- 工作温度：-10°C ~ +50°C
-- 工作湿度：≤95% RH
+- Sensör tipi: kızılötesi fotoelektrik
+- Alarm ses basıncı: ≥85 dB (3 metre)
+- Güç kaynağı: CR123A pil
+- Pil ömrü: yaklaşık. 3 yıl
+- Çalışma sıcaklığı: -10°C ~ +50°C
+- Çalışma nemi: ≤95% RH

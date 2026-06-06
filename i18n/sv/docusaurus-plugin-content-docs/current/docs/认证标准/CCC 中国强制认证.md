@@ -1,39 +1,39 @@
 ---
 sidebar_position: 2
 ---
-# CCC 中国强制认证
+# CCC China Obligatorisk certifiering
 
-CCC（China Compulsory Certification，中国强制认证）是中国政府为保障人身和财产安全而实施的强制性产品认证制度。
+CCC (China Compulsory Certification) är ett obligatoriskt produktcertifieringssystem implementerat av den kinesiska regeringen för att säkerställa säkerheten för människor och egendom.
 
-## 适用范围
+## Tillämpningsomfång
 
-CCC 认证覆盖海曼以下产品类别：
+CCC-certifieringen täcker följande produktkategorier av Hyman:
 
-| 产品类别 | CCC 标准 | 说明 |
-|----------|----------|------|
-| 独立式感烟火灾探测报警器 | GB 20517 | 烟雾报警器 CCC 强制 |
-| 可燃气体探测器 | GB 15322.2 | 燃气泄漏探测 CC 强制 |
-| 一氧化碳探测器 | 按 GB 标准 | 部分品类强制 |
+| Produktkategorier | CCC-standarder | Beskrivning |
+|--------|--------|------|
+| Oberoende brandvarnare | GB 20517 | Brandvarnare CCC obligatoriskt |
+| Detektor för brännbar gas | GB 15322.2 | Gasläckagedetektering CC obligatorisk |
+| Kolmonoxiddetektor | Enligt GB-standarder | Vissa kategorier är obligatoriska |
 
-## 主要 GB 标准
+## Huvudstandarder för GB
 
-### GB 20517 — 独立式感烟火灾探测报警器
+### GB 20517 — Oberoende rökavkännande branddetekteringslarm
 
-海曼通过 CCC 认证的烟雾报警器符合 GB 20517 要求，可直接在中国市场销售。
+Haymans CCC-certifierade brandvarnare uppfyller kraven i GB 20517 och kan säljas direkt på den kinesiska marknaden.
 
-### GB 15322.2 — 可燃气体探测器 第2部分
+### GB 15322.2 — Detektorer för brännbar gas del 2
 
-海曼 JT 系列、HS1CG 系列可燃气体探测器通过 GB 15322.2 认证，满足中国燃气报警器市场准入要求。
+Hyman JT-serien och HS1CG-seriens brännbara gasdetektorer har godkänt GB 15322.2-certifieringen och uppfyller Kinas krav på tillträde till marknaden för gaslarm.
 
-## CCC 标志
+## CCC-logotyp
 
-通过 CCC 认证的产品会标注 CCC 标志，用户可通过中国国家认证认可监督管理委员会官网查询认证编号。
+Produkter som har klarat CCC-certifieringen kommer att märkas med CCC-märket, och användare kan kontrollera certifieringsnumret via den officiella webbplatsen för China Certification and Accreditation Administration.
 
-## 与 EN/UL 的主要区别
+## Huvudsakliga skillnader från EN/UL
 
-| 方面 | CCC | EN | UL |
+| Aspekter | CCC | SV | UL |
 |------|-----|----|-----|
-| 适用地区 | 中国 | 欧盟 | 美国/加拿大 |
-| 认证机构 | CQC 等 | 第三方公告机构 | UL LLC |
-| 标准体系 | GB 标准 | EN 标准 | UL 标准 |
-| 工厂检查 | 需要初始+年检 | 需要 | 需要 |
+| Tillämpliga regioner | Kina | Europeiska unionen | USA/Kanada |
+| Certifieringsorgan | CQC, etc. | Anmälda tredjepartsorgan | UL LLC |
+| Standardsystem | GB standard | EN standard | UL-standard |
+| Fabriksinspektion | Första + årlig inspektion krävs | Krävs | Krävs |

@@ -1,45 +1,45 @@
 ---
 sidebar_position: 5
 ---
-# HS3SA - 智能烟雾报警器（Zigbee）
+#HS3SA - Smart Brandvarnare (Zigbee)
 
-## 概述
+## Översikt
 
-HS3SA 是海曼第三代 Zigbee 智能烟雾报警器，在第一代基础上增强了检测性能和联动能力，适用于欧盟市场。
+HS3SA är Hymans tredje generation Zigbee smarta brandvarnare. Den har förbättrad detektionsprestanda och kopplingskapacitet baserad på den första generationen och är lämplig för EU-marknaden.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 红外光电式 |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | DC 3V（CR123A） |
-| 电池寿命 | 约 3 年 |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤95% RH |
-| 安装方式 | 吸顶安装 |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Infraröd fotoelektrisk |
+| Larmljudtryck | ≥85 dB (3 meter) |
+| Strömförsörjningsmetod | DC 3V (CR123A) |
+| Batteritid | Cirka 3 år |
+| Drifttemperatur | -10°C ~ +50°C |
+| Arbetsfuktighet | ≤95 % RH |
+| Installationsmetod | Takinstallation |
 
-## 功能特性
+## Funktioner
 
-- 光电式烟雾检测
-- 85 dB 高声光报警
-- 低电量提醒
-- 自检功能
-- 防拆报警
-- 支持远程静音
-- OTA 固件升级
-- 增强型无线性能
+- Fotoelektrisk rökdetektion
+- 85 dB högt ljud- och ljuslarm
+- Påminnelse om lågt batteri
+- Självtestfunktion
+- Anti-manipuleringslarm
+-Stöd för fjärravstängning
+- OTA-firmwareuppgradering
+- Förbättrad trådlös prestanda
 
-## 认证标准
+## Certifieringsstandarder
 
-- EN 14604
-- CE / RED
+-EN 14604
+-CE/RED
 
-## 适用配件
+## Tillämpliga tillbehör
 
-- CR123A 电池
+- CR123A batteri
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 烟雾传感器](../../../产品类型/烟雾传感器/index.md)
+- Se [Produkttyp: Röksensor](../../../Produkttyp/Röksensor/index.md)

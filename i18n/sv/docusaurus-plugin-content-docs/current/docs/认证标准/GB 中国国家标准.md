@@ -1,20 +1,20 @@
 ---
 sidebar_position: 4
 ---
-# GB 中国国家标准
+# GB Kinas nationella standard
 
-GB（Guóbiāo，国家标准）是中华人民共和国国家标准的简称，由国务院标准化行政主管部门制定。
+GB (Guóbiāo, National Standard) är en förkortning av National Standard of the People's Republic of China och är formulerad av den administrativa standardiseringsavdelningen i State Council.
 
-## 海曼产品涉及的主要 GB 标准
+## De viktigaste GB-standarderna som är involverade i Haiman-produkter
 
-| 标准编号 | 标准名称 | 适用产品 |
-|----------|----------|----------|
-| GB 20517 | 独立式感烟火灾探测报警器 | 烟雾报警器 |
-| GB 15322.1 | 可燃气体探测器 第1部分：工业及商业用途 | 工业燃气探测器 |
-| GB 15322.2 | 可燃气体探测器 第2部分：家用 | 家用燃气探测器 |
-| GB/T 31141 | 家用一氧化碳报警器 | CO 报警器 |
-| GB 4706.1 | 家用和类似用途电器的安全 | 智能插座 |
+| Standardnummer | Standardnamn | Tillämpliga produkter |
+|--------|--------|--------|
+| GB 20517 | Oberoende rökavkännande branddetekteringslarm | Brandvarnare |
+| GB 15322.1 | Detektorer för brännbar gas Del 1: Industriell och kommersiell användning | Industriella gasdetektorer |
+| GB 15322.2 | Detektorer för brännbar gas Del 2: Hushållsbruk | Hushållsgasdetektorer |
+| GB/T 31141 | Hushållens kolmonoxidlarm | CO-larm |
+| GB 4706.1 | Säkerhet för hushållsapparater och liknande elektriska apparater | Smarta uttag |
 
-## CCC 与 GB 的关系
+## Förhållandet mellan CCC och GB
 
-CCC 认证（中国强制认证）以 GB 标准为技术依据。产品通过 CCC 认证即证明其符合相关 GB 标准要求。
+CCC-certifiering (China Compulsory Certification) är baserad på GB-standarder som teknisk grund. Produkter som klarar CCC-certifiering bevisar att de följer relevanta GB-standarder.

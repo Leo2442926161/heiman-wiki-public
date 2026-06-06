@@ -1,26 +1,26 @@
 ---
 sidebar_position: 6
 ---
-# Apple Home（HomeKit）
+#AppleHome(HomeKit)
 
-Apple HomeKit 是苹果公司的智能家居平台，以其强大的隐私保护和本地化控制著称。
+Apple HomeKit är Apples smarta hemplattform, känd för sitt starka integritetsskydd och lokaliserade kontroll.
 
-## 集成方式
+## Integrationsmetod
 
-### Matter 设备（推荐）
+### Matter-enhet (rekommenderas)
 
-海曼 Matter over Thread 设备可原生接入 Apple Home：
+Heymann Matter over Thread-enheter ansluter inbyggt till Apple Home:
 
-- 需要 Apple HomePod（mini/2代）、Apple TV 4K 或 HomePod 作为 Thread 边界路由器
-- 使用 iOS/iPadOS 16.4 及以上版本的设备
-- 打开"家庭"App → 添加配件 → 扫描 Matter 配对码
+- Kräver Apple HomePod (mini/2:a generationen), Apple TV 4K eller HomePod som trådkantsrouter
+- Enheter som använder iOS/iPadOS 16.4 och senare
+- Öppna "Hem"-appen → Lägg till tillbehör → Skanna Matter-parningskoden
 
-### Zigbee 设备
+### Zigbee-enheter
 
-通过 Homebridge 插件，可将海曼 Zigbee 设备桥接到 Apple Home：
+Homebridge-plugin-programmet låter dig koppla Heimann Zigbee-enheter till Apple Home:
 
-```bash
-npm install -g homebridge-zigbee-nt
+``` bash
+npm installera -g homebridge-zigbee-nt
 ```
 
-> **注意**：Matter 设备已获得 Works with Home Assistant 认证，在 Apple Home 中同样表现出色
+> **OBS**: Matter-enheter är Works with Home Assistant-certifierade och fungerar bra med Apple Home

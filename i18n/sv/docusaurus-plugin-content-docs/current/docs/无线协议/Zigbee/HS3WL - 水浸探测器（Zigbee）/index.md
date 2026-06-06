@@ -1,30 +1,30 @@
 ---
 sidebar_position: 20
 ---
-# HS3WL - 水浸探测器（Zigbee）
+# HS3WL - Vattenläckagedetektor (Zigbee)
 
-## 概述
+## Översikt
 
-HS3WL 是海曼第三代 Zigbee 水浸探测器，在上一代基础上增强了检测灵敏度和无线性能，适用于漏水监测场景。
+HS3WL är Hymans tredje generationens Zigbee vattennedsänkningsdetektor. Den har förbättrad detekteringskänslighet och trådlös prestanda baserat på föregående generation och är lämplig för scenarier för övervakning av vattenläckage.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 检测方式 | 探针检测 |
-| 供电方式 | DC 3V 电池 |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤95% RH |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Detektionsmetod | Sonddetektering |
+| Strömförsörjningsmetod | DC 3V batteri |
+| Drifttemperatur | -10°C ~ +50°C |
+| Arbetsfuktighet | ≤95 % RH |
 
-## 功能特性
+## Funktioner
 
-- 漏水 / 积水实时检测
-- 增强型检测灵敏度
-- 蜂鸣器报警
-- 低电量提醒
-- 探针防腐蚀设计
+- Realtidsdetektering av vattenläckage/vattenansamling
+- Förbättrad detektionskänslighet
+- Summerlarm
+- Påminnelse om lågt batteri
+- Korrosionsskyddande probdesign
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 水浸探测传感器](../../../产品类型/水浸探测传感器/index.md)
+- Se [Product Type: Water Immersion Detection Sensor](../../../Product Type/Water Immersion Detection Sensor/index.md)

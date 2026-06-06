@@ -1,22 +1,22 @@
 ---
 sidebar_position: 4
 ---
-# OpenHAB
+#OpenHAB
 
-OpenHAB 是一个开源的家居自动化平台，专注于厂商中立和协议无关的集成。
+OpenHAB är en hemautomatiseringsplattform med öppen källkod fokuserad på leverantörsneutral och protokollneutral integration.
 
-## 集成方式
+## Integrationsmetod
 
-### Zigbee 绑定
+### Zigbee-bindning
 
-通过 OpenHAB 的 Zigbee 绑定，海曼 Zigbee 传感器可直接接入。需配合 Zigbee 协调器（如 Conbee II、SLZB-06）使用。
+Med OpenHAB:s Zigbee-bindning kan Heymann Zigbee-sensorer kopplas in direkt. Behöver användas med Zigbee-koordinator (som Conbee II, SLZB-06).
 
-### Matter 绑定
+### Materiabindande
 
-OpenHAB 4.x 及以上版本支持 Matter 协议，海曼 Matter 设备可通过 Matter 绑定集成，需 Thread 边界路由器。
+OpenHAB 4.x och senare stöder Matter-protokollet. Hyman Matter-enheter kan integreras genom Matter-bindning, vilket kräver en trådkantsrouter.
 
-### MQTT 方式
+### MQTT-metod
 
-配合 Zigbee2MQTT 使用，通过 MQTT 绑定接收传感器数据。
+Används med Zigbee2MQTT för att ta emot sensordata via MQTT-bindning.
 
-> **参考**：[OpenHAB Zigbee Binding 文档](https://www.openhab.org/addons/bindings/zigbee/)
+> **Referens**: [OpenHAB Zigbee Binding Document](https://www.openhab.org/addons/bindings/zigbee/)

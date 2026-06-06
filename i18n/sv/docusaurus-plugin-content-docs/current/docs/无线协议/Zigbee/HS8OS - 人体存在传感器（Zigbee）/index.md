@@ -1,36 +1,36 @@
 ---
 sidebar_position: 18
 ---
-# HS8OS - 人体存在传感器（Zigbee）
+#HS8OS - Mänsklig närvarosensor (Zigbee)
 
-## 概述
+## Översikt
 
-HS8OS 是海曼推出的 Zigbee 人体存在传感器，采用毫米波雷达技术，能够检测静止状态下的人体存在（如躺卧、静坐），弥补了传统 PIR 传感器只能检测移动的不足。
+HS8OS är en Zigbee mänsklig närvarosensor lanserad av Hyman. Den använder sig av millimetervågsradarteknik och kan upptäcka närvaron av människokroppen i ett statiskt tillstånd (som att ligga ner, sitta tyst), vilket kompenserar för bristerna hos traditionella PIR-sensorer som bara kan upptäcka rörelse.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 毫米波雷达（mmWave） |
-| 检测范围 | 半径 3 ~ 5 m |
-| 检测能力 | 静止人体存在（含微动呼吸检测） |
-| 供电方式 | AC 供电 |
-| 安装方式 | 吸顶安装 |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Millimetervågsradar (mmWave) |
+| Detektionsområde | Radie 3 ~ 5 m |
+| Detektionsförmåga | Förekomst av stationär människokropp (inklusive mikrorespirationsdetektion) |
+| Strömförsörjningsmetod | AC strömförsörjning |
+| Installationsmetod | Takinstallation |
 
-## 功能特性
+## Funktioner
 
-- 静止人体检测（呼吸微动）
-- 覆盖半径 3~5 米
-- 吸顶安装，最佳检测角度
-- 可与 PIR 传感器互补使用
+- Stationär mänsklig kroppsdetektering (andningsmikrorörelser)
+- Täckningsradie 3~5 meter
+- Takmontering, optimal detekteringsvinkel
+- Kan användas som komplement till PIR-sensorer
 
-## 适用场景
+## Tillämpliga scenarier
 
-- 智能照明：有人常亮，无人自动熄灯
-- 空调节能：人走自动关空调
-- 智慧养老：老人长时间静止预警
+- Intelligent belysning: alltid på när någon är där, släcks automatiskt när ingen är i närheten
+- Luftkonditionering energibesparing: stänger automatiskt av luftkonditioneringen när folk går
+– Smart äldreomsorg: Tidig varning för äldre om de står stilla länge
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 人体存在传感器](../../../产品类型/人体存在传感器/index.md)
+- Se [Produkttyp: Mänsklig närvarosensor](../../../Product Type/Human Presence Sensor/index.md)

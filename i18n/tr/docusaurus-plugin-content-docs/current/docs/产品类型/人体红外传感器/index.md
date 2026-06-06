@@ -1,38 +1,38 @@
 ---
 sidebar_position: 4
 ---
-# 人体红外传感器
+# İnsan vücudu kızılötesi sensörü
 
-人体红外传感器（PIR）通过检测人体发出的红外热辐射来感知移动，是智能家居中最常用的存在检测方案。
+İnsan vücudu kızılötesi sensörü (PIR), insan vücudunun yaydığı kızılötesi ısı radyasyonunu tespit ederek hareketi algılar ve akıllı evlerde en yaygın kullanılan varlık algılama çözümüdür.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 特点 |
+| Serisi | İletişim yöntemleri | Özellikler |
 |------|----------|------|
-| HS1MS | Zigbee | 基础款，110° 检测角 |
-| HS3MS | Zigbee | 升级款，360° 吸顶安装 |
-| M1 系列 | Matter / Zigbee | 支持 Matter over Thread，可选 110° 或 360° |
-| HS8MLS | Zigbee | 长距离款 |
-| HS8MIS | Zigbee | 人体+光照度复合传感器 |
+| HS1MS | Zigbee | Temel model, 110° algılama açısı |
+| HS3MS | Zigbee | Yükseltilmiş model, 360° tavana montaj |
+| M1 Serisi | Madde / Zigbee | Matter Over Thread'i destekler, isteğe bağlı 110° veya 360° |
+| HS8MLS | Zigbee | Uzun mesafe modeli |
+| HS8MIS | Zigbee | İnsan vücudu + aydınlatma kompozit sensörü |
 
-## 核心功能
+## Temel işlevler
 
-- 移动人体检测
-- 光照度检测（M1/HS8MIS 系列）
-- 检测距离 ≤7m（25°C）
-- 安装方式：壁挂或吸顶
-- 电池续航：3 年（Zigbee）/ 1 年（Matter）
+- Mobil insan tespiti
+- Aydınlatma algılama (M1/HS8MIS serisi)
+- Algılama mesafesi ≤7m (25°C)
+- Kurulum yöntemi: duvara monte veya tavana monte
+- Pil ömrü: 3 yıl (Zigbee) / 1 yıl (Madde)
 
-## 技术参数（M1 系列）
+## Teknik parametreler (M1 serisi)
 
-- 检测角度：110° / 360°
-- 检测距离：≤7m
-- 光照度范围：0~1200 Lux
-- 供电：DC 3V（锂电）
-- 电池寿命：3 年（Zigbee）/ 1 年（Matter）
+- Algılama açısı: 110° / 360°
+- Algılama mesafesi: ≤7m
+- Aydınlatma aralığı: 0~1200 Lux
+- Güç kaynağı: DC 3V (lityum pil)
+- Pil ömrü: 3 yıl (Zigbee) / 1 yıl (Madde)
 
-## 场景示例
+## Senaryo örneği
 
-- 人来灯亮、人走灯灭
-- 安防联动：检测到异常移动推送报警
-- 离家布防：无人时自动关闭空调/暖气节能
+- Birisi geldiğinde ışık yanar ve birisi çıktığında söner
+- Güvenlik bağlantısı: anormal hareket algılandığında alarmı itin
+- Evden çıkarken devreye alma: etrafta kimse olmadığında enerji tasarrufu sağlamak için klimayı/ısıtmayı otomatik olarak kapatır

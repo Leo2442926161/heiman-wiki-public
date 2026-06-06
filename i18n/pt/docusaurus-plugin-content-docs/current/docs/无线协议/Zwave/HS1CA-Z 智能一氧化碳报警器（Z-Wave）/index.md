@@ -1,61 +1,61 @@
 ---
 sidebar_position: 5
 ---
-# HS1CA-Z 智能一氧化碳报警器（Z-Wave）
+# Alarme inteligente de monóxido de carbono HS1CA-Z (Z-Wave)
 
-HS1CA-Z 是海曼推出的 **Z-Wave** 智能一氧化碳报警器，采用电化学传感器技术，兼容 Z-Wave Plus 标准。
+HS1CA-Z é um alarme inteligente de monóxido de carbono **Z-Wave** lançado pela Hyman. Utiliza tecnologia de sensor eletroquímico e é compatível com o padrão Z-Wave Plus.
 
-## 产品概述
+## Visão geral do produto
 
-- **产品类型**：智能一氧化碳报警器
-- **通信协议**：Z-Wave Plus
-- **认证标准**：EN 50291
-- **典型场景**：家庭、公寓等场所的 CO 泄漏预警
+** Tipo de produto **: Alarme inteligente de monóxido de carbono
+- **Protocolo de comunicação**: Z Wave Plus
+- **Norma de certificação**: EN 50291
+- **Cenário Típico**: Aviso de vazamento de CO em residências, apartamentos e outros locais
 
-## 技术参数
+## Parâmetros técnicos
 
-| 参数 | 值 |
+| Parâmetro | Valor |
 |------|-----|
-| 传感器类型 | 电化学式 CO 传感器 |
-| 通信协议 | Z-Wave Plus（ITU-T G.9959） |
-| 工作频段 | 868.42 MHz（欧盟）/ 908.42 MHz（美国） |
-| 检测范围 | 0~1000 ppm |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | 电池供电 |
-| 传感器寿命 | 典型 7 年 |
-| 加密方式 | S2 Authenticated / S2 Unauthenticated |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤90% RH（无凝结） |
+| Tipo de sensor | Sensor eletroquímico de CO |
+| Protocolo de Comunicação | Z-Wave Plus (ITU-T G.9959) |
+| Banda de frequência operacional | 868,42 MHz (UE) / 908,42 MHz (EUA) |
+| Alcance de detecção | 0~1000 ppm |
+| Pressão sonora de alarme | ≥85 dB (3 metros) |
+| Método de fornecimento de energia | Alimentado por bateria |
+| Vida útil do sensor | Típico 7 anos |
+| Método de criptografia | S2 autenticado/S2 não autenticado |
+| Temperatura de funcionamento | -10°C ~ +50°C |
+| Umidade de trabalho | ≤90% UR (sem condensação) |
 
-## 功能特性
+## Recursos
 
-- 高精度电化学 CO 传感器
-- 浓度分级报警
-- 85 dB 高声光报警
-- 低电量提醒
-- 传感器寿命到期提醒
-- 自检功能
-- Z-Wave S2 安全加密
-- 支持 OTA 固件升级
+- Sensor eletroquímico de CO de alta precisão
+- Alarme de classificação de concentração
+- Alarme sonoro e luminoso de 85 dB de altura
+- Lembrete de bateria fraca
+- Lembrete de expiração da vida útil do sensor
+- Função de autoteste
+- Criptografia segura Z Wave S2
+- Suporte para atualização de firmware OTA
 
-## 认证
+## Certificação
 
-- EN 50291 认证
-- Z-Wave Plus 认证
-- S2 安全认证
+- Certificado EN 50291
+Certificado Z Wave Plus
+- Certificação de segurança S2
 
-## 兼容中枢
+## Centro de compatibilidade
 
-| 中枢平台 | 支持情况 |
+| Plataforma central | Status de suporte |
 |----------|----------|
-| SmartThings Hub | ✅ |
-| Hubitat Elevation | ✅ |
-| Homey Pro | ✅ |
-| Home Assistant（Z-Wave JS） | ✅ |
+| Centro SmartThings | ✅ |
+| Elevação Hubitat | ✅ |
+| Caseiro Pro | ✅ |
+| Assistente Doméstico (Z-Wave JS) | ✅ |
 | OpenHAB | ✅ |
 
-## 相关链接
+## Links relacionados
 
-- [产品类型：一氧化碳传感器](../../../产品类型/一氧化碳传感器/index.md)
-- [Z-Wave 技术参数](../技术参数.md)
-- [支持型号列表](../支持型号列表.md)
+- [Tipo de produto: Sensor de monóxido de carbono](../../../Tipo de produto/Sensor de monóxido de carbono/index.md)
+- [Parâmetros técnicos Z-Wave](../parâmetros técnicos.md)
+- [Lista de modelos suportados](../Lista de modelos suportados.md)

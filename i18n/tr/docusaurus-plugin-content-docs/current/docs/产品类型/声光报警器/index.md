@@ -1,26 +1,26 @@
 ---
 sidebar_position: 12
 ---
-# 声光报警器（警号）
+# Sesli ve ışıklı alarm (uyarı sinyali)
 
-声光报警器（Smart Siren）用于提供大音量声光告警，配合各类传感器使用，可作为安防系统的输出执行器。
+Akıllı siren, yüksek sesli ve ışıklı alarm sağlamak için kullanılır. Çeşitli sensörlerle birlikte kullanılır ve güvenlik sisteminin çıkış aktüatörü olarak kullanılabilir.
 
-## 核心功能
+## Temel işlevler
 
-- 高分贝报警声（≥110 dB）
-- 红色/彩色频闪灯光
-- 支持多种报警音调
-- 防拆检测
-- 支持远程布撤防
+- Yüksek desibel alarm sesi (≥110 dB)
+- Kırmızı/renkli flaş ışıkları
+-Birden fazla alarm tonunu destekler
+- Sabotaj tespiti
+-Uzaktan kurma ve silahsızlandırmayı destekleyin
 
-## 适用场景
+## Uygulanabilir senaryolar
 
-- 与烟雾/CO 传感器联动：检测到危险时全屋鸣响
-- 安防入侵报警：门窗被非法打开时触发
-- 紧急疏散：火警时引导人员撤离
+- Duman/CO sensörüyle bağlantılı: tehlike algılandığında evin her yerinde ses çıkarır
+- Güvenlik ihlali alarmı: kapı ve pencereler yasa dışı olarak açıldığında tetiklenir
+- Acil tahliye: yangın durumunda insanları tahliye etmeye yönlendirin
 
-## 场景联动
+## Sahne bağlantısı
 
-- **烟雾报警 + 声光警号**：全屋同时报警，提醒所有房间人员
-- **门磁报警 + 声光警号**：威慑非法入侵者
-- **与网关配合**：通过 Zigbee/Matter 网络与其他设备联动
+- **Duman Alarmı + Ses ve Işık Sireni**: Tüm ev aynı anda alarm çalacak ve odadaki tüm insanları uyaracaktır.
+- **Kapı sensörü alarmı + sesli ve ışıklı alarm**: yasadışı davetsiz misafirleri caydırır
+- **Ağ geçidiyle işbirliği yapın**: Zigbee/Matter ağı aracılığıyla diğer cihazlarla bağlantı kurun

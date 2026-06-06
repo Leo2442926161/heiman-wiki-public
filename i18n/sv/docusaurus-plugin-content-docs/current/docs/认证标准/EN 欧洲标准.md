@@ -1,35 +1,35 @@
 ---
 sidebar_position: 1
 ---
-# EN 欧洲标准
+# EN europeisk standard
 
-EN（European Norm，欧洲标准）是由欧洲标准化委员会（CEN）和欧洲电工标准化委员会（CENELEC）制定的技术标准。海曼产品主要涉及的 EN 标准如下：
+EN (European Norm, European Standard) är en teknisk standard utvecklad av European Committee for Standardization (CEN) och European Committee for Electrotechnical Standardization (CENELEC). De viktigaste EN-standarderna som är involverade i Heimans produkter är följande:
 
-## EN 14604 — 烟雾报警器标准
+## EN 14604 — Standard för brandvarnare
 
-| 项目 | 说明 |
+| Projekt | Beskrivning |
 |------|------|
-| 适用范围 | 独立式烟雾报警器 |
-| 检测要求 | 光电式烟雾检测、声光报警、电池低电量提示 |
-| 适用市场 | 欧盟成员国、英国、瑞士、挪威等 |
-| 海曼产品 | HS1SA-E、HS3SA、HS1SA-M、S1 系列等 |
-| 认证意义 | 满足欧盟建筑消防法规要求，是欧洲市场准入必要条件 |
+| Tillämpningsområde | Oberoende brandvarnare |
+| Detektionskrav | Fotoelektrisk rökdetektion, ljud- och ljuslarm, meddelande om lågt batteri |
+| Tillämpliga marknader | EU:s medlemsländer, Storbritannien, Schweiz, Norge, etc. |
+| Heiman produkter | HS1SA-E, HS3SA, HS1SA-M, S1-serien, etc. |
+| Betydelsen av certifiering | Att uppfylla kraven i EU:s byggnadsbrandföreskrifter är en nödvändig förutsättning för europeisk marknadstillträde |
 
-**测试项目**：响应时间、声压级（≥85 dB/3m）、静音功能、电池寿命、温度循环、湿度耐久、抗射频干扰等。
+**Testobjekt**: svarstid, ljudtrycksnivå (≥85 dB/3m), mute-funktion, batterilivslängd, temperaturcykel, fukthållbarhet, motstånd mot radiofrekvensstörningar, etc.
 
-## EN 50291 — 一氧化碳报警器标准
+## EN 50291 — Kolmonoxidlarmstandard
 
-| 项目 | 说明 |
+| Projekt | Beskrivning |
 |------|------|
-| 适用范围 | 家用一氧化碳（CO）报警器 |
-| 检测要求 | 电化学 CO 传感器，浓度分级报警 |
-| 适用市场 | 欧盟成员国、英国 |
-| 海曼产品 | HS1CA-E、C1 系列、HS1CA-M 等 |
-| 认证意义 | 保障 CO 泄漏检测可靠性，部分国家强制安装 |
+| Tillämpningsområde | Hushållens kolmonoxidlarm (CO) |
+| Testkrav | Elektrokemisk CO-sensor, koncentrationsklassificeringslarm |
+| Tillämpliga marknader | EU:s medlemsländer, Storbritannien |
+| Heiman produkter | HS1CA-E, C1-serien, HS1CA-M, etc. |
+| Betydelsen av certifiering | För att säkerställa tillförlitligheten av CO-läckagedetektering är installation obligatorisk i vissa länder |
 
-## 其他相关 EN 标准
+## Andra relevanta EN-standarder
 
-- **EN 62368-1**：音视频/信息技术设备安全
-- **EN 301 489**：电磁兼容（EMC）
-- **EN 300 220**：短距离设备（SRD）无线电频谱
-- **EN 62479**：人体暴露于低频电磁场评估
+- **EN 62368-1**: Säkerhet för ljud- och video-/informationsteknisk utrustning
+- **EN 301 489**: Elektromagnetisk kompatibilitet (EMC)
+- **EN 300 220**: Radiospektrum för kortdistansenheter (SRD).
+- **EN 62479**: Bedömning av människors exponering för lågfrekventa elektromagnetiska fält

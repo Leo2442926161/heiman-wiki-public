@@ -1,30 +1,30 @@
 ---
 sidebar_position: 5
 ---
-# 人体存在传感器
+# İnsan varlığı sensörü
 
-人体存在传感器（Occupancy / Presence Sensor）采用**毫米波雷达技术**，能够检测静止的人体存在，与传统的 PIR 红外传感器互补。
+Doluluk/Varlık Sensörü, sabit bir insan vücudunun varlığını tespit etmek için **milimetre dalga radar teknolojisini** kullanır ve geleneksel PIR kızılötesi sensörünü tamamlar.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 特点 |
+| Serisi | İletişim yöntemleri | Özellikler |
 |------|----------|------|
-| HS8OS | Zigbee | 毫米波雷达人体存在检测 |
+| HS8OS | Zigbee | Milimetre dalga radarı insan varlığı tespiti |
 
-## 技术原理
+## Teknik prensipler
 
-与 PIR 传感器只能检测移动不同，存在传感器通过发射和接收毫米波信号，利用微多普勒效应检测微小的体动（如呼吸引起的胸部起伏），从而判断是否有人存在。
+Yalnızca hareketi algılayabilen PIR sensörlerinden farklı olarak varlık sensörleri, birisinin orada olup olmadığını belirlemek için milimetrik dalga sinyalleri gönderip alarak küçük vücut hareketlerini (solunumun neden olduğu göğsün yükselmesi ve düşmesi gibi) algılamak için mikro Doppler etkisini kullanır.
 
-## 核心功能
+## Temel işlevler
 
-- **静止人体检测**：检测躺卧、静坐等微动
-- **范围检测**：覆盖半径 3-5 米
-- **吸顶安装**：最佳检测角度
-- **可与 PIR 互补**：PIR 负责大范围移动检测，存在传感器负责精细化检测
+- **Sabit İnsan Vücudu Algılama**: Uzanma, hareketsiz oturma vb. mikro hareketleri algılar.
+- **Mesafe Algılama**: Kapsama yarıçapı 3-5 metre
+- **tavan kurulumu**: optimum algılama açısı
+- **PIR'ı tamamlayıcıdır**: PIR büyük ölçekli hareket algılamadan, varlık sensörü ise gelişmiş algılamadan sorumludur
 
-## 场景示例
+## Senaryo örneği
 
-- **智能照明**：有人在灯常亮，无人自动关闭（解决 PIR 静止熄灯问题）
-- **空调控制**：根据房间是否有人自动开关
-- **智慧养老**：老人在卫生间/卧室长时间静止，系统发出预警
-- **办公节能**：会议室/工位无人时自动调节能源
+- **Akıllı Aydınlatma**: Etrafta biri varken ışıklar her zaman yanar ve etrafta kimse olmadığında otomatik olarak kapanır (PIR statik ışıkların kapanma sorununu çözer)
+- **Klima kontrolü**: Odada birisinin olup olmamasına göre otomatik olarak açılır veya kapanır
+- **Akıllı Yaşlı Bakımı**: Yaşlı kişinin banyoda/yatak odasında uzun süre hareketsiz kalması durumunda sistem erken uyarı verecektir.
+- **Ofis Enerji Tasarrufu**: Konferans odası/iş istasyonu boş olduğunda enerjiyi otomatik olarak ayarlar

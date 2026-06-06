@@ -1,29 +1,29 @@
 ---
 sidebar_position: 21
 ---
-# HS1WL - 水浸探测器（Zigbee）
+# HS1WL - Vattenläckagedetektor (Zigbee)
 
-## 概述
+## Översikt
 
-HS1WL 是海曼推出的第一代 Zigbee 水浸探测器，采用探针检测方式，可有效检测漏水或积水情况，是基础型水浸监测设备。
+HS1WL är den första generationens Zigbee vattensänkningsdetektor lanserad av Hyman. Den använder sig av sonddetekteringsmetod och kan effektivt upptäcka vattenläckage eller vattenansamling. Det är en grundläggande utrustning för övervakning av vattensänkning.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 检测方式 | 探针检测 |
-| 供电方式 | DC 3V 电池 |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤95% RH |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Detektionsmetod | Sonddetektering |
+| Strömförsörjningsmetod | DC 3V batteri |
+| Drifttemperatur | -10°C ~ +50°C |
+| Arbetsfuktighet | ≤95 % RH |
 
-## 功能特性
+## Funktioner
 
-- 漏水 / 积水实时检测
-- 蜂鸣器报警
-- 低电量提醒
-- 探针防腐蚀设计
+- Realtidsdetektering av vattenläckage/vattenansamling
+- Summerlarm
+- Påminnelse om lågt batteri
+- Korrosionsskyddande probdesign
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 水浸探测传感器](../../../产品类型/水浸探测传感器/index.md)
+- Se [Product Type: Water Immersion Detection Sensor](../../../Product Type/Water Immersion Detection Sensor/index.md)

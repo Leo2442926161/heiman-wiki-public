@@ -132,7 +132,7 @@
     "description": "The label for category '声光报警器（警号）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.振动传感器": {
-    "message": "振动传感器",
+    "message": "Capteur de vibrations",
     "description": "The label for category '振动传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.紧急按钮": {

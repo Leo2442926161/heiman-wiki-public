@@ -1,61 +1,61 @@
 ---
 sidebar_position: 5
 ---
-# HS1CA-Z 智能一氧化碳报警器（Z-Wave）
+# HS1CA-Z Intelligent kolmonoxidlarm (Z-Wave)
 
-HS1CA-Z 是海曼推出的 **Z-Wave** 智能一氧化碳报警器，采用电化学传感器技术，兼容 Z-Wave Plus 标准。
+HS1CA-Z är ett **Z-Wave** smart kolmonoxidlarm som lanserats av Hyman. Den använder elektrokemisk sensorteknik och är kompatibel med Z-Wave Plus-standarden.
 
-## 产品概述
+## Produktöversikt
 
-- **产品类型**：智能一氧化碳报警器
-- **通信协议**：Z-Wave Plus
-- **认证标准**：EN 50291
-- **典型场景**：家庭、公寓等场所的 CO 泄漏预警
+- **Produkttyp**: Intelligent kolmonoxidlarm
+- **Kommunikationsprotokoll**: Z-Wave Plus
+- **Certifieringsstandard**: EN 50291
+- **Typiskt scenario**: Varning för koldioxidläckage i bostäder, lägenheter och andra platser
 
-## 技术参数
+## Tekniska parametrar
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 传感器类型 | 电化学式 CO 传感器 |
-| 通信协议 | Z-Wave Plus（ITU-T G.9959） |
-| 工作频段 | 868.42 MHz（欧盟）/ 908.42 MHz（美国） |
-| 检测范围 | 0~1000 ppm |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | 电池供电 |
-| 传感器寿命 | 典型 7 年 |
-| 加密方式 | S2 Authenticated / S2 Unauthenticated |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤90% RH（无凝结） |
+| Sensortyp | Elektrokemisk CO-sensor |
+| Kommunikationsprotokoll | Z-Wave Plus (ITU-T G.9959) |
+| Driftsfrekvensband | 868,42 MHz (EU) / 908,42 MHz (USA) |
+| Detektionsområde | 0~1000 ppm |
+| Larmljudtryck | ≥85 dB (3 meter) |
+| Strömförsörjningsmetod | Batteridriven |
+| Sensorlivslängd | Typiskt 7 år |
+| Krypteringsmetod | S2 Authenticated / S2 Unautenticated |
+| Drifttemperatur | -10°C ~ +50°C |
+| Arbetsfuktighet | ≤90 % RH (ingen kondensation) |
 
-## 功能特性
+## Funktioner
 
-- 高精度电化学 CO 传感器
-- 浓度分级报警
-- 85 dB 高声光报警
-- 低电量提醒
-- 传感器寿命到期提醒
-- 自检功能
-- Z-Wave S2 安全加密
-- 支持 OTA 固件升级
+- Elektrokemisk CO-sensor med hög precision
+- Koncentrationsklassificeringslarm
+- 85 dB högt ljud- och ljuslarm
+- Påminnelse om lågt batteri
+- Påminnelse om sensorns livslängd
+- Självtestfunktion
+- Z-Wave S2 säker kryptering
+- Stöd uppgradering av OTA-firmware
 
-## 认证
+## Certifiering
 
-- EN 50291 认证
-- Z-Wave Plus 认证
-- S2 安全认证
+- EN 50291 certifierad
+- Z-Wave Plus certifierad
+- S2 säkerhetscertifiering
 
-## 兼容中枢
+## Kompatibilitetsnav
 
-| 中枢平台 | 支持情况 |
-|----------|----------|
+| Central plattform | Supportstatus |
+|--------|--------|
 | SmartThings Hub | ✅ |
-| Hubitat Elevation | ✅ |
+| Hubitat höjd | ✅ |
 | Homey Pro | ✅ |
-| Home Assistant（Z-Wave JS） | ✅ |
+| Hemmaassistent (Z-Wave JS) | ✅ |
 | OpenHAB | ✅ |
 
-## 相关链接
+## Relaterade länkar
 
-- [产品类型：一氧化碳传感器](../../../产品类型/一氧化碳传感器/index.md)
-- [Z-Wave 技术参数](../技术参数.md)
-- [支持型号列表](../支持型号列表.md)
+- [Produkttyp: Kolmonoxidsensor](../../../Product Type/Carbon Monoxide Sensor/index.md)
+- [Z-Wave tekniska parametrar](../technical parameters.md)
+- [Supported model list](../Supported model list.md)

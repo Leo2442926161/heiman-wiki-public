@@ -1,28 +1,28 @@
 ---
 sidebar_position: 7
 ---
-# 火灾温感传感器
+# Yangın sıcaklık sensörü
 
-火灾温感传感器（Heat Detector）通过检测环境温度的异常升高来发出火灾报警，适用于厨房、车库等烟雾传感器易误报的场景。
+Yangın sıcaklık sensörü (Isı Dedektörü), ortam sıcaklığındaki anormal artışları tespit ederek yangın alarmı verir. Duman sensörlerinin yanlış alarm verme eğiliminde olduğu mutfak ve garaj gibi ortamlar için uygundur.
 
-## 工作原理
+## Çalışma prensibi
 
-温感传感器采用热敏元件检测温度变化：
+Sıcaklık sensörü sıcaklık değişikliklerini tespit etmek için bir termal eleman kullanır:
 
-- **定温报警**：当温度超过设定阈值（通常 57°C / 135°F）时触发报警
-- **差温报警**：当温度上升速率超过设定值（如 8.3°C/分钟）时触发报警
+- **Sabit Sıcaklık Alarmı**: Sıcaklık ayarlanan eşiği (genellikle 57°C / 135°F) aştığında bir alarmı tetikler
+- **Fark sıcaklık alarmı**: sıcaklık artış hızı ayarlanan değeri (8,3°C/dak gibi) aştığında alarmı tetikler
 
-## 适用范围
+## Uygulama kapsamı
 
-- 厨房（烟雾传感器在此场景易因烹饪产生误报）
-- 车库/车间（尾气、粉尘可能干扰烟雾传感器）
-- 锅炉房/供暖设备间
-- 浴室/桑拿房
+- Mutfak (duman sensörleri bu sahnede yemek pişirme nedeniyle yanlış alarm verme eğilimindedir)
+- Garaj/atölye (egzoz gazı ve toz, duman sensörlerini etkileyebilir)
+- Kazan dairesi/ısıtma ekipmanı odası
+- Banyo/Sauna
 
-## 核心功能
+## Temel işlevler
 
-- 温度异常升高检测
-- 防拆报警
-- 低电量提醒
+- Anormal sıcaklık artışının tespiti
+- Kurcalamaya karşı alarm
+- Düşük pil hatırlatıcısı
 
-> **注意**：温感传感器与烟雾传感器互补使用，烟雾传感器响应更快，温感传感器抗干扰能力更强。
+> **Not**: Sıcaklık sensörü ve duman sensörü tamamlayıcı olarak kullanılır. Duman sensörü daha hızlı tepki verir ve sıcaklık sensörü daha güçlü anti-parazit özelliğine sahiptir.

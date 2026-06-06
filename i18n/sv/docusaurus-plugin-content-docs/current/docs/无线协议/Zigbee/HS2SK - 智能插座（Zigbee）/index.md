@@ -1,37 +1,37 @@
 ---
 sidebar_position: 22
 ---
-# HS2SK - 智能插座（Zigbee）
+#HS2SK - Smart Socket (Zigbee)
 
-## 概述
+## Översikt
 
-HS2SK 是海曼推出的 Zigbee 智能计量插座，支持远程开关控制和实时功耗计量，适用于家用电器智能化管理，精度达 ±2%。
+HS2SK är ett Zigbee smart mätuttag lanserat av Heiman. Den stöder fjärrstyrning av omkopplare och mätning av energiförbrukning i realtid. Den är lämplig för intelligent hantering av hushållsapparater och har en noggrannhet på ±2 %.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 额定电压 | AC 220V（中国标准）/ AC 110V（美标） |
-| 最大负载 | 16A / 3680W |
-| 计量精度 | ±2% |
-| 供电方式 | 市电供电 |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Märkspänning | AC 220V (kinesisk standard) / AC 110V (amerikansk standard) |
+| Maximal belastning | 16A / 3680W |
+| Mätnoggrannhet | ±2 % |
+| Strömförsörjningsmetod | Nätströmförsörjning |
 
-## 功能特性
+## Funktioner
 
-- 远程开关控制
-- 实时功率 / 电量计量
-- 过载保护
-- 定时开关
-- 电量统计
-- 支持场景联动
+- Fjärrkontroll
+- Effekt/bränslemätning i realtid
+- Överbelastningsskydd
+- Timerbrytare
+- Effektstatistik
+- Stöd scenkoppling
 
-## 适用场景
+## Tillämpliga scenarier
 
-- 远程关闭忘记关的电器
-- 统计空调 / 热水器能耗
-- 离家模式一键关闭非必要电器
+- Stäng av glömda apparater på distans
+- Statistik över luftkonditioneringens/vattenberedarens energiförbrukning
+- Lämna hemläget för att stänga av icke-nödvändiga apparater med ett klick
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 智能插座](../../../产品类型/智能插座/index.md)
+- Se [Produkttyp: Smart Socket](../../../Product Type/Smart Socket/index.md)

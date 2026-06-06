@@ -1,34 +1,34 @@
 ---
 sidebar_position: 3
 ---
-# 门磁传感器
+# Kapı sensörü
 
-门磁传感器用于检测门窗的开关状态，是智能安防系统的基础组件。
+Kapı sensörü, kapı ve pencerelerin açılma ve kapanma durumunu tespit etmek için kullanılır ve akıllı güvenlik sisteminin temel bir bileşenidir.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 特点 |
+| Serisi | İletişim yöntemleri | Özellikler |
 |------|----------|------|
-| HS1DS 系列 | Zigbee / Z-Wave | 标准型，电池续航 3 年 |
-| HS1DS-M | Matter over Thread | Matter 版 |
+| HS1DS Serisi | Zigbee / Z-Dalga | Standart tip, 3 yıl pil ömrü |
+| HS1DS-M | Konu Üzerindeki Madde | Madde versiyonu |
 
-## 核心功能
+## Temel işlevler
 
-- 实时检测门窗开/关状态
-- 防拆报警（Tamper）
-- 低电量提醒
-- 支持联动（开门开灯、离家布防等）
-- 安装简便（3M 胶贴或螺丝固定）
+- Kapı ve pencere açılma/kapanma durumunun gerçek zamanlı tespiti
+- Sabotaj alarmı (Sabotaj)
+- Düşük pil hatırlatıcısı
+-Bağlantıyı destekler (kapıyı açma, ışıkları açma, evden çıkarken devreye alma vb.)
+- Kurulumu kolay (3M yapışkan bant veya vidayla sabitleme)
 
-## 技术参数
+## Teknik parametreler
 
-- 供电方式：CR1632 纽扣电池
-- 电池寿命：约 2-3 年
-- 工作温度：-10°C ~ +50°C
-- 安装间隙：≤10 mm
+- Güç kaynağı yöntemi: CR1632 düğme pil
+- Pil ömrü: yaklaşık 2-3 yıl
+- Çalışma sıcaklığı: -10°C ~ +50°C
+- Montaj mesafesi: ≤10 mm
 
-## 场景示例
+## Senaryo örneği
 
-- **离家布防**：门磁检测到开门触发报警
-- **回家场景**：开门自动开启灯光
-- **窗户监测**：联动气象站，下雨自动关窗提醒
+- **Evden uzakta silahlanma**: Kapı sensörü kapının açıldığını algılar ve alarmı tetikler.
+- **Eve gitme sahnesi**: Kapıyı açın ve ışıkları otomatik olarak açın
+- **Pencere izleme**: Meteoroloji istasyonuna bağlı olduğundan yağmur yağdığında pencereyi otomatik olarak kapatır.

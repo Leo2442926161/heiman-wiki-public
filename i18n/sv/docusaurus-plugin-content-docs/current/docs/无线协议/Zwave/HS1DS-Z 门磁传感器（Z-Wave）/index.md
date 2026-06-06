@@ -1,55 +1,55 @@
 ---
 sidebar_position: 6
 ---
-# HS1DS-Z 门磁传感器（Z-Wave）
+# HS1DS-Z dörrsensor (Z-Wave)
 
-HS1DS-Z 是海曼推出的 **Z-Wave** 门磁传感器，通过磁簧开关检测门窗的开关状态，兼容 Z-Wave Plus 标准。
+HS1DS-Z är en **Z-Wave** dörrsensorsensor lanserad av Hyman. Den känner av öppnings- och stängningsstatus för dörrar och fönster genom magnetiska reed-brytare och är kompatibel med Z-Wave Plus-standarden.
 
-## 产品概述
+## Produktöversikt
 
-- **产品类型**：门磁传感器
-- **通信协议**：Z-Wave Plus
-- **检测方式**：磁簧开关（干簧管）
-- **典型场景**：门窗状态监测、安防布防、智能联动
+- **Produkttyp**: Dörrsensor
+- **Kommunikationsprotokoll**: Z-Wave Plus
+- **Detekteringsmetod**: Reed switch (reed switch)
+- **Typiska scenarier**: Dörr- och fönsterstatusövervakning, säkerhetsdistribution och intelligent koppling
 
-## 技术参数
+## Tekniska parametrar
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 检测方式 | 磁簧开关（干簧管） |
-| 通信协议 | Z-Wave Plus（ITU-T G.9959） |
-| 工作频段 | 868.42 MHz（欧盟）/ 908.42 MHz（美国） |
-| 供电方式 | CR1632 纽扣电池 |
-| 电池寿命 | 约 2~3 年 |
-| 安装间隙 | ≤10 mm |
-| 加密方式 | S2 Authenticated / S2 Unauthenticated |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤90% RH（无凝结） |
+| Detektionsmetod | Reed switch (reed switch) |
+| Kommunikationsprotokoll | Z-Wave Plus (ITU-T G.9959) |
+| Driftsfrekvensband | 868,42 MHz (EU) / 908,42 MHz (USA) |
+| Strömförsörjningsmetod | CR1632 knappbatteri |
+| Batteritid | Cirka 2~3 år |
+| Installationsavstånd | ≤10 mm |
+| Krypteringsmetod | S2 Authenticated / S2 Unautenticated |
+| Drifttemperatur | -10°C ~ +50°C |
+| Arbetsfuktighet | ≤90 % RH (ingen kondensation) |
 
-## 功能特性
+## Funktioner
 
-- 实时检测门窗开/关状态
-- 防拆报警（Tamper）
-- 低电量提醒
-- 支持场景联动（开门开灯、离家布防）
-- 安装简便（3M 胶贴或螺丝固定）
-- Z-Wave S2 安全加密
-- 支持 OTA 固件升级
+- Realtidsdetektering av dörr- och fönsteröppnings-/stängningsstatus
+- Sabotagelarm (Sabotage)
+- Påminnelse om lågt batteri
+- Stöder scenkoppling (öppning av dörr, tända ljus, armering när du går hemifrån)
+- Lätt att installera (3M tejp eller skruvfixering)
+- Z-Wave S2 säker kryptering
+- Stöd uppgradering av OTA-firmware
 
-## 兼容中枢
+## Kompatibilitetsnav
 
-| 中枢平台 | 支持情况 |
-|----------|----------|
+| Central plattform | Supportstatus |
+|--------|--------|
 | SmartThings Hub | ✅ |
-| Hubitat Elevation | ✅ |
+| Hubitat höjd | ✅ |
 | Homey Pro | ✅ |
-| Home Assistant（Z-Wave JS） | ✅ |
+| Hemmaassistent (Z-Wave JS) | ✅ |
 | OpenHAB | ✅ |
 | Vera | ✅ |
 | Fibaro | ✅ |
 
-## 相关链接
+## Relaterade länkar
 
-- [产品类型：门磁传感器](../../../产品类型/门磁传感器/index.md)
-- [Z-Wave 技术参数](../技术参数.md)
-- [支持型号列表](../支持型号列表.md)
+- [Produkttyp: magnetisk dörrsensor](../../../Produkttyp/magnetisk dörrsensor/index.md)
+- [Z-Wave tekniska parametrar](../technical parameters.md)
+- [Supported model list](../Supported model list.md)

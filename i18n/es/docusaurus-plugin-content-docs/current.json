@@ -92,7 +92,7 @@
     "description": "The label for category '一氧化碳传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.门磁传感器": {
-    "message": "门磁传感器",
+    "message": "sensor de puerta",
     "description": "The label for category '门磁传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.人体红外传感器": {

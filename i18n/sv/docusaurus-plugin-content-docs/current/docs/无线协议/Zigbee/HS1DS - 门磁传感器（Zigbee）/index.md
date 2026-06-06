@@ -1,37 +1,37 @@
 ---
 sidebar_position: 12
 ---
-# HS1DS - 门磁传感器（Zigbee）
+# HS1DS - Magnetisk dörrsensor (Zigbee)
 
-## 概述
+## Översikt
 
-HS1DS 是海曼推出的 Zigbee 门磁传感器，用于检测门窗的开合状态，是智能安防系统的基础组件。
+HS1DS är en Zigbee magnetisk dörrsensor lanserad av Heiman. Den används för att upptäcka öppnings- och stängningsstatus för dörrar och fönster. Det är en grundläggande komponent i det intelligenta säkerhetssystemet.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 磁簧开关 |
-| 供电方式 | CR1632 纽扣电池 |
-| 电池寿命 | 约 2 ~ 3 年 |
-| 安装间隙 | ≤10 mm |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤95% RH |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Reed Switch |
+| Strömförsörjningsmetod | CR1632 knappbatteri |
+| Batteritid | Cirka 2 ~ 3 år |
+| Installationsavstånd | ≤10 mm |
+| Drifttemperatur | -10°C ~ +50°C |
+| Arbetsfuktighet | ≤95 % RH |
 
-## 功能特性
+## Funktioner
 
-- 实时检测门窗开 / 关状态
-- 防拆报警（Tamper）
-- 低电量提醒
-- 支持联动（开门开灯、离家布防等）
-- 安装简便（3M 胶贴或螺丝固定）
+- Realtidsdetektering av dörr- och fönsteröppnings-/stängningsstatus
+- Sabotagelarm (Sabotage)
+- Påminnelse om lågt batteri
+-Stödjer koppling (öppning av dörr, tända ljus, armering när du lämnar hemmet, etc.)
+- Lätt att installera (3M tejp eller skruvfixering)
 
-## 适用配件
+## Tillämpliga tillbehör
 
-- CR1632 纽扣电池
-- 3M 双面胶 / 螺丝
+- CR1632 knappbatteri
+- 3M dubbelsidig tejp/skruvar
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 门磁传感器](../../../产品类型/门磁传感器/index.md)
+- Se [Produkttyp: Magnetisk dörrsensor](../../../Produkttyp/Magnetisk dörrsensor/index.md)

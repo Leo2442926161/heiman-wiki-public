@@ -1,27 +1,27 @@
 ---
 sidebar_position: 8
 ---
-# Amazon Alexa
+#AmazonAlexa
 
-Amazon Alexa 是全球最普及的智能语音助手平台之一，支持 Matter 协议和丰富的 Skills 生态。
+Amazon Alexa är en av de mest populära smarta röstassistentplattformarna i världen, som stöder Matter-protokollet och ett rikt ekosystem för färdigheter.
 
-## 集成方式
+## Integrationsmetod
 
-### Matter 设备
+### Matter Utrustning
 
-海曼 Matter over Thread 设备可通过支持 Matter 的 Echo 设备（Echo 4代、Echo Plus、Echo Show 10等）接入：
+Hyman Matter over Thread-enheter kan nås via Matter-aktiverade Echo-enheter (Echo 4:e generationen, Echo Plus, Echo Show 10, etc.):
 
-1. 确保 Echo 设备已更新至最新固件
-2. 打开 Alexa App → 设备 → 添加设备
-3. 选择"Matter"并扫描配对码
+1. Se till att din Echo-enhet är uppdaterad till den senaste firmware
+2. Öppna Alexa App → Enheter → Lägg till enhet
+3. Välj "Matter" och skanna parningskoden
 
-### Zigbee 设备
+### Zigbee-enheter
 
-部分 Echo Plus 和 Echo Show 内置 Zigbee 芯片，可直接配对海曼 Zigbee 传感器。
+Vissa Echo Plus och Echo Show har inbyggda Zigbee-chips och kan paras direkt med Heiman Zigbee-sensorer.
 
-## 语音命令示例
+## Exempel på röstkommando
 
-- "Alexa，ask the smoke detector if everything is OK"
-- "Alexa，what's the temperature in the living room?"
+- "Alexa, fråga rökdetektorn om allt är OK"
+- "Alexa, vad är temperaturen i vardagsrummet?"
 
-> **参考**：Amazon 官方商店有售海曼 Matter 传感器
+> **Referens**: Hyman Matter-sensorer finns tillgängliga i Amazons officiella butik

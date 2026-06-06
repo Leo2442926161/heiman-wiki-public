@@ -1,26 +1,26 @@
 ---
 sidebar_position: 13
 ---
-# 振动传感器
+# Titreşim sensörü
 
-振动传感器（Vibration Sensor）通过检测物体的振动或倾斜来触发报警，适用于门窗、保险柜、管道等多种场景。
+Titreşim Sensörü, bir nesnenin titreşimini veya eğimini algılayarak bir alarmı tetikler. Kapı, pencere, kasa, boru gibi çeşitli senaryolara uygundur.
 
-## 核心功能
+## Temel işlevler
 
-- 三维振动检测
-- 倾斜角度检测
-- 低电量提醒
+- Üç boyutlu titreşim algılama
+- Eğim açısı tespiti
+- Düşük pil hatırlatıcısı
 
-## 适用场景
+## Uygulanabilir senaryolar
 
-- **门窗防撬**：检测暴力闯入引起的振动
-- **保险柜/抽屉监控**：检测异常移动
-- **管道监测**：检测水管振动（预示水泵异常或水锤）
-- **墙面/围栏监测**：检测攀爬或撞击
+- **Kapı ve pencere gözetleme önleme**: Şiddetli izinsiz girişten kaynaklanan titreşimi tespit edin
+- **Kasa/Çekmece Monitörü**: Anormal hareketleri algılar
+- **Boru Hattı İzleme**: Su borusu titreşimini tespit edin (su pompası anormalliklerini veya su darbesini gösterir)
+- **Duvar/Çit İzleme**: Tırmanmayı veya darbeyi tespit edin
 
-## 技术参数
+## Teknik parametreler
 
-- 传感器类型：3 轴加速度计
-- 检测维度：振动 + 倾斜
-- 供电方式：CR2450 纽扣电池
-- 电池寿命：约 2 年
+- Sensör tipi: 3 eksenli ivmeölçer
+- Algılama boyutları: titreşim + eğim
+- Güç kaynağı yöntemi: CR2450 düğme pil
+- Pil ömrü: yaklaşık. 2 yıl

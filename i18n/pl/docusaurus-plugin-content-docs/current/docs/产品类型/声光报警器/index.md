@@ -1,26 +1,26 @@
 ---
 sidebar_position: 12
 ---
-# 声光报警器（警号）
+# Alarm dźwiękowy i świetlny (sygnał ostrzegawczy)
 
-声光报警器（Smart Siren）用于提供大音量声光告警，配合各类传感器使用，可作为安防系统的输出执行器。
+Inteligentna syrena służy do zapewniania głośnych alarmów dźwiękowych i świetlnych. Jest używany z różnymi czujnikami i może być używany jako wyjściowy element wykonawczy systemu bezpieczeństwa.
 
-## 核心功能
+## Podstawowe funkcje
 
-- 高分贝报警声（≥110 dB）
-- 红色/彩色频闪灯光
-- 支持多种报警音调
-- 防拆检测
-- 支持远程布撤防
+- Dźwięk alarmu o wysokim decybelu (≥110 dB)
+- Czerwone/kolorowe światła stroboskopowe
+-Obsługuje wiele dźwięków alarmowych
+- Wykrywanie sabotażu
+-Wsparcie zdalnego uzbrajania i rozbrajania
 
-## 适用场景
+## Obowiązujące scenariusze
 
-- 与烟雾/CO 传感器联动：检测到危险时全屋鸣响
-- 安防入侵报警：门窗被非法打开时触发
-- 紧急疏散：火警时引导人员撤离
+- Połączony z czujnikiem dymu/CO: w całym domu słychać dźwięk w przypadku wykrycia niebezpieczeństwa
+- Alarm włamania: wyzwalany w przypadku nielegalnego otwarcia drzwi i okien
+- Ewakuacja awaryjna: poinstruuj ludzi, jak ewakuować się w przypadku pożaru
 
-## 场景联动
+## Połączenie scen
 
-- **烟雾报警 + 声光警号**：全屋同时报警，提醒所有房间人员
-- **门磁报警 + 声光警号**：威慑非法入侵者
-- **与网关配合**：通过 Zigbee/Matter 网络与其他设备联动
+- **Czujnik dymu + syrena dźwiękowa i świetlna**: Cały dom włączy alarm w tym samym czasie, ostrzegając wszystkie osoby w pomieszczeniu
+- **Alarm z czujnikiem drzwi + alarm dźwiękowy i świetlny**: odstrasza nielegalnych intruzów
+- **Współpracuj z bramką**: Połącz się z innymi urządzeniami poprzez sieć Zigbee/Matter

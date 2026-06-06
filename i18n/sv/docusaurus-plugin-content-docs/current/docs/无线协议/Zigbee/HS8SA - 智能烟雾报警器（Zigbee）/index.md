@@ -1,39 +1,39 @@
 ---
 sidebar_position: 6
 ---
-# HS8SA - 智能烟雾报警器（Zigbee）
+#HS8SA - Smart Brandvarnare (Zigbee)
 
-## 概述
+## Översikt
 
-HS8SA 是海曼面向美国市场的 Zigbee + Wi-Fi 智能烟雾报警器，具备高温联动功能，已通过 UL 217 认证。
+HS8SA är Hymans smarta brandvarnare Zigbee + Wi-Fi för den amerikanska marknaden. Den har högtemperaturlänkfunktion och har godkänt UL 217-certifiering.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 / Wi-Fi |
-| 传感器类型 | 红外光电式 |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | DC 3V（CR123A） |
-| 工作温度 | -10°C ~ +50°C |
-| 认证标准 | UL 217 |
-| 适用市场 | 美国 |
+| Kommunikationsprotokoll | Zigbee 3.0 / Wi-Fi |
+| Sensortyp | Infraröd fotoelektrisk |
+| Larmljudtryck | ≥85 dB (3 meter) |
+| Strömförsörjningsmetod | DC 3V (CR123A) |
+| Drifttemperatur | -10°C ~ +50°C |
+| Certifieringsstandarder | UL 217 |
+| Tillämpliga marknader | USA |
 
-## 功能特性
+## Funktioner
 
-- 光电式烟雾检测
-- 高温联动报警
-- 85 dB 高声光报警
-- 低电量提醒
-- 自检功能
-- 防拆报警
-- 支持远程静音
-- 双协议通信（Zigbee + Wi-Fi）
+- Fotoelektrisk rökdetektion
+- Larm för hög temperatur länk
+- 85 dB högt ljud- och ljuslarm
+- Påminnelse om lågt batteri
+- Självtestfunktion
+- Anti-manipuleringslarm
+-Stöd för fjärravstängning
+- Dubbel protokollkommunikation (Zigbee + Wi-Fi)
 
-## 认证标准
+## Certifieringsstandarder
 
-- UL 217（美国烟雾报警器标准）
+- UL 217 (amerikansk standard för brandvarnare)
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 烟雾传感器](../../../产品类型/烟雾传感器/index.md)
+- Se [Produkttyp: Röksensor](../../../Produkttyp/Röksensor/index.md)

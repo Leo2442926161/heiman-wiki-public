@@ -1,28 +1,28 @@
 ---
 sidebar_position: 11
 ---
-# ZHA（Zigbee Home Automation）
+#ZHA (Zigbee Home Automation)
 
-ZHA 是 Home Assistant 内置的 Zigbee 集成方案，无需额外软件即可直接管理 Zigbee 设备。
+ZHA är Home Assistants inbyggda Zigbee-integrationslösning som direkt kan hantera Zigbee-enheter utan ytterligare programvara.
 
-## 兼容性
+## Kompatibilitet
 
-海曼 Zigbee 传感器在 ZHA 中拥有良好的兼容性，支持：
+Hyman Zigbee-sensorer har bra kompatibilitet i ZHA och stöder:
 
-- **烟雾/CO 报警器**：报警状态、故障检测、电池电量、静音
-- **门磁传感器**：开/关、 tamper
-- **人体红外**：移动检测、光照度
-- **温湿度**：温度、湿度
-- **水浸**：漏水报警
-- **智能插座**：开关、功耗计量
+- **Rök/CO-larm**: Larmstatus, feldetektering, batterinivå, tyst
+- **Dörrsensor**: på/av, sabotage
+- **Mänsklig infraröd**: rörelsedetektering, belysning
+- **Temperatur och luftfuktighet**: temperatur, luftfuktighet
+- **Översvämning**: Vattenläckagelarm
+- **Smart uttag**: strömbrytare, mätning av strömförbrukning
 
-## 硬件要求
+## Hårdvarukrav
 
-- Zigbee 协调器：HUSBZB-1、Conbee II、SkyConnect、SLZB-06 等
-- 通过 USB 或网络连接到 Home Assistant
+- Zigbee-koordinator: HUSBZB-1, Conbee II, SkyConnect, SLZB-06, etc.
+- Anslut till Home Assistant via USB eller nätverk
 
-## 配置
+## Konfiguration
 
-ZHA 配置简单，选择串口和区域即可自动扫描发现设备。无需手动编写配置文件。
+ZHA är lätt att konfigurera. Välj bara serieporten och området för att automatiskt skanna och upptäcka enheten. Inget behov av att manuellt skriva konfigurationsfiler.
 
-> **参考**：[Home Assistant ZHA 文档](https://www.home-assistant.io/integrations/zha/)
+> **Referens**: [Home Assistant ZHA Document](https://www.home-assistant.io/integrations/zha/)

@@ -1,33 +1,33 @@
 ---
 sidebar_position: 11
 ---
-# 智能插座
+# akıllı soket
 
-海曼智能插座（Smart Metering Plug）支持远程开关控制和实时功耗计量，帮助用户实现家电智能化管理。
+Haiman Akıllı Ölçüm Fişi, uzaktan anahtar kontrolünü ve gerçek zamanlı güç tüketimi ölçümünü destekleyerek kullanıcıların ev aletlerinin akıllı yönetimini sağlamasına yardımcı olur.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 特点 |
+| Serisi | İletişim yöntemleri | Özellikler |
 |------|----------|------|
-| HS2SK 系列 | Zigbee | 计量型，支持功率监测 |
+| HS2SK serisi | Zigbee | Ölçüm tipi, güç izlemeyi destekler |
 
-## 核心功能
+## Temel işlevler
 
-- 远程开关控制
-- 实时功率/电量计量
-- 过载保护
-- 定时开关
-- 电量统计
+- Uzaktan anahtar kontrolü
+- Gerçek zamanlı güç/gaz ölçümü
+- Aşırı yük koruması
+- Zamanlayıcı anahtarı
+- Güç istatistikleri
 
-## 技术参数
+## Teknik parametreler
 
-- 额定电压：AC 220V（中国标准）/ AC 110V（美标）
-- 最大负载：16A / 3680W
-- 计量精度：±2%
+- Nominal voltaj: AC 220V (Çin standardı) / AC 110V (Amerikan standardı)
+- Maksimum yük: 16A/3680W
+-Ölçüm doğruluğu: ±2%
 
-## 场景示例
+## Senaryo örneği
 
-- 远程关闭忘记关的电器
-- 统计空调/热水器能耗
-- 联动离家模式：一键关闭所有非必要电器
-- 定时控制鱼缸灯、加湿器等
+- Unutulan cihazları uzaktan kapatın
+- Klima/su ısıtıcısı enerji tüketimi istatistikleri
+- Bağlantılı evden ayrılma modu: gerekli olmayan tüm cihazları tek tıklamayla kapatın
+- Akvaryum ışıklarının, nemlendiricilerin vb. zamanlama kontrolü.

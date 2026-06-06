@@ -1,18 +1,18 @@
 ---
 sidebar_position: 3
 ---
-# Homey
+#Hemlig
 
-Homey 是由荷兰公司 Athom 推出的智能家居中枢，支持 Zigbee、Z-Wave、Wi-Fi、Matter、Thread 等多种协议。
+Homey är en smart hemhub lanserad av det holländska företaget Athom, som stöder Zigbee, Z-Wave, Wi-Fi, Matter, Thread och andra protokoll.
 
-## 集成方式
+## Integrationsmetod
 
-海曼 Zigbee 和 Z-Wave 设备可通过 Homey 的内置无线芯片直接配对，无需额外网关。Matter 设备可通过 Homey Pro 内置的 Thread 边界路由器接入。
+Homey Zigbee- och Z-Wave-enheter paras direkt via Homeys inbyggda trådlösa chip, vilket eliminerar behovet av en extra gateway. Matter-enheter kan nås via Homey Pros inbyggda trådgränsrouter.
 
-## 优势
+## Fördelar
 
-- **多协议一体**：Homey Pro 同时支持 Zigbee、Z-Wave、Thread、Wi-Fi
-- **本地化运行**：所有自动化均在本地执行
-- **Flow 自动化**：拖拽式编程，可创建复杂联动场景
+- **Flera protokoll i ett**: Homey Pro stöder Zigbee, Z-Wave, Thread och Wi-Fi samtidigt
+- **Kör lokalt**: All automatisering utförs lokalt
+- **Flödesautomatisering**: dra-och-släpp-programmering för att skapa komplexa länkscenarier
 
-> **参考**：Homey App Store 中可搜索 Heiman 相关 app
+> **Referens**: Heiman-relaterade appar kan sökas i Homey App Store

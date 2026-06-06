@@ -1,42 +1,42 @@
 ---
 sidebar_position: 10
 ---
-# HS3CG - 可燃气体探测器（Zigbee）
+#HS3CG - Detektor för brännbar gas (Zigbee)
 
-## 概述
+## Översikt
 
-HS3CG 是海曼第三代 Zigbee 可燃气体探测器，在第一代基础上提升了检测精度和响应速度，适用于天然气和液化石油气泄漏检测。
+HS3CG är Hymans tredje generation Zigbee detektor för brännbar gas. Den har förbättrad detekteringsnoggrannhet och svarshastighet baserat på den första generationen och är lämplig för läckagedetektering av naturgas och flytande petroleumgas.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 半导体 |
-| 检测气体 | 天然气（甲烷）/ 液化石油气（LPG） |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | AC 220V / DC 12V |
-| 认证标准 | GB 15322 |
-| 工作温度 | -10°C ~ +50°C |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Halvledare |
+| Testgas | Naturgas (metan)/Liquefied petroleum gas (LPG) |
+| Larmljudtryck | ≥85 dB (3 meter) |
+| Strömförsörjningsmetod | AC 220V / DC 12V |
+| Certifieringsstandarder | GB 15322 |
+| Drifttemperatur | -10°C ~ +50°C |
 
-## 功能特性
+## Funktioner
 
-- 天然气 / 液化气泄漏检测
-- 浓度分级报警
-- 自动切断联动（配合电磁阀）
-- 85 dB 声光报警
-- 自检功能
-- 传感器寿命到期提醒
-- 增强型无线性能
+- Detektering av läckage av naturgas / flytande gas
+- Koncentrationsklassificeringslarm
+- Automatisk avstängningslänkage (med magnetventil)
+- 85 dB hörbart och visuellt larm
+- Självtestfunktion
+- Påminnelse om sensorns livslängd
+- Förbättrad trådlös prestanda
 
-## 认证标准
+## Certifieringsstandarder
 
 - GB 15322
 
-## 适用配件
+## Tillämpliga tillbehör
 
-- JT 系列燃气紧急切断阀
+- JT-serien gas nödavstängningsventil
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 可燃气体探测器](../../../产品类型/可燃气体探测器/index.md)
+- Se [Produkttyp: Detektor för brännbar gas](../../../Produkttyp/detektor för brännbar gas/index.md)

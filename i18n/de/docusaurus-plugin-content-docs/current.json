@@ -88,7 +88,7 @@
     "description": "The label for category '烟雾传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.一氧化碳传感器": {
-    "message": "一氧化碳传感器",
+    "message": "Kohlenmonoxidsensor",
     "description": "The label for category '一氧化碳传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.门磁传感器": {
@@ -104,15 +104,15 @@
     "description": "The label for category '人体存在传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.温湿度传感器": {
-    "message": "温湿度传感器",
+    "message": "Temperatur- und Feuchtigkeitssensor",
     "description": "The label for category '温湿度传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.火灾温感传感器": {
-    "message": "火灾温感传感器",
+    "message": "Brandtemperatursensor",
     "description": "The label for category '火灾温感传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.水浸探测传感器": {
-    "message": "水浸探测传感器",
+    "message": "Sensor zur Erkennung des Eintauchens in Wasser",
     "description": "The label for category '水浸探测传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.空气质量传感器": {
@@ -124,7 +124,7 @@
     "description": "The label for category '可燃气体探测器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能插座": {
-    "message": "智能插座",
+    "message": "Intelligente Steckdose",
     "description": "The label for category '智能插座' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.声光报警器（警号）": {

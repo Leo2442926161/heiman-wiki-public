@@ -1,37 +1,37 @@
 ---
 sidebar_position: 3
 ---
-# UL 美国保险商实验室
+# UL Underwriters Laboratories
 
-UL（Underwriters Laboratories，美国保险商实验室）是美国最具权威的产品安全标准开发和认证机构。海曼产品主要涉及的 UL 标准如下：
+UL (Underwriters Laboratories) är den mest auktoritativa organisationen för utveckling och certifiering av produktsäkerhetsstandarder i USA. De viktigaste UL-standarderna som är involverade i Heimans produkter är följande:
 
-## UL 217 — 烟雾报警器标准（美国）
+## UL 217 — Brandvarnare Standard (USA)
 
-| 项目 | 说明 |
+| Projekt | Beskrivning |
 |------|------|
-| 适用范围 | 住宅用烟雾报警器（美国市场） |
-| 检测要求 | 光电式/电离式烟雾检测，声光报警，85 dB 以上 |
-| 适用市场 | 美国、加拿大 |
-| 海曼产品 | HS8SA（美国版） |
-| 认证意义 | 满足美国各州消防法规，是北美市场准入必要条件 |
+| Tillämpningsområde | Brandvarnare för bostäder (USA-marknaden) |
+| Detektionskrav | Fotoelektrisk/jonisering rökdetektion, ljud- och ljuslarm, över 85 dB |
+| Tillämpliga marknader | USA, Kanada |
+| Heiman Produkter | HS8SA (amerikansk version) |
+| Betydelsen av certifiering | Att uppfylla brandreglerna i olika delstater i USA är ett nödvändigt villkor för marknadstillträde i Nordamerika |
 
-**与其他标准区别**：UL 217 的测试场景包括闪燃火、慢燃火等典型美国家庭火灾场景，与 EN 14604 的测试方法略有差异。
+**Skillnader från andra standarder**: Testscenarierna för UL 217 inkluderar typiska amerikanska hembrandscenarier som blixtbränder och långsamma bränder, och skiljer sig något från testmetoderna i EN 14604.
 
-## UL 2034 — 一氧化碳报警器标准（美国）
+## UL 2034 — Kolmonoxidlarmstandard (USA)
 
-| 项目 | 说明 |
+| Projekt | Beskrivning |
 |------|------|
-| 适用范围 | 家用 CO 报警器（美国市场） |
-| 检测要求 | 电化学传感器，浓度×时间积分算法 |
-| 适用市场 | 美国、加拿大 |
-| 海曼产品 | HS-720ES-M（美国版） |
-| 认证意义 | 美国大多数州强制要求安装 CO 报警器 |
+| Tillämpningsområde | Koldioxidlarm för hushåll (USA-marknaden) |
+| Detektionskrav | Elektrokemisk sensor, koncentration × tidsintegreringsalgoritm |
+| Tillämpliga marknader | USA, Kanada |
+| Hayman produkter | HS-720ES-M (USA version) |
+| Betydelsen av certifiering | De flesta stater i USA kräver installation av CO-larm |
 
-## UL 认证与 EN 认证的主要区别
+## De viktigaste skillnaderna mellan UL-certifiering och EN-certifiering
 
-| 方面 | UL | EN |
+| Aspekter | UL | SV |
 |------|-----|-----|
-| 烟雾报警器标准 | UL 217 | EN 14604 |
-| CO 报警器标准 | UL 2034 | EN 50291 |
-| 检测方法 | 特定火灾曲线测试 | 不同火灾类型测试 |
-| 适用电压 | 120V / 电池 | 230V / 电池 |
+| Standarder för brandvarnare | UL 217 | EN 14604 |
+| CO-larmstandarder | UL 2034 | EN 50291 |
+| Detektionsmetod | Specifik brandkurvatest | Olika brandtyptester |
+| Tillämplig spänning | 120V / batteri | 230V / batteri |

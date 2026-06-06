@@ -1,33 +1,33 @@
 ---
 sidebar_position: 13
 ---
-# HS1MS - 人体红外传感器（Zigbee）
+#HS1MS - Människokroppens infraröda sensor (Zigbee)
 
-## 概述
+## Översikt
 
-HS1MS 是海曼推出的标准型 Zigbee 人体红外传感器（PIR），采用被动红外检测技术，可感知移动人体发出的红外热辐射，广泛应用于智能照明和安防场景。
+HS1MS är en standard Zigbee infraröd sensor för mänsklig kropp (PIR) lanserad av Hyman. Den använder passiv infraröd detekteringsteknik och kan känna av infraröd värmestrålning som avges av en rörlig människokropp. Det används ofta i smart belysning och säkerhetsscenarier.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 被动红外（PIR） |
-| 检测角度 | 110° |
-| 检测距离 | ≤7 m（25°C） |
-| 供电方式 | DC 3V 锂电池 |
-| 电池寿命 | 约 3 年 |
-| 工作温度 | -10°C ~ +50°C |
-| 安装方式 | 壁挂安装 |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Passiv infraröd (PIR) |
+| Detekteringsvinkel | 110° |
+| Detektionsavstånd | ≤7 m (25°C) |
+| Strömförsörjningsmetod | DC 3V litiumbatteri |
+| Batteritid | Cirka 3 år |
+| Drifttemperatur | -10°C ~ +50°C |
+| Installationsmetod | Väggmontering |
 
-## 功能特性
+## Funktioner
 
-- 移动人体检测
-- 110° 广角检测
-- 低电量提醒
-- 防拆报警
-- 支持场景联动
+- Mobil mänsklig upptäckt
+- 110° vidvinkeldetektering
+- Påminnelse om lågt batteri
+- Anti-manipuleringslarm
+- Stöd scenkoppling
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 人体红外传感器](../../../产品类型/人体红外传感器/index.md)
+- Se [Produkttyp: Human Body Infrared Sensor](../../../Product Type/Human Body Infrared Sensor/index.md)

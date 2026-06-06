@@ -1,36 +1,36 @@
 ---
 sidebar_position: 23
 ---
-# HS2FD - 跌倒探测器（Zigbee）
+#HS2FD - Falldetektor (Zigbee)
 
-## 概述
+## Översikt
 
-HS2FD 是海曼推出的 Zigbee 智能跌倒探测器，专为老年人设计，内置加速度计和陀螺仪，采用 AI 算法识别跌倒姿态，可自动发出求救信号。
+HS2FD är en Zigbee smart falldetektor lanserad av Hyman. Den är speciellt utformad för äldre. Den har en inbyggd accelerometer och gyroskop. Den använder en AI-algoritm för att identifiera fallande ställning och kan automatiskt skicka ut en nödsignal.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 加速度计 + 陀螺仪 |
-| 检测技术 | AI 跌倒检测算法 |
-| 供电方式 | DC 3V 电池 |
-| 佩戴方式 | 腰带夹 / 挂绳 |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Accelerometer + Gyroskop |
+| Detektionsteknik | AI Fall Detection Algoritm |
+| Strömförsörjningsmetod | DC 3V batteri |
+| Bärmetod | Bältesklämma/snodd |
 
-## 功能特性
+## Funktioner
 
-- 自动跌倒检测
-- 一键手动求救
-- AI 算法区分跌倒与正常活动（坐下、弯腰），降低误报
-- 穿戴式设计（腰带夹或挂绳）
-- 低电量提醒
+- Automatisk falldetektering
+- Ring efter hjälp manuellt med ett klick
+- AI-algoritmen skiljer fall från normala aktiviteter (att sitta ner, böja sig) för att minska falsklarm
+- Bärbar design (bältesklämma eller rem)
+- Påminnelse om lågt batteri
 
-## 适用场景
+## Tillämpliga scenarier
 
-- 居家养老：独居老人全天候守护
-- 养老机构：集中监护管理
-- 康复中心：术后患者跌倒风险监测
+- Hemtjänst för äldre: dygnet-runt-omsorg för ensamboende äldre
+- Vårdhem: centraliserad vårdnad och förvaltning
+- Rehabiliteringscenter: Övervakning av fallrisken hos postoperativa patienter
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 跌倒探测器](../../../产品类型/跌倒探测器/index.md)
+- Se [Produkttyp: Falldetektor](../../../Produkttyp/Falldetektor/index.md)

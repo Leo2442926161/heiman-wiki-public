@@ -1,47 +1,47 @@
 ---
 sidebar_position: 4
 ---
-# HS1SA-E - 智能烟雾报警器（Zigbee）
+# HS1SA-E - Smart Brandvarnare (Zigbee)
 
-## 概述
+## Översikt
 
-HS1SA-E 是海曼面向欧盟市场推出的标准型 Zigbee 智能烟雾报警器，采用光电式感烟技术，已通过 EN 14604 认证并荣获红点设计大奖。
+HS1SA-E är en standard Zigbee smart brandvarnare lanserad av Hyman för EU-marknaden. Den använder fotoelektrisk rökavkänningsteknik och har klarat EN 14604-certifieringen och vunnit Red Dot Design Award.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 红外光电式 |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | DC 3V（CR123A） |
-| 电池寿命 | 约 3 年 |
-| 通信距离 | ≤70 m（开阔区域） |
-| 工作温度 | -10°C ~ +50°C |
-| 工作湿度 | ≤95% RH |
-| 安装方式 | 吸顶安装 |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Infraröd fotoelektrisk |
+| Larmljudtryck | ≥85 dB (3 meter) |
+| Strömförsörjningsmetod | DC 3V (CR123A) |
+| Batteritid | Cirka 3 år |
+| Kommunikationsavstånd | ≤70 m (öppet område) |
+| Drifttemperatur | -10°C ~ +50°C |
+| Arbetsfuktighet | ≤95 % RH |
+| Installationsmetod | Takinstallation |
 
-## 功能特性
+## Funktioner
 
-- 光电式烟雾检测，可探测慢燃和明火产生的烟雾
-- 85 dB 高声光报警
-- 低电量提醒
-- 自检功能（一键测试）
-- 防拆报警
-- 支持远程静音
-- OTA 固件升级
+- Fotoelektrisk rökdetektion för att upptäcka rök från långsamma brännskador och öppna lågor
+- 85 dB högt ljud- och ljuslarm
+- Påminnelse om lågt batteri
+- Självtestfunktion (ett-klickstest)
+- Anti-manipuleringslarm
+-Stöd för fjärravstängning
+- OTA-firmwareuppgradering
 
-## 认证标准
+## Certifieringsstandarder
 
-- EN 14604（烟雾报警器欧洲标准）
-- Red Dot Design Award（红点设计大奖）
-- CE / RED
+- EN 14604 (europeisk standard för brandvarnare)
+- Red Dot Design Award
+-CE/RED
 
-## 适用配件
+## Tillämpliga tillbehör
 
-- CR123A 电池
-- 安装螺丝 / 膨胀管
+- CR123A batteri
+- Monteringsskruvar/expansionsrör
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 烟雾传感器](../../../产品类型/烟雾传感器/index.md)
+- Se [Produkttyp: Röksensor](../../../Produkttyp/Röksensor/index.md)

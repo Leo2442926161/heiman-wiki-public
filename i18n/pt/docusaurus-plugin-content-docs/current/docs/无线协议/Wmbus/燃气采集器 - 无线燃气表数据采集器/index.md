@@ -1,44 +1,44 @@
 ---
 sidebar_position: 4
 ---
-# 燃气采集器 - 无线燃气表数据采集器
+# Coletor de gás - coletor de dados de medidor de gás sem fio
 
-## 概述
+## Visão geral
 
-燃气采集器是海曼面向智慧燃气领域推出的 wM-Bus 无线数据采集设备，工作于 868 MHz 频段（EN 13757 标准），用于远程读取燃气表计量数据并上传至集中抄表系统。采用工业级锂电池供电，电池续航 6~10 年，适用于公寓、住宅小区、商业建筑等集中抄表场景。
+O coletor de gás é um dispositivo de coleta de dados sem fio wM-Bus lançado pela Hyman para o campo de gás inteligente. Opera na faixa de frequência de 868 MHz (norma EN 13757) e é usado para ler remotamente dados de medição de medidores de gás e carregá-los no sistema centralizado de leitura de medidores. Alimentado por baterias de lítio de nível industrial com vida útil de 6 a 10 anos, é adequado para cenários de leitura centralizada de medidores, como apartamentos, áreas residenciais e edifícios comerciais.
 
-## 技术规格
+## Especificações técnicas
 
-| 参数 | 值 |
+| Parâmetro | Valor |
 |------|-----|
-| 通信协议 | wM-Bus（EN 13757） |
-| 工作频段 | 868 MHz（欧洲 SRD 频段） |
-| 传输速率 | 4.8 kbps / 16.384 kbps / 100 kbps（T/S/R 模式） |
-| 通信距离 | 室内约 100~300 米，空旷约 500~1000 米 |
-| 供电方式 | 工业锂电池（ER18505 / ER26500） |
-| 电池寿命 | 6~10 年（典型上报 1 次/天） |
-| 工作温度 | -20°C ~ +60°C |
-| 工作湿度 | ≤ 95% RH |
-| 防护等级 | IP65 ~ IP68（视安装环境） |
-| 数据加密 | AES-128（可选） |
+| Protocolo de comunicação | wM-Bus (EN 13757) |
+| Banda de frequência operacional | 868 MHz (faixa SRD europeia) |
+| Taxa de transmissão | 4,8 kbps / 16,384 kbps / 100 kbps (modo T/S/R) |
+| Distância de comunicação | Cerca de 100~300 metros em ambientes fechados, cerca de 500~1000 metros em espaços abertos |
+| Método de fornecimento de energia | Bateria de lítio industrial (ER18505 / ER26500) |
+| Vida útil da bateria | 6~10 anos (normalmente relatado 1 vez/dia) |
+| Temperatura de funcionamento | -20°C ~ +60°C |
+| Umidade de trabalho | ≤ 95% UR |
+| Nível de proteção | IP65 ~ IP68 (dependendo do ambiente de instalação) |
+| Criptografia de dados | AES-128 (opcional) |
 
-## 功能特性
+## Recursos
 
-- 支持 wM-Bus S/T/R 三种工作模式
-- 自动采集燃气表用量数据并定时上报
-- 低功耗深度休眠，超长续航
-- AES-128 数据加密，保障通信安全
-- 支持远程固件升级
-- 断线重连与数据补传机制
-- 支持 EN 13757-3 应用层协议
-- 可配合 HS1-CM 采集器 / HS1-GW 网关集中上传
+-Suporte wM-Bus S/T/R três modos de trabalho
+- Colete automaticamente dados de uso do medidor de gás e relate-os regularmente
+- Baixo consumo de energia, sono profundo, bateria de longa duração
+- Criptografia de dados AES-128 para garantir a segurança da comunicação
+-Suporte para atualização remota de firmware
+- Desconexão, reconexão e mecanismo de retransmissão de dados
+- Suporta protocolo de camada de aplicação EN 13757-3
+- Pode ser usado com coletor HS1 CM / gateway HS1 GW para upload centralizado
 
-## 认证标准
+## Padrões de certificação
 
-- EN 13757-4（无线 M-Bus 物理层）
-- EN 13757-3（M-Bus 应用层）
-- CE / RED
+- EN 13757-4 (camada física M-Bus sem fio)
+- EN 13757-3 (camada de aplicação M-Bus)
+-CE/VERMELHO
 
-## 关联文档
+## Documentos associados
 
-- 参见 [wM-Bus 技术参数](../技术参数.md)
+- Consulte [dados técnicos do wM-Bus](../technical data.md)

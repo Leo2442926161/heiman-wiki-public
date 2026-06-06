@@ -1,29 +1,29 @@
 ---
 sidebar_position: 17
 ---
-# HS8MIS - 移动传感器（Zigbee）
+#HS8MIS - Mobilsensor (Zigbee)
 
-## 概述
+## Översikt
 
-HS8MIS 是海曼推出的多功能 Zigbee 移动传感器，集成了 PIR 人体检测与光照度检测功能，适用于对光线和移动双重监测的智能场景。
+HS8MIS är en multifunktionell Zigbee rörelsesensor lanserad av Heiman. Den integrerar PIR mänsklig detektering och belysningsdetektering och är lämplig för smarta scener med dubbel övervakning av ljus och rörelse.
 
-## 技术规格
+## Tekniska specifikationer
 
-| 参数 | 值 |
+| Parameter | Värde |
 |------|-----|
-| 通信协议 | Zigbee 3.0 |
-| 传感器类型 | 被动红外（PIR）+ 光照度 |
-| 检测角度 | 110° |
-| 检测距离 | ≤7 m |
-| 供电方式 | DC 3V 电池 |
+| Kommunikationsprotokoll | Zigbee 3.0 |
+| Sensortyp | Passiv infraröd (PIR) + belysning |
+| Detekteringsvinkel | 110° |
+| Detektionsavstånd | ≤7 m |
+| Strömförsörjningsmetod | DC 3V batteri |
 
-## 功能特性
+## Funktioner
 
-- 移动人体检测
-- 光照度检测
-- 低功耗设计
-- 支持场景联动
+- Mobil mänsklig upptäckt
+- Belysningsdetektering
+- Design med låg strömförbrukning
+- Stöd scenkoppling
 
-## 关联文档
+## Tillhörande dokument
 
-- 参见 [产品类型: 人体红外传感器](../../../产品类型/人体红外传感器/index.md)
+- Se [Produkttyp: Human Body Infrared Sensor](../../../Product Type/Human Body Infrared Sensor/index.md)

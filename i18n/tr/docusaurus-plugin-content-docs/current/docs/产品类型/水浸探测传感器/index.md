@@ -1,37 +1,37 @@
 ---
 sidebar_position: 8
 ---
-# 水浸探测传感器
+# Suya dalma algılama sensörü
 
-水浸传感器（Water Leakage Sensor）用于检测漏水或积水，可有效预防水管爆裂、水漫金山带来的财产损失。
+Su Kaçağı Sensörü, su borusu patlamaları ve su taşkınlarından kaynaklanan mal kayıplarını etkili bir şekilde önleyebilen su sızıntısını veya su birikimini tespit etmek için kullanılır.
 
-## 产品系列
+## Ürün Serisi
 
-| 系列 | 通信方式 | 特点 |
+| Serisi | İletişim yöntemleri | Özellikler |
 |------|----------|------|
-| HS1WL | Zigbee | 基础款，探针检测 |
-| HS2WL 系列 | Zigbee | 探针+线缆检测，双通道 |
-| HS3WL 系列 | Zigbee | 增强版 |
-| L1 系列 | Matter / Zigbee | Matter over Thread 版，已获 WWHA 认证 |
+| HS1WL | Zigbee | Temel model, prob algılama |
+| HS2WL Serisi | Zigbee | Prob + kablo algılama, çift kanal |
+| HS3WL Serisi | Zigbee | Geliştirilmiş Sürüm |
+| L1 Serisi | Madde / Zigbee | Matter Over Thread sürümü, WWHA sertifikalı |
 
-## 核心功能
+## Temel işlevler
 
-- 漏水/积水实时检测
-- 蜂鸣器报警
-- 低电量提醒
-- 探针防腐蚀设计
+- Su sızıntısının/durgun suyun gerçek zamanlı tespiti
+- Zil alarmı
+- Düşük pil hatırlatıcısı
+- Korozyon önleyici prob tasarımı
 
-## 安装位置
+## Kurulum yeri
 
-- 洗手间台盆下方
-- 厨房水槽下方
-- 洗衣机/洗碗机旁
-- 热水器下方
-- 地下室/车库
-- 暖气片附近
+- Banyo lavabosunun altında
+- Mutfak lavabosunun altında
+- Çamaşır makinesi/bulaşık makinesinin yanında
+- Su ısıtıcısının altında
+- Bodrum/garaj
+- Radyatörün yanında
 
-## 场景联动
+## Sahne bağlantısı
 
-- **漏水检测 + 电磁阀**：检测到漏水自动关闭总阀门
-- **漏水报警 + 推送**：不在家时手机通知物业或家人
-- **水浸 + 智能关断**：联动燃气热水器或智能水阀
+- **Su kaçağı tespiti + solenoid valf**: Su kaçağı tespit edildiğinde ana vanayı otomatik olarak kapatın
+- **Su Sızıntısı Alarmı + Bas**: Evde olmadığınızda mülke veya aile üyelerine cep telefonunuzdan bildirimde bulunun
+- **Taşkın + Akıllı Kapatma**: Bağlantılı gazlı su ısıtıcısı veya akıllı su vanası
