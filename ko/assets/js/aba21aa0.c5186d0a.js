@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkheiman_wiki_public=self.webpackChunkheiman_wiki_public||[]).push([["3747"],{7093(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

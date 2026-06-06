@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://heiman-wiki.github.io/heiman-wiki-public/fr/blog</id>
+    <title>海曼科技 Wiki Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog"/>
+    <subtitle>海曼科技 Wiki Blog</subtitle>
+    <icon>https://heiman-wiki.github.io/heiman-wiki-public/fr/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Heiman Technology Wiki]]></title>
+        <id>https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/welcome</id>
+        <link href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bienvenue sur le Wiki Heiman Technology ! Ce site sert de centre de documentation complet pour les produits et solutions de Heiman Technology.]]></summary>
+        <content type="html"><![CDATA[<p>Bienvenue sur le Wiki Heiman Technology ! Ce site sert de centre de documentation complet pour les produits et solutions de Heiman Technology.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ce-que-vous-trouverez-ici">Ce que Vous Trouverez Ici<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/welcome#ce-que-vous-trouverez-ici" class="hash-link" aria-label="Lien direct vers Ce que Vous Trouverez Ici" title="Lien direct vers Ce que Vous Trouverez Ici" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Documentation Produit</strong> — Spécifications techniques détaillées, guides d'installation et manuels d'utilisation</li>
+<li class=""><strong>Ressources Développeur</strong> — Guides d'intégration d'API, protocoles de communication et tutoriels de connexion à des plateformes tierces</li>
+<li class=""><strong>Actualités et Mises à Jour</strong> — Dernières nouvelles de l'entreprise, lancements de produits et tendances de l'industrie</li>
+<li class=""><strong>FAQ et Dépannage</strong> — Questions courantes et solutions pour vous aider à tirer le meilleur parti de vos produits Heiman</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="rester-connecté">Rester Connecté<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/welcome#rester-connect%C3%A9" class="hash-link" aria-label="Lien direct vers Rester Connecté" title="Lien direct vers Rester Connecté" translate="no">​</a></h2>
+<p>Suivez-nous sur les réseaux sociaux pour les dernières mises à jour :</p>
+<ul>
+<li class=""><strong>X (Twitter)</strong> : <a href="https://x.com/heimantech" target="_blank" rel="noopener noreferrer" class="">@heimantech</a></li>
+<li class=""><strong>LinkedIn</strong> : <a href="https://linkedin.com/company/heimantech" target="_blank" rel="noopener noreferrer" class="">Heiman Technology</a></li>
+<li class=""><strong>Site Web</strong> : <a href="https://www.heiman.com.cn/" target="_blank" rel="noopener noreferrer" class="">https://www.heiman.com.cn</a></li>
+</ul>]]></content>
+        <author>
+            <name>Heiman Technology</name>
+            <uri>https://www.heiman.com.cn</uri>
+        </author>
+        <category label="Heiman Technology" term="Heiman Technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heiman Matter Smart Smoke Alarm Officially Launched]]></title>
+        <id>https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/mdx-blog-post</id>
+        <link href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/mdx-blog-post"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Heiman Technology est fière d'annoncer le lancement officiel de notre détecteur de fumée intelligent compatible Matter, une étape importante dans notre mission de fournir des solutions de sécurité domestique intelligente et interopérable.]]></summary>
+        <content type="html"><![CDATA[<p>Heiman Technology est fière d'annoncer le lancement officiel de notre détecteur de fumée intelligent compatible Matter, une étape importante dans notre mission de fournir des solutions de sécurité domestique intelligente et interopérable.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="pourquoi-matter-">Pourquoi Matter ?<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/mdx-blog-post#pourquoi-matter-" class="hash-link" aria-label="Lien direct vers Pourquoi Matter ?" title="Lien direct vers Pourquoi Matter ?" translate="no">​</a></h2>
+<p>Matter est le nouveau standard de l'industrie pour la connectivité des maisons intelligentes, permettant aux appareils de différents fabricants de fonctionner ensemble de manière transparente. En adoptant Matter, Heiman garantit que nos détecteurs de fumée peuvent s'intégrer facilement dans n'importe quel écosystème de maison intelligente.</p>
+<div class="language-jsx codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockTitle_OeMC">src/components/SmokeAlarm.jsx</div><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-jsx codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token keyword" style="color:#00009f">function</span><span class="token plain"> </span><span class="token function maybe-class-name" style="color:#d73a49">SmokeAlarm</span><span class="token punctuation" style="color:#393A34">(</span><span class="token parameter punctuation" style="color:#393A34">{</span><span class="token parameter"> status </span><span class="token parameter punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token keyword control-flow" style="color:#00009f">return</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">className</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">alarm-card</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain-text">      </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">h3</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text">Détecteur de Fumée Intelligent Heiman</span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">h3</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain-text">      </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">p</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text">Statut : </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain">status </span><span class="token operator" style="color:#393A34">===</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'normal'</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">?</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Fonctionnement Normal'</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Alerte'</span><span class="token punctuation" style="color:#393A34">}</span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">p</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain-text">    </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><br></div></code></pre></div></div>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>remarque</div><div class="admonitionContent_BuS1"><p>Le détecteur de fumée intelligent Matter de Heiman est compatible avec Alexa, Google Home et Apple HomeKit, permettant une expérience de maison intelligente véritablement intégrée.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="principales-caractéristiques">Principales Caractéristiques<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/mdx-blog-post#principales-caract%C3%A9ristiques" class="hash-link" aria-label="Lien direct vers Principales Caractéristiques" title="Lien direct vers Principales Caractéristiques" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Certification Matter</strong> — Interopérabilité transparente avec les principales plateformes de maison intelligente</li>
+<li class=""><strong>Connectivité Cellulaire</strong> — Sauvegarde 4G/NB-IoT pour une fiabilité accrue</li>
+<li class=""><strong>Détection Intelligente</strong> — Algorithme anti-fausses alarmes réduisant les notifications intempestives</li>
+<li class=""><strong>Multi-notification</strong> — Alertes push sur smartphone, sirène et notification aux contacts d'urgence</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="disponibilité">Disponibilité<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/mdx-blog-post#disponibilit%C3%A9" class="hash-link" aria-label="Lien direct vers Disponibilité" title="Lien direct vers Disponibilité" translate="no">​</a></h2>
+<p>Le détecteur de fumée intelligent Matter de Heiman est maintenant disponible à la commande. Veuillez contacter notre équipe commerciale pour les prix et la disponibilité dans votre région.</p>]]></content>
+        <author>
+            <name>Heiman Technology</name>
+            <uri>https://www.heiman.com.cn</uri>
+        </author>
+        <category label="Matter" term="Matter"/>
+        <category label="Sécurité Incendie Intelligente" term="Sécurité Incendie Intelligente"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heiman Technology Milestones]]></title>
+        <id>https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post</id>
+        <link href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2005]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2005">2005<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post#2005" class="hash-link" aria-label="Lien direct vers 2005" title="Lien direct vers 2005" translate="no">​</a></h2>
+<p>Heiman Technology a été fondée à Shenzhen, en Chine, se concentrant initialement sur la R&amp;D et la production de produits de sécurité électronique.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2008">2008<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post#2008" class="hash-link" aria-label="Lien direct vers 2008" title="Lien direct vers 2008" translate="no">​</a></h2>
+<p>Lancé le premier détecteur de fumée sans fil, marquant notre entrée sur le marché de la sécurité intelligente.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2012">2012<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post#2012" class="hash-link" aria-label="Lien direct vers 2012" title="Lien direct vers 2012" translate="no">​</a></h2>
+<p>Développement réussi des premiers produits de communication cellulaire, permettant la surveillance à distance et l'alarme.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2015">2015<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post#2015" class="hash-link" aria-label="Lien direct vers 2015" title="Lien direct vers 2015" translate="no">​</a></h2>
+<p>Reconnue comme Entreprise Nationale de Haute Technologie, validant davantage notre force en matière de R&amp;D technologique.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2018">2018<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post#2018" class="hash-link" aria-label="Lien direct vers 2018" title="Lien direct vers 2018" translate="no">​</a></h2>
+<p>Établissement d'une base de fabrication au Vietnam, élargissant notre capacité de production mondiale et notre empreinte logistique.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2020">2020<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post#2020" class="hash-link" aria-label="Lien direct vers 2020" title="Lien direct vers 2020" translate="no">​</a></h2>
+<p>Lancé une nouvelle génération de produits prenant en charge les protocoles IoT (NB-IoT, Cat.M, etc.), connectant de manière transparente avec les principales plateformes cloud.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2022">2022<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post#2022" class="hash-link" aria-label="Lien direct vers 2022" title="Lien direct vers 2022" translate="no">​</a></h2>
+<p>Reconnue comme Entreprise Nationale Spécialisée et Nouvelle « Petit Géant », obtenant l'accréditation CNAS pour notre laboratoire d'essais.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2023">2023<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post#2023" class="hash-link" aria-label="Lien direct vers 2023" title="Lien direct vers 2023" translate="no">​</a></h2>
+<p>Lancé le premier produit prenant en charge le protocole Matter, leader de l'industrie en matière de compatibilité inter-plateformes.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2024">2024<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/long-blog-post#2024" class="hash-link" aria-label="Lien direct vers 2024" title="Lien direct vers 2024" translate="no">​</a></h2>
+<p>Plus de 1000 certifications et brevets de produits, produits exportés dans plus de 100 pays et régions, capacité de production annuelle dépassant 15 millions d'unités.</p>]]></content>
+        <author>
+            <name>Heiman Technology</name>
+            <uri>https://www.heiman.com.cn</uri>
+        </author>
+        <category label="Heiman Technology" term="Heiman Technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heinan Technology Recognized as National "Little Giant" Enterprise]]></title>
+        <id>https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/first-blog-post</id>
+        <link href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/first-blog-post"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Heiman Technology a été officiellement reconnue comme Entreprise Nationale Spécialisée et Nouvelle « Petit Géant ». Cette reconnaissance prestigieuse met en évidence notre force en matière d'innovation technologique et notre position de leader dans l'industrie de la sécurité intelligente.]]></summary>
+        <content type="html"><![CDATA[<p>Heiman Technology a été officiellement reconnue comme Entreprise Nationale Spécialisée et Nouvelle « Petit Géant ». Cette reconnaissance prestigieuse met en évidence notre force en matière d'innovation technologique et notre position de leader dans l'industrie de la sécurité intelligente.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="quest-ce-que-le-programme--petit-géant--">Qu'est-ce que le Programme « Petit Géant » ?<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/first-blog-post#quest-ce-que-le-programme--petit-g%C3%A9ant--" class="hash-link" aria-label="Lien direct vers Qu'est-ce que le Programme « Petit Géant » ?" title="Lien direct vers Qu'est-ce que le Programme « Petit Géant » ?" translate="no">​</a></h2>
+<p>Le programme national « Petit Géant » est conçu pour identifier et soutenir les PME spécialisées et innovantes qui possèdent des technologies de base, une forte capacité d'innovation et un grand potentiel de marché. Ces entreprises sont considérées comme les piliers de la fabrication de pointe et de l'innovation technologique de la Chine.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="notre-parcours">Notre Parcours<a href="https://heiman-wiki.github.io/heiman-wiki-public/fr/blog/first-blog-post#notre-parcours" class="hash-link" aria-label="Lien direct vers Notre Parcours" title="Lien direct vers Notre Parcours" translate="no">​</a></h2>
+<p>Depuis notre fondation en 2005, Heiman Technology s'est toujours engagée dans la R&amp;D et l'innovation de produits de capteurs intelligents. Cette reconnaissance est un témoignage de nos efforts continus et de notre dévouement à fournir des produits de sécurité de haute qualité à travers le monde.</p>]]></content>
+        <author>
+            <name>Heiman Technology</name>
+            <uri>https://www.heiman.com.cn</uri>
+        </author>
+        <category label="Heiman Technology" term="Heiman Technology"/>
+    </entry>
+</feed>

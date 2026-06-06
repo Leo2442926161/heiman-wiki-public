@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkheiman_wiki_public=self.webpackChunkheiman_wiki_public||[]).push([["3220"],{1912(i){i.exports=JSON.parse('{"blogBasePath":"/heiman-wiki-public/ja/blog","blogTitle":"Blog","authorsListPath":"/heiman-wiki-public/ja/blog/authors"}')}}]);

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>海曼科技 Wiki Blog</title>
+        <link>https://heiman-wiki.github.io/heiman-wiki-public/sv/blog</link>
+        <description>海曼科技 Wiki Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>sv</language>
+        <item>
+            <title><![CDATA[Välkommen till Heiman Technology Wiki]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/welcome</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Välkommen till Heiman Technology Wiki! Detta är den officiella kunskapsbasen som samlar produktdokumentation, tekniska lösningar, branschnyheter och företagsuppdateringar.]]></description>
+            <content:encoded><![CDATA[<p>Välkommen till Heiman Technology Wiki! Detta är den officiella kunskapsbasen som samlar produktdokumentation, tekniska lösningar, branschnyheter och företagsuppdateringar.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="om-denna-webbplats">Om denna webbplats<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/welcome#om-denna-webbplats" class="hash-link" aria-label="Direktlänk till Om denna webbplats" title="Direktlänk till Om denna webbplats" translate="no">​</a></h2>
+<p>Heiman Technology Wiki är dedikerad till att tillhandahålla en one-stop teknisk resurs för partners, utvecklare och kunder:</p>
+<ul>
+<li class=""><strong>Produkter</strong> — Smart brandskydd, Smart gassäkerhet, Smart äldreomsorg, Smarta sensorer</li>
+<li class=""><strong>Lösningar</strong> — Branschspecifika smarta säkerhetslösningar</li>
+<li class=""><strong>Teknisk dokumentation</strong> — API-integrationsguider, SDK-användning, installationsmanualer</li>
+<li class=""><strong>Branschinsikter</strong> — Trender inom smart säkerhet och policyanalys</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="snabbnavigering">Snabbnavigering<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/welcome#snabbnavigering" class="hash-link" aria-label="Direktlänk till Snabbnavigering" title="Direktlänk till Snabbnavigering" translate="no">​</a></h2>
+<ul>
+<li class="">Bläddra bland <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/sv/docs/tutorial-basics/create-a-page">Produkter &amp; Lösningar</a></li>
+<li class="">Läs <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/sv/docs/intro">Om oss</a> för att lära känna Heimans berättelse</li>
+<li class="">Besök <a href="https://www.heiman.com.cn/" target="_blank" rel="noopener noreferrer" class="">Heimans officiella webbplats</a></li>
+</ul>
+<p>För frågor, ring vår hotline <strong>400-8959-500</strong> eller kontakta online-support.</p>]]></content:encoded>
+            <category>Heiman Technology</category>
+        </item>
+        <item>
+            <title><![CDATA[Heiman Matter Smart Rökdetektor officiellt lanserad]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/mdx-blog-post</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/mdx-blog-post</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Heiman Technologys nya generation Matter-protokoll smarta rökdetektor, HS1SA-M, har officiellt lanserats — en av branschens första rökdetektorer som fått Matter 1.2-certifiering.]]></description>
+            <content:encoded><![CDATA[<p>Heiman Technologys nya generation Matter-protokoll smarta rökdetektor, HS1SA-M, har officiellt lanserats — en av branschens första rökdetektorer som fått Matter 1.2-certifiering.</p>
+<!-- -->
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tips</div><div class="admonitionContent_BuS1"><p>HS1SA-M stöder Apple HomeKit, Amazon Alexa, Google Home och Samsung SmartThings — de fyra stora smarta hem-ekosystemen.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="nyckelfunktioner">Nyckelfunktioner<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/mdx-blog-post#nyckelfunktioner" class="hash-link" aria-label="Direktlänk till Nyckelfunktioner" title="Direktlänk till Nyckelfunktioner" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Matter 1.2-certifierad</strong> — Tvärvarumärkes-, tvärekosystem-interoperabilitet</li>
+<li class=""><strong>Fotoelektrisk rökdetektering</strong> — Snabb respons på olika typer av brandrök</li>
+<li class=""><strong>Röstlarm</strong> — Flera språkalternativ, tydliga farovarningar</li>
+<li class=""><strong>Självtestfunktion</strong> — Regelbundna självtester för att säkerställa normal drift</li>
+<li class=""><strong>Fjärrmeddelanden</strong> — Realtidspush-notiser till din telefon-APP</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kompatibilitet">Kompatibilitet<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/mdx-blog-post#kompatibilitet" class="hash-link" aria-label="Direktlänk till Kompatibilitet" title="Direktlänk till Kompatibilitet" translate="no">​</a></h2>
+<p>HS1SA-M integreras sömlöst med större smarta hem-plattformar utan att kräva en extra gateway — hantera allt direkt från din telefon.</p>
+<p>Besök <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/sv/docs/tutorial-basics/create-a-page">Produkter</a>-sidan för att lära dig mer.</p>]]></content:encoded>
+            <category>Matter</category>
+            <category>Smart brandskydd</category>
+        </item>
+        <item>
+            <title><![CDATA[Heiman Technologys milstolpar]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sedan grundandet 2005 har Heiman Technology rest över 20 år. Denna artikel återger Heimans viktigaste milstolpar.]]></description>
+            <content:encoded><![CDATA[<p>Sedan grundandet 2005 har Heiman Technology rest över 20 år. Denna artikel återger Heimans viktigaste milstolpar.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2005---företaget-grundas">2005 - Företaget grundas<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post#2005---f%C3%B6retaget-grundas" class="hash-link" aria-label="Direktlänk till 2005 - Företaget grundas" title="Direktlänk till 2005 - Företaget grundas" translate="no">​</a></h2>
+<p>Shenzhen Heiman Technology Co., Ltd. officiellt etablerad, och går in på marknaden för säkerhetssensorer.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2006---internationell-start">2006 - Internationell start<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post#2006---internationell-start" class="hash-link" aria-label="Direktlänk till 2006 - Internationell start" title="Direktlänk till 2006 - Internationell start" translate="no">​</a></h2>
+<p>Flera produkter klarade EU CE-certifiering och inledde partnerskap med China Mobile.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2011---genombrott-inom-internationell-certifiering">2011 - Genombrott inom internationell certifiering<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post#2011---genombrott-inom-internationell-certifiering" class="hash-link" aria-label="Direktlänk till 2011 - Genombrott inom internationell certifiering" title="Direktlänk till 2011 - Genombrott inom internationell certifiering" translate="no">​</a></h2>
+<p>Flera produkter klarade EU EN54-7 och EN14604-certifieringar och nådde internationella kvalitetsstandarder.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2012---smart-hem-omvandling">2012 - Smart hem-omvandling<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post#2012---smart-hem-omvandling" class="hash-link" aria-label="Direktlänk till 2012 - Smart hem-omvandling" title="Direktlänk till 2012 - Smart hem-omvandling" translate="no">​</a></h2>
+<p>Smart hem-projektet lanserades fullt ut, vilket övergick Heiman till ett företag specialiserat på FoU, produktion och försäljning av smarta hem-produkter.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2017---stora-genombrott">2017 - Stora genombrott<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post#2017---stora-genombrott" class="hash-link" aria-label="Direktlänk till 2017 - Stora genombrott" title="Direktlänk till 2017 - Stora genombrott" translate="no">​</a></h2>
+<ul>
+<li class="">Utvecklade Kinas första NB-IoT-rökdetektor</li>
+<li class="">Vann 2 Red Dot Design Awards</li>
+<li class="">Klarade MFi-certifiering, kvalificerad som Apple-tillverkare</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2020---kapitaltillskott">2020 - Kapitaltillskott<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post#2020---kapitaltillskott" class="hash-link" aria-label="Direktlänk till 2020 - Kapitaltillskott" title="Direktlänk till 2020 - Kapitaltillskott" translate="no">​</a></h2>
+<p>Slutförde Serie A-finansiering med Shenzhen Hi-Tech Investment Group, erkänd som "Guangdong Province Specialized and New SME".</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2022---nationellt-erkännande">2022 - Nationellt erkännande<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post#2022---nationellt-erk%C3%A4nnande" class="hash-link" aria-label="Direktlänk till 2022 - Nationellt erkännande" title="Direktlänk till 2022 - Nationellt erkännande" translate="no">​</a></h2>
+<p>Erkänd som nationellt specialiserat och nytt "Little Giant"-företag. K1-serien vann Red Dot Design Award.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2023---ledarskap-inom-internationella-standarder">2023 - Ledarskap inom internationella standarder<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post#2023---ledarskap-inom-internationella-standarder" class="hash-link" aria-label="Direktlänk till 2023 - Ledarskap inom internationella standarder" title="Direktlänk till 2023 - Ledarskap inom internationella standarder" translate="no">​</a></h2>
+<p>Heimans testlaboratorium fick officiellt CNAS-certifiering. Rökdetektorer och CO-larm var bland de första att få Matter 1.2-certifiering.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2024---nutid">2024 - Nutid<a href="https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/long-blog-post#2024---nutid" class="hash-link" aria-label="Direktlänk till 2024 - Nutid" title="Direktlänk till 2024 - Nutid" translate="no">​</a></h2>
+<p>Fortsatt innovation, fördjupat engagemang inom Smart brandskydd, Smart gassäkerhet, Smart äldreomsorg och Smarta sensorer, och levererar kvalitetsprodukter och tjänster till kunder i 100+ länder världen över.</p>]]></content:encoded>
+            <category>Heiman Technology</category>
+        </item>
+        <item>
+            <title><![CDATA[Heiman Technology erkänd som nationellt "Little Giant"-företag]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/first-blog-post</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/sv/blog/first-blog-post</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[År 2022 blev Heiman Technology officiellt erkänt som ett nationellt specialiserat och nytt "Little Giant"-företag för sin djupa tekniska ackumulation och innovation inom det smarta sensorområdet.]]></description>
+            <content:encoded><![CDATA[<p>År 2022 blev Heiman Technology officiellt erkänt som ett nationellt specialiserat och nytt "Little Giant"-företag för sin djupa tekniska ackumulation och innovation inom det smarta sensorområdet.</p>
+<!-- -->
+<p>Detta nationella erkännande bekräftar Heimans excellens inom specialisering, förfining, differentiering och innovation. Heiman kommer att fortsätta fördjupa sina ansträngningar inom Smart brandskydd, Smart gassäkerhet, Smart äldreomsorg och Smarta sensorer, och konsekvent leverera högkvalitativa produkter och tjänster till kunder.</p>
+<p>Heiman hade tidigare fått erkännande som ett nationellt högteknologiskt företag och ett Guangdong Province specialiserat och nytt SME.</p>]]></content:encoded>
+            <category>Heiman Technology</category>
+        </item>
+    </channel>
+</rss>

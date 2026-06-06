@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkheiman_wiki_public=self.webpackChunkheiman_wiki_public||[]).push([["9535"],{2722(e){e.exports=JSON.parse('{"metadata":{"permalink":"/heiman-wiki-public/tr/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

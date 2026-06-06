@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>海曼科技 Wiki Blog</title>
+        <link>https://heiman-wiki.github.io/heiman-wiki-public/pt/blog</link>
+        <description>海曼科技 Wiki Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>pt</language>
+        <item>
+            <title><![CDATA[Bem-vindo à Wiki da Heiman Technology]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/welcome</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bem-vindo à Wiki da Heiman Technology! Esta é a base de conhecimento oficial, reunindo documentação de produtos, soluções técnicas, notícias do setor e atualizações da empresa.]]></description>
+            <content:encoded><![CDATA[<p>Bem-vindo à Wiki da Heiman Technology! Esta é a base de conhecimento oficial, reunindo documentação de produtos, soluções técnicas, notícias do setor e atualizações da empresa.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="sobre-este-site">Sobre Este Site<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/welcome#sobre-este-site" class="hash-link" aria-label="Link direto para Sobre Este Site" title="Link direto para Sobre Este Site" translate="no">​</a></h2>
+<p>A Wiki da Heiman Technology é dedicada a fornecer um recurso técnico completo para parceiros, desenvolvedores e clientes:</p>
+<ul>
+<li class=""><strong>Produtos</strong> — Segurança contra Incêndios Inteligente, Segurança de Gás Inteligente, Cuidado de Idosos Inteligente, Sensores Inteligentes</li>
+<li class=""><strong>Soluções</strong> — Soluções de segurança inteligente em nível industrial</li>
+<li class=""><strong>Documentação Técnica</strong> — Guias de integração de API, uso de SDK, manuais de instalação</li>
+<li class=""><strong>Insights do Setor</strong> — Tendências de segurança inteligente e interpretação de políticas</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="navegação-rápida">Navegação Rápida<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/welcome#navega%C3%A7%C3%A3o-r%C3%A1pida" class="hash-link" aria-label="Link direto para Navegação Rápida" title="Link direto para Navegação Rápida" translate="no">​</a></h2>
+<ul>
+<li class="">Navegue por <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/pt/docs/tutorial-basics/create-a-page">Produtos e Soluções</a></li>
+<li class="">Leia <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/pt/docs/intro">Sobre Nós</a> para conhecer a história da Heiman</li>
+<li class="">Visite o <a href="https://www.heiman.com.cn/" target="_blank" rel="noopener noreferrer" class="">Site Oficial da Heiman</a></li>
+</ul>
+<p>Para qualquer dúvida, ligue para nossa linha direta <strong>400-8959-500</strong> ou entre em contato com o suporte online.</p>]]></content:encoded>
+            <category>Heiman Technology</category>
+        </item>
+        <item>
+            <title><![CDATA[Detector de Fumaça Inteligente Heiman Matter Lançado Oficialmente]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/mdx-blog-post</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/mdx-blog-post</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[O detector de fumaça inteligente de nova geração da Heiman Technology com protocolo Matter, o HS1SA-M, foi oficialmente lançado — um dos primeiros detectores de fumaça do setor a receber a certificação Matter 1.2.]]></description>
+            <content:encoded><![CDATA[<p>O detector de fumaça inteligente de nova geração da Heiman Technology com protocolo Matter, o HS1SA-M, foi oficialmente lançado — um dos primeiros detectores de fumaça do setor a receber a certificação Matter 1.2.</p>
+<!-- -->
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>dica</div><div class="admonitionContent_BuS1"><p>O HS1SA-M suporta Apple HomeKit, Amazon Alexa, Google Home e Samsung SmartThings — os quatro principais ecossistemas de casa inteligente.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="principais-características">Principais Características<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/mdx-blog-post#principais-caracter%C3%ADsticas" class="hash-link" aria-label="Link direto para Principais Características" title="Link direto para Principais Características" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Certificado Matter 1.2</strong> — Interoperabilidade entre marcas e ecossistemas</li>
+<li class=""><strong>Sensor de Fumaça Fotoelétrico</strong> — Resposta rápida a vários tipos de fumaça de incêndio</li>
+<li class=""><strong>Alarme por Voz</strong> — Múltiplas opções de idioma, alertas claros de perigo</li>
+<li class=""><strong>Função de Autoteste</strong> — Autoverificações regulares para garantir operação normal</li>
+<li class=""><strong>Notificação Remota</strong> — Alertas push em tempo real para o APP do seu celular</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="compatibilidade">Compatibilidade<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/mdx-blog-post#compatibilidade" class="hash-link" aria-label="Link direto para Compatibilidade" title="Link direto para Compatibilidade" translate="no">​</a></h2>
+<p>O HS1SA-M integra-se perfeitamente às principais plataformas de casa inteligente sem necessidade de gateway adicional — gerencie tudo diretamente do seu celular.</p>
+<p>Visite a página de <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/pt/docs/tutorial-basics/create-a-page">Produtos</a> para saber mais.</p>]]></content:encoded>
+            <category>Matter</category>
+            <category>Segurança contra Incêndios Inteligente</category>
+        </item>
+        <item>
+            <title><![CDATA[Marcos da Heiman Technology]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Desde sua fundação em 2005, a Heiman Technology percorreu mais de 20 anos. Este artigo revisa os principais marcos da Heiman.]]></description>
+            <content:encoded><![CDATA[<p>Desde sua fundação em 2005, a Heiman Technology percorreu mais de 20 anos. Este artigo revisa os principais marcos da Heiman.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2005---fundação-da-empresa">2005 - Fundação da Empresa<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post#2005---funda%C3%A7%C3%A3o-da-empresa" class="hash-link" aria-label="Link direto para 2005 - Fundação da Empresa" title="Link direto para 2005 - Fundação da Empresa" translate="no">​</a></h2>
+<p>A Shenzhen Heiman Technology Co., Ltd. foi oficialmente estabelecida, entrando no campo de sensores de segurança.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2006---início-internacional">2006 - Início Internacional<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post#2006---in%C3%ADcio-internacional" class="hash-link" aria-label="Link direto para 2006 - Início Internacional" title="Link direto para 2006 - Início Internacional" translate="no">​</a></h2>
+<p>Múltiplos produtos obtiveram a certificação CE da UE e firmaram parceria com a China Mobile.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2011---avanço-em-certificação-internacional">2011 - Avanço em Certificação Internacional<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post#2011---avan%C3%A7o-em-certifica%C3%A7%C3%A3o-internacional" class="hash-link" aria-label="Link direto para 2011 - Avanço em Certificação Internacional" title="Link direto para 2011 - Avanço em Certificação Internacional" translate="no">​</a></h2>
+<p>Múltiplos produtos obtiveram as certificações EU EN54-7 e EN14604, atingindo padrões internacionais de qualidade.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2012---transformação-para-casa-inteligente">2012 - Transformação para Casa Inteligente<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post#2012---transforma%C3%A7%C3%A3o-para-casa-inteligente" class="hash-link" aria-label="Link direto para 2012 - Transformação para Casa Inteligente" title="Link direto para 2012 - Transformação para Casa Inteligente" translate="no">​</a></h2>
+<p>O projeto de casa inteligente foi totalmente lançado, transformando a Heiman em uma empresa especializada em P&amp;D, produção e vendas de produtos para casa inteligente.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2017---grandes-avanços">2017 - Grandes Avanços<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post#2017---grandes-avan%C3%A7os" class="hash-link" aria-label="Link direto para 2017 - Grandes Avanços" title="Link direto para 2017 - Grandes Avanços" translate="no">​</a></h2>
+<ul>
+<li class="">Desenvolveu o primeiro alarme de fumaça NB-IoT da China</li>
+<li class="">Ganhou 2 Prêmios Red Dot Design</li>
+<li class="">Obteve certificação MFi, qualificando-se como fabricante Apple</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2020---impulso-de-capital">2020 - Impulso de Capital<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post#2020---impulso-de-capital" class="hash-link" aria-label="Link direto para 2020 - Impulso de Capital" title="Link direto para 2020 - Impulso de Capital" translate="no">​</a></h2>
+<p>Concluiu financiamento Série A com o Shenzhen High-tech Investment Group, reconhecida como "PME Especializada e Nova da Província de Guangdong".</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2022---reconhecimento-nacional">2022 - Reconhecimento Nacional<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post#2022---reconhecimento-nacional" class="hash-link" aria-label="Link direto para 2022 - Reconhecimento Nacional" title="Link direto para 2022 - Reconhecimento Nacional" translate="no">​</a></h2>
+<p>Reconhecida como Empresa Nacional Especializada e Nova "Pequeno Gigante". A série K1 ganhou o Prêmio Red Dot Design.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2023---liderança-em-padrões-internacionais">2023 - Liderança em Padrões Internacionais<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post#2023---lideran%C3%A7a-em-padr%C3%B5es-internacionais" class="hash-link" aria-label="Link direto para 2023 - Liderança em Padrões Internacionais" title="Link direto para 2023 - Liderança em Padrões Internacionais" translate="no">​</a></h2>
+<p>O laboratório de testes da Heiman obteve oficialmente a certificação CNAS. Alarmes de fumaça e CO foram dos primeiros a obter certificação Matter 1.2.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2024---presente">2024 - Presente<a href="https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/long-blog-post#2024---presente" class="hash-link" aria-label="Link direto para 2024 - Presente" title="Link direto para 2024 - Presente" translate="no">​</a></h2>
+<p>Continuando a inovação, aprofundando o compromisso com Segurança contra Incêndios Inteligente, Segurança de Gás Inteligente, Cuidado de Idosos Inteligente e Sensores Inteligentes, fornecendo produtos e serviços de qualidade para clientes em mais de 100 países em todo o mundo.</p>]]></content:encoded>
+            <category>Heiman Technology</category>
+        </item>
+        <item>
+            <title><![CDATA[Heiman Technology Reconhecida como Empresa Nacional "Pequeno Gigante"]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/first-blog-post</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/pt/blog/first-blog-post</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Em 2022, a Heiman Technology foi oficialmente reconhecida como uma Empresa Nacional Especializada e Nova "Pequeno Gigante" por sua profunda acumulação técnica e inovação no campo de sensores inteligentes.]]></description>
+            <content:encoded><![CDATA[<p>Em 2022, a Heiman Technology foi oficialmente reconhecida como uma Empresa Nacional Especializada e Nova "Pequeno Gigante" por sua profunda acumulação técnica e inovação no campo de sensores inteligentes.</p>
+<!-- -->
+<p>Este reconhecimento nacional afirma a excelência da Heiman em especialização, refinamento, diferenciação e inovação. A Heiman continuará a aprofundar seus esforços em Segurança contra Incêndios Inteligente, Segurança de Gás Inteligente, Cuidado de Idosos Inteligente e Sensores Inteligentes, fornecendo consistentemente produtos e serviços de alta qualidade aos clientes.</p>
+<p>A Heiman havia recebido anteriormente o reconhecimento como Empresa Nacional de Alta Tecnologia e como PME Especializada e Nova da Província de Guangdong.</p>]]></content:encoded>
+            <category>Heiman Technology</category>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>海曼科技 Wiki Blog</title>
+        <link>https://heiman-wiki.github.io/heiman-wiki-public/ru/blog</link>
+        <description>海曼科技 Wiki Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ru</language>
+        <item>
+            <title><![CDATA[Добро пожаловать в вики Heiman Technology]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/welcome</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Добро пожаловать в вики Heiman Technology! Это официальная база знаний, объединяющая документацию по продуктам, технические решения, отраслевые новости и обновления компании.]]></description>
+            <content:encoded><![CDATA[<p>Добро пожаловать в вики Heiman Technology! Это официальная база знаний, объединяющая документацию по продуктам, технические решения, отраслевые новости и обновления компании.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="о-сайте">О сайте<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/welcome#%D0%BE-%D1%81%D0%B0%D0%B9%D1%82%D0%B5" class="hash-link" aria-label="Прямая ссылка на О сайте" title="Прямая ссылка на О сайте" translate="no">​</a></h2>
+<p>Вики Heiman Technology предназначена для предоставления единого технического ресурса для партнёров, разработчиков и клиентов:</p>
+<ul>
+<li class=""><strong>Продукция</strong> — Пожарная безопасность, газовая безопасность, уход за пожилыми, интеллектуальные датчики</li>
+<li class=""><strong>Решения</strong> — Отраслевые интеллектуальные решения безопасности</li>
+<li class=""><strong>Техническая документация</strong> — Руководства по интеграции API, использованию SDK, инструкции по установке</li>
+<li class=""><strong>Отраслевые аналитика</strong> — Тенденции и политика в области интеллектуальной безопасности</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="быстрая-навигация">Быстрая навигация<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/welcome#%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%B0%D1%8F-%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F" class="hash-link" aria-label="Прямая ссылка на Быстрая навигация" title="Прямая ссылка на Быстрая навигация" translate="no">​</a></h2>
+<ul>
+<li class="">Просмотрите <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/ru/docs/tutorial-basics/create-a-page">Продукцию и решения</a></li>
+<li class="">Прочитайте <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/ru/docs/intro">О нас</a>, чтобы узнать историю Heiman</li>
+<li class="">Посетите <a href="https://www.heiman.com.cn/" target="_blank" rel="noopener noreferrer" class="">официальный сайт Heiman</a></li>
+</ul>
+<p>По любым вопросам звоните на горячую линию <strong>400-8959-500</strong> или обратитесь в онлайн-поддержку.</p>]]></content:encoded>
+            <category>Heiman Technology</category>
+        </item>
+        <item>
+            <title><![CDATA[Heiman Matter — интеллектуальный дымовой извещатель официально запущен]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/mdx-blog-post</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/mdx-blog-post</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Новое поколение интеллектуального дымового извещателя Heiman с поддержкой протокола Matter, модель HS1SA-M, официально запущено в производство — один из первых дымовых извещателей в отрасли, получивших сертификацию Matter 1.2.]]></description>
+            <content:encoded><![CDATA[<p>Новое поколение интеллектуального дымового извещателя Heiman с поддержкой протокола Matter, модель HS1SA-M, официально запущено в производство — один из первых дымовых извещателей в отрасли, получивших сертификацию Matter 1.2.</p>
+<!-- -->
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>подсказка</div><div class="admonitionContent_BuS1"><p>HS1SA-M поддерживает Apple HomeKit, Amazon Alexa, Google Home и Samsung SmartThings — четыре основные экосистемы умного дома.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="основные-характеристики">Основные характеристики<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/mdx-blog-post#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8" class="hash-link" aria-label="Прямая ссылка на Основные характеристики" title="Прямая ссылка на Основные характеристики" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Сертифицирован Matter 1.2</strong> — Межбрендовая и межэкосистемная совместимость</li>
+<li class=""><strong>Фотоэлектрическое обнаружение дыма</strong> — Быстрое реагирование на различные типы пожарного дыма</li>
+<li class=""><strong>Голосовое оповещение</strong> — Несколько языков, чёткие предупреждения об опасности</li>
+<li class=""><strong>Функция самодиагностики</strong> — Регулярные проверки для обеспечения нормальной работы</li>
+<li class=""><strong>Удалённое оповещение</strong> — Push-уведомления в реальном времени на ваш телефон</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="совместимость">Совместимость<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/mdx-blog-post#%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" class="hash-link" aria-label="Прямая ссылка на Совместимость" title="Прямая ссылка на Совместимость" translate="no">​</a></h2>
+<p>HS1SA-M легко интегрируется с основными платформами умного дома без необходимости в дополнительном шлюзе — управляйте всем напрямую с телефона.</p>
+<p>Посетите страницу <a class="" href="https://heiman-wiki.github.io/heiman-wiki-public/ru/docs/tutorial-basics/create-a-page">Продукция</a>, чтобы узнать больше.</p>]]></content:encoded>
+            <category>Matter</category>
+            <category>Пожарная безопасность</category>
+        </item>
+        <item>
+            <title><![CDATA[Вехи развития Heiman Technology]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[С момента основания в 2005 году Heiman Technology прошла путь длиной более 20 лет. Эта статья освещает ключевые вехи Heiman.]]></description>
+            <content:encoded><![CDATA[<p>С момента основания в 2005 году Heiman Technology прошла путь длиной более 20 лет. Эта статья освещает ключевые вехи Heiman.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2005--основание-компании">2005 — Основание компании<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post#2005--%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" class="hash-link" aria-label="Прямая ссылка на 2005 — Основание компании" title="Прямая ссылка на 2005 — Основание компании" translate="no">​</a></h2>
+<p>Shenzhen Heiman Technology Co., Ltd. была официально учреждена, войдя в сферу охранных датчиков.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2006--международный-старт">2006 — Международный старт<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post#2006--%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82" class="hash-link" aria-label="Прямая ссылка на 2006 — Международный старт" title="Прямая ссылка на 2006 — Международный старт" translate="no">​</a></h2>
+<p>Множество продуктов прошли сертификацию EU CE и было заключено партнёрство с China Mobile.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2011--прорыв-в-международной-сертификации">2011 — Прорыв в международной сертификации<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post#2011--%D0%BF%D1%80%D0%BE%D1%80%D1%8B%D0%B2-%D0%B2-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8" class="hash-link" aria-label="Прямая ссылка на 2011 — Прорыв в международной сертификации" title="Прямая ссылка на 2011 — Прорыв в международной сертификации" translate="no">​</a></h2>
+<p>Множество продуктов прошли сертификацию EU EN54-7 и EN14604, достигнув международных стандартов качества.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2012--переход-к-умному-дому">2012 — Переход к умному дому<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post#2012--%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4-%D0%BA-%D1%83%D0%BC%D0%BD%D0%BE%D0%BC%D1%83-%D0%B4%D0%BE%D0%BC%D1%83" class="hash-link" aria-label="Прямая ссылка на 2012 — Переход к умному дому" title="Прямая ссылка на 2012 — Переход к умному дому" translate="no">​</a></h2>
+<p>Проект умного дома был полностью запущен, превратив Heiman в компанию, специализирующуюся на НИОКР, производстве и продаже продуктов для умного дома.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2017--крупные-прорывы">2017 — Крупные прорывы<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post#2017--%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D1%80%D1%8B%D0%B2%D1%8B" class="hash-link" aria-label="Прямая ссылка на 2017 — Крупные прорывы" title="Прямая ссылка на 2017 — Крупные прорывы" translate="no">​</a></h2>
+<ul>
+<li class="">Разработана первая в Китае дымовая сигнализация NB-IoT</li>
+<li class="">Получены 2 награды Red Dot Design Award</li>
+<li class="">Пройдена сертификация MFi, получен статус производителя Apple</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2020--привлечение-инвестиций">2020 — Привлечение инвестиций<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post#2020--%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B9" class="hash-link" aria-label="Прямая ссылка на 2020 — Привлечение инвестиций" title="Прямая ссылка на 2020 — Привлечение инвестиций" translate="no">​</a></h2>
+<p>Завершён раунд финансирования серии A с Shenzhen高新投 Group, признана «Специализированным и новым МСП провинции Гуандун».</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2022--национальное-признание">2022 — Национальное признание<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post#2022--%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на 2022 — Национальное признание" title="Прямая ссылка на 2022 — Национальное признание" translate="no">​</a></h2>
+<p>Признана Национальным специализированным и новым предприятием «Маленький гигант». Серия K1 получила награду Red Dot Design Award.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2023--лидерство-в-международных-стандартах">2023 — Лидерство в международных стандартах<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post#2023--%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE-%D0%B2-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B0%D1%85" class="hash-link" aria-label="Прямая ссылка на 2023 — Лидерство в международных стандартах" title="Прямая ссылка на 2023 — Лидерство в международных стандартах" translate="no">​</a></h2>
+<p>Испытательная лаборатория Heiman официально прошла сертификацию CNAS. Дымовые извещатели и CO-извещатели первыми получили сертификацию Matter 1.2.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2024--настоящее-время">2024 — Настоящее время<a href="https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/long-blog-post#2024--%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" class="hash-link" aria-label="Прямая ссылка на 2024 — Настоящее время" title="Прямая ссылка на 2024 — Настоящее время" translate="no">​</a></h2>
+<p>Продолжение инноваций, углубление приверженности пожарной безопасности, газовой безопасности, уходу за пожилыми и интеллектуальным датчикам, предоставление качественных продуктов и услуг клиентам в более чем 100 странах мира.</p>]]></content:encoded>
+            <category>Heiman Technology</category>
+        </item>
+        <item>
+            <title><![CDATA[Heiman Technology признана национальным предприятием «Маленький гигант»]]></title>
+            <link>https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/first-blog-post</link>
+            <guid>https://heiman-wiki.github.io/heiman-wiki-public/ru/blog/first-blog-post</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[В 2022 году Heiman Technology была официально признана Национальным специализированным и новым предприятием «Маленький гигант» за глубокие технические наработки и инновации в области интеллектуальных датчиков.]]></description>
+            <content:encoded><![CDATA[<p>В 2022 году Heiman Technology была официально признана Национальным специализированным и новым предприятием «Маленький гигант» за глубокие технические наработки и инновации в области интеллектуальных датчиков.</p>
+<!-- -->
+<p>Это признание на национальном уровне подтверждает превосходство Heiman в специализации, refinement, дифференциации и инновациях. Heiman продолжит углублять свою деятельность в сфере пожарной безопасности, газовой безопасности, ухода за пожилыми и интеллектуальных датчиков, постоянно предоставляя клиентам высококачественные продукты и услуги.</p>
+<p>Ранее Heiman получила признание как Национальное высокотехнологичное предприятие и Специализированное и новое МСП провинции Гуандун.</p>]]></content:encoded>
+            <category>Heiman Technology</category>
+        </item>
+    </channel>
+</rss>
