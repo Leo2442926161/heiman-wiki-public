@@ -31,7 +31,7 @@ HS1MS is a standard Zigbee PIR motion sensor from Heiman, using passive infrared
 
 ## Related Documentation
 
-- See [Product Category: PIR Motion Sensor](../../产品类型/人体红外传感器/index.md)
+- See [Product Category: PIR Motion Sensor](../../../产品类型/人体红外传感器/index.md)
 
 ## Version History
 

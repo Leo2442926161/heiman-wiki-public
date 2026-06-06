@@ -37,7 +37,7 @@ HS8SA is a Zigbee + Wi-Fi smart smoke alarm from Heiman for the US market, featu
 
 ## Related Documentation
 
-- See [Product Category: Smoke Sensor](../../产品类型/烟雾传感器/index.md)
+- See [Product Category: Smoke Sensor](../../../产品类型/烟雾传感器/index.md)
 
 ## Version History
 

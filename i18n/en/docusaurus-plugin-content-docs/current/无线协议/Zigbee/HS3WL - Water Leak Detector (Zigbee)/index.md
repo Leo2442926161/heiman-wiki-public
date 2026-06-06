@@ -28,7 +28,7 @@ HS3WL is Heiman's third-generation Zigbee water leak detector, with enhanced det
 
 ## Related Documentation
 
-- See [Product Category: Water Leak Sensor](../../产品类型/水浸探测传感器/index.md)
+- See [Product Category: Water Leak Sensor](../../../产品类型/水浸探测传感器/index.md)
 
 ## Version History
 

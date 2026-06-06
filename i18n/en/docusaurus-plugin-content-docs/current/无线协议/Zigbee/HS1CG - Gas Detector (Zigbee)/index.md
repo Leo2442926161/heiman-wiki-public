@@ -39,7 +39,7 @@ HS1CG is a Zigbee gas detector from Heiman, using a semiconductor sensor to dete
 
 ## Related Documentation
 
-- See [Product Category: Gas Detector](../../产品类型/可燃气体探测器/index.md)
+- See [Product Category: Gas Detector](../../../产品类型/可燃气体探测器/index.md)
 
 ## Version History
 

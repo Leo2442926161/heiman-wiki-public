@@ -34,7 +34,7 @@ HS6GW is a Zigbee smart gateway from Heiman, serving as the coordinator for the 
 
 ## Related Documentation
 
-- See [Product Category: Smart Gateway](../../产品类型/智能网关/index.md)
+- See [Product Category: Smart Gateway](../../../产品类型/智能网关/index.md)
 
 ## Version History
 

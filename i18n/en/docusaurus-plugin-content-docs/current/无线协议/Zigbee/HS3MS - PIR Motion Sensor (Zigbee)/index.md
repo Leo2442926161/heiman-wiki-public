@@ -32,7 +32,7 @@ HS3MS is Heiman's third-generation Zigbee PIR motion sensor, featuring a 360° c
 
 ## Related Documentation
 
-- See [Product Category: PIR Motion Sensor](../../产品类型/人体红外传感器/index.md)
+- See [Product Category: PIR Motion Sensor](../../../产品类型/人体红外传感器/index.md)
 
 ## Version History
 

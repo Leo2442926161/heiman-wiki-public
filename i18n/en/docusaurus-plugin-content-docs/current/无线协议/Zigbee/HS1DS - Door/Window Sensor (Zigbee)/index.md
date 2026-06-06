@@ -35,7 +35,7 @@ HS1DS is a Zigbee door/window sensor from Heiman, used to detect the open/close 
 
 ## Related Documentation
 
-- See [Product Category: Door/Window Sensor](../../产品类型/门磁传感器/index.md)
+- See [Product Category: Door/Window Sensor](../../../产品类型/门磁传感器/index.md)
 
 ## Version History
 

@@ -58,8 +58,8 @@ The S1 series is a standalone Sub-1G smoke alarm from Heiman, operating in the 4
 
 ## Related Documentation
 
-- See [Product Category: Smoke Sensor](../../产品类型/烟雾传感器/index.md)
-- See [Sub-1G Technical Specifications](./技术参数.md)
+- See [Product Category: Smoke Sensor](../../../产品类型/烟雾传感器/index.md)
+- See [Sub-1G Technical Specifications](../技术参数.md)
 
 ## Version History
 

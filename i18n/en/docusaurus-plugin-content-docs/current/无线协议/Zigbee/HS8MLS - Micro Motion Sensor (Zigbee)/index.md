@@ -25,7 +25,7 @@ HS8MLS is a long-range Zigbee PIR motion sensor from Heiman, designed for scenar
 
 ## Related Documentation
 
-- See [Product Category: PIR Motion Sensor](../../产品类型/人体红外传感器/index.md)
+- See [Product Category: PIR Motion Sensor](../../../产品类型/人体红外传感器/index.md)
 
 ## Version History
 

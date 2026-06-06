@@ -30,7 +30,7 @@ HS1DS-M is the Matter over Thread version of Heiman's smart door/window sensor, 
 
 ## Related Documentation
 
-- See [Product Category: Door/Window Sensor](../../产品类型/门磁传感器/index.md)
+- See [Product Category: Door/Window Sensor](../../../产品类型/门磁传感器/index.md)
 
 ## Version History
 

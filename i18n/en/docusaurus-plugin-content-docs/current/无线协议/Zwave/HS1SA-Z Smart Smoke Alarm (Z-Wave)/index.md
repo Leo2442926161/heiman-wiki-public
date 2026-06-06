@@ -57,9 +57,9 @@ HS1SA-Z is a **Z-Wave** smart smoke alarm from Heiman, using photoelectric smoke
 
 ## Related Links
 
-- [Product Category: Smoke Sensor](../../产品类型/烟雾传感器/index.md)
-- [Z-Wave Technical Specifications](./技术参数.md)
-- [Supported Models](./支持型号列表.md)
+- [Product Category: Smoke Sensor](../../../产品类型/烟雾传感器/index.md)
+- [Z-Wave Technical Specifications](../技术参数.md)
+- [Supported Models](../支持型号列表.md)
 
 ## Version History
 

@@ -60,9 +60,9 @@ Requires a Thread Border Router, such as Apple HomePod mini, Google Nest Hub 2nd
 
 ## Related Links
 
-- [Product Category: Carbon Monoxide Sensor](../../产品类型/一氧化碳传感器/index.md)
-- [Matter Technical Specifications](./技术参数.md)
-- [Supported Models](./支持型号列表.md)
+- [Product Category: Carbon Monoxide Sensor](../../../产品类型/一氧化碳传感器/index.md)
+- [Matter Technical Specifications](../技术参数.md)
+- [Supported Models](../支持型号列表.md)
 
 ## Version History
 

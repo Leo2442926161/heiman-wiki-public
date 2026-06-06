@@ -51,7 +51,7 @@ HS1DS-Z is a **Z-Wave** door/window sensor from Heiman, using a reed switch to d
 
 ## Related Links
 
-- [Product Category: Door/Window Sensor](../../产品类型/门磁传感器/index.md)
+- [Product Category: Door/Window Sensor](../../../产品类型/门磁传感器/index.md)
 - [Z-Wave Technical Specifications](./技术参数.md)
 - [Supported Models](./支持型号列表.md)
 

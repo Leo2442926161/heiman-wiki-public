@@ -33,7 +33,7 @@ M1-Z is a compact Zigbee PIR motion sensor from Heiman, supporting 110° or 360�
 
 ## Related Documentation
 
-- See [Product Category: PIR Motion Sensor](../../产品类型/人体红外传感器/index.md)
+- See [Product Category: PIR Motion Sensor](../../../产品类型/人体红外传感器/index.md)
 
 ## Version History
 

@@ -39,8 +39,8 @@ HS6GW is a smart home gateway from Heiman, supporting WiFi + Ethernet uplink wit
 
 ## Related Documentation
 
-- See [WiFi Technical Specifications](./技术参数.md)
-- See [Zigbee Technical Specifications](../Zigbee/技术参数.md)
+- See [WiFi Technical Specifications](../技术参数.md)
+- See [Zigbee Technical Specifications](../../Zigbee/技术参数.md)
 
 ## Version History
 

@@ -40,7 +40,7 @@ HS2SK-WiFi is a WiFi smart metering plug from Heiman, supporting 2.4GHz 802.11 b
 
 ## Related Documentation
 
-- See [WiFi Technical Specifications](./技术参数.md)
+- See [WiFi Technical Specifications](../技术参数.md)
 
 ## Version History
 

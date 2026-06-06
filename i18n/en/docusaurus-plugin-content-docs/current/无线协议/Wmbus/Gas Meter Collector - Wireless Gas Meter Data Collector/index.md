@@ -42,7 +42,7 @@ The Gas Meter Collector is a wM-Bus wireless data collection device from Heiman 
 
 ## Related Documentation
 
-- See [wM-Bus Technical Specifications](./技术参数.md)
+- See [wM-Bus Technical Specifications](../技术参数.md)
 
 ## Version History
 

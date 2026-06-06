@@ -32,7 +32,7 @@ HS2WL is the second-generation Zigbee water leak detector from Heiman, supportin
 
 ## Related Documentation
 
-- See [Product Category: Water Leak Sensor](../../产品类型/水浸探测传感器/index.md)
+- See [Product Category: Water Leak Sensor](../../../产品类型/水浸探测传感器/index.md)
 
 ## Version History
 

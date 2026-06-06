@@ -35,7 +35,7 @@ HS2SK is a Zigbee smart metering plug from Heiman, supporting remote on/off cont
 
 ## Related Documentation
 
-- See [Product Category: Smart Plug](../../产品类型/智能插座/index.md)
+- See [Product Category: Smart Plug](../../../产品类型/智能插座/index.md)
 
 ## Version History
 

@@ -47,9 +47,9 @@ M1-M is a **Matter over Thread** PIR motion sensor from Heiman, integrating PIR 
 
 ## Related Links
 
-- [Product Category: PIR Motion Sensor](../../产品类型/人体红外传感器/index.md)
-- [Matter Technical Specifications](./技术参数.md)
-- [Supported Models](./支持型号列表.md)
+- [Product Category: PIR Motion Sensor](../../../产品类型/人体红外传感器/index.md)
+- [Matter Technical Specifications](../技术参数.md)
+- [Supported Models](../支持型号列表.md)
 
 ## Version History
 

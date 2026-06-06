@@ -40,7 +40,7 @@ HS3CG is Heiman's third-generation Zigbee gas detector, with improved detection 
 
 ## Related Documentation
 
-- See [Product Category: Gas Detector](../../产品类型/可燃气体探测器/index.md)
+- See [Product Category: Gas Detector](../../../产品类型/可燃气体探测器/index.md)
 
 ## Version History
 

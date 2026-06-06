@@ -27,7 +27,7 @@ HS1WL is the first-generation Zigbee water leak detector from Heiman, using prob
 
 ## Related Documentation
 
-- See [Product Category: Water Leak Sensor](../../产品类型/水浸探测传感器/index.md)
+- See [Product Category: Water Leak Sensor](../../../产品类型/水浸探测传感器/index.md)
 
 ## Version History
 

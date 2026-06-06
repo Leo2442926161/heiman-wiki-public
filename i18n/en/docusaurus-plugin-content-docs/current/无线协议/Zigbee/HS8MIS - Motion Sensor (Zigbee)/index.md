@@ -27,7 +27,7 @@ HS8MIS is a multi-function Zigbee motion sensor from Heiman, integrating PIR hum
 
 ## Related Documentation
 
-- See [Product Category: PIR Motion Sensor](../../产品类型/人体红外传感器/index.md)
+- See [Product Category: PIR Motion Sensor](../../../产品类型/人体红外传感器/index.md)
 
 ## Version History
 

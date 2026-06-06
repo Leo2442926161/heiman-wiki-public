@@ -34,7 +34,7 @@ The C1 series is a basic Zigbee carbon monoxide alarm from Heiman, using an elec
 
 ## Related Documentation
 
-- See [Product Category: Carbon Monoxide Sensor](../../产品类型/一氧化碳传感器/index.md)
+- See [Product Category: Carbon Monoxide Sensor](../../../产品类型/一氧化碳传感器/index.md)
 
 ## Version History
 

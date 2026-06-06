@@ -34,7 +34,7 @@ HS2FD is a Zigbee smart fall detector from Heiman, designed specifically for the
 
 ## Related Documentation
 
-- See [Product Category: Fall Detector](../../产品类型/跌倒探测器/index.md)
+- See [Product Category: Fall Detector](../../../产品类型/跌倒探测器/index.md)
 
 ## Version History
 

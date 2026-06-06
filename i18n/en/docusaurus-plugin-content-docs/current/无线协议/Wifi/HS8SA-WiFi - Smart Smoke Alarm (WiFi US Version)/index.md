@@ -39,8 +39,8 @@ HS8SA-WiFi is a WiFi smart smoke alarm from Heiman for the US market, using phot
 
 ## Related Documentation
 
-- See [Product Category: Smoke Sensor](../../产品类型/烟雾传感器/index.md)
-- See [WiFi Technical Specifications](./技术参数.md)
+- See [Product Category: Smoke Sensor](../../../产品类型/烟雾传感器/index.md)
+- See [WiFi Technical Specifications](../技术参数.md)
 
 ## Version History
 

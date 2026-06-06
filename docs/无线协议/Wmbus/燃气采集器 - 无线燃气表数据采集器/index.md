@@ -42,4 +42,4 @@ sidebar_position: 4
 
 ## 关联文档
 
-- 参见 [wM-Bus 技术参数](./技术参数.md)
+- 参见 [wM-Bus 技术参数](../技术参数.md)

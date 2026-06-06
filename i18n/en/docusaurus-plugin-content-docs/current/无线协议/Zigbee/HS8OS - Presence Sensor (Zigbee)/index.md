@@ -34,7 +34,7 @@ HS8OS is a Zigbee presence sensor from Heiman, using millimeter wave radar techn
 
 ## Related Documentation
 
-- See [Product Category: Presence Sensor](../../产品类型/人体存在传感器/index.md)
+- See [Product Category: Presence Sensor](../../../产品类型/人体存在传感器/index.md)
 
 ## Version History
 

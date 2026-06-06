@@ -57,9 +57,9 @@ HS1CA-Z is a **Z-Wave** smart carbon monoxide alarm from Heiman, using electroch
 
 ## Related Links
 
-- [Product Category: Carbon Monoxide Sensor](../../产品类型/一氧化碳传感器/index.md)
-- [Z-Wave Technical Specifications](./技术参数.md)
-- [Supported Models](./支持型号列表.md)
+- [Product Category: Carbon Monoxide Sensor](../../../产品类型/一氧化碳传感器/index.md)
+- [Z-Wave Technical Specifications](../技术参数.md)
+- [Supported Models](../支持型号列表.md)
 
 ## Version History
 
