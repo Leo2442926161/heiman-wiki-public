@@ -1,6 +1,6 @@
 {
   "link.title.文档": {
-    "message": "文档",
+    "message": "dokumentieren",
     "description": "The title of the footer links column with title=文档 in the footer"
   },
   "link.title.产品与方案": {
@@ -8,27 +8,27 @@
     "description": "The title of the footer links column with title=产品与方案 in the footer"
   },
   "link.title.更多": {
-    "message": "更多",
+    "message": "Mehr",
     "description": "The title of the footer links column with title=更多 in the footer"
   },
   "link.item.label.海曼简介": {
-    "message": "海曼简介",
+    "message": "Über Heiman",
     "description": "The label of footer link with label=海曼简介 linking to /docs/intro"
   },
   "link.item.label.产品类型": {
-    "message": "产品类型",
+    "message": "Produkttyp",
     "description": "The label of footer link with label=产品类型 linking to /docs/产品类型/烟雾传感器"
   },
   "link.item.label.智慧消防": {
-    "message": "智慧消防",
+    "message": "Smarter Brandschutz",
     "description": "The label of footer link with label=智慧消防 linking to https://www.heiman.com.cn/product/?type=list&classid=3"
   },
   "link.item.label.智慧燃气": {
-    "message": "智慧燃气",
+    "message": "Intelligentes Gas",
     "description": "The label of footer link with label=智慧燃气 linking to https://www.heiman.com.cn/product/?type=list&classid=4"
   },
   "link.item.label.智慧养老": {
-    "message": "智慧养老",
+    "message": "Intelligente Altenpflege",
     "description": "The label of footer link with label=智慧养老 linking to https://www.heiman.com.cn/product/?type=list&classid=34"
   },
   "link.item.label.博客": {
@@ -36,11 +36,11 @@
     "description": "The label of footer link with label=博客 linking to /blog"
   },
   "link.item.label.联系我们": {
-    "message": "联系我们",
+    "message": "Kontaktieren Sie uns",
     "description": "The label of footer link with label=联系我们 linking to https://www.heiman.com.cn/contactus/"
   },
   "copyright": {
-    "message": "Copyright © 2026 深圳市海曼科技股份有限公司",
+    "message": "Copyright © 2026 Shenzhen Heiman Technology Co., Ltd.",
     "description": "The footer copyright"
   }
 }

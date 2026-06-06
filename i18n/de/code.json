@@ -1,24 +1,24 @@
 {
   "homepage.cta": {
-    "message": "了解海曼 →"
+    "message": "Lernen Sie Heiman kennen →"
   },
   "feature.fire.title": {
-    "message": "智慧消防"
+    "message": "Smarter Brandschutz"
   },
   "feature.fire.desc": {
-    "message": "烟雾报警器、一氧化碳报警器等消防传感产品，支持蜂窝网络连接与多平台对接，守护生命财产安全。"
+    "message": "Brandmeldeprodukte wie Rauchmelder und Kohlenmonoxidmelder unterstützen die Verbindung zu Mobilfunknetzen und das Andocken an mehrere Plattformen, um die Sicherheit von Leben und Eigentum zu gewährleisten."
   },
   "feature.gas.title": {
     "message": "智慧燃气"
   },
   "feature.gas.desc": {
-    "message": "工业及商业级燃气泄漏报警系统，高精度气体检测，实时远程监控与联动切断。"
+    "message": "Gasleck-Alarmsystem für Industrie und Gewerbe, hochpräzise Gasdetektion, Echtzeit-Fernüberwachung und verknüpfte Abschaltung."
   },
   "feature.elderly.title": {
-    "message": "智慧养老"
+    "message": "Intelligente Altenpflege"
   },
   "feature.elderly.desc": {
-    "message": "跌倒检测、一键呼叫、多终端联动通知，为长者提供全方位的安全保障。"
+    "message": "Sturzerkennung, Ein-Klick-Anruf und Multi-Terminal-Verbindungsbenachrichtigung bieten umfassenden Sicherheitsschutz für ältere Menschen."
   },
   "theme.ErrorPageContent.title": {
     "message": "Die Seite ist abgestürzt.",

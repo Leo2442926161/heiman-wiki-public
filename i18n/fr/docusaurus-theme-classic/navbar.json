@@ -1,22 +1,22 @@
 {
   "title": {
-    "message": "海曼科技",
+    "message": "Technologie Heiman",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "海曼科技 Logo",
+    "message": "Logo de la technologie Heiman",
     "description": "The alt text of navbar logo"
   },
   "item.label.文档中心": {
-    "message": "文档中心",
+    "message": "Centre de documentation",
     "description": "Navbar item with label 文档中心"
   },
   "item.label.博客": {
-    "message": "博客",
+    "message": "bloguer",
     "description": "Navbar item with label 博客"
   },
   "item.label.官网": {
-    "message": "官网",
+    "message": "Site officiel",
     "description": "Navbar item with label 官网"
   }
 }

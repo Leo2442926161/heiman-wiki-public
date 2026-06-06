@@ -1,24 +1,24 @@
 {
   "homepage.cta": {
-    "message": "了解海曼 →"
+    "message": "Apprenez à connaître Heiman →"
   },
   "feature.fire.title": {
-    "message": "智慧消防"
+    "message": "Protection incendie intelligente"
   },
   "feature.fire.desc": {
-    "message": "烟雾报警器、一氧化碳报警器等消防传感产品，支持蜂窝网络连接与多平台对接，守护生命财产安全。"
+    "message": "Les produits de détection d'incendie tels que les détecteurs de fumée et les détecteurs de monoxyde de carbone prennent en charge la connexion au réseau cellulaire et l'amarrage multiplateforme pour protéger la sécurité des personnes et des biens."
   },
   "feature.gas.title": {
-    "message": "智慧燃气"
+    "message": "Gaz intelligent"
   },
   "feature.gas.desc": {
     "message": "工业及商业级燃气泄漏报警系统，高精度气体检测，实时远程监控与联动切断。"
   },
   "feature.elderly.title": {
-    "message": "智慧养老"
+    "message": "Soins intelligents aux personnes âgées"
   },
   "feature.elderly.desc": {
-    "message": "跌倒检测、一键呼叫、多终端联动通知，为长者提供全方位的安全保障。"
+    "message": "La détection des chutes, l'appel en un clic et la notification de liaison multiterminal offrent une protection de sécurité complète pour les personnes âgées."
   },
   "theme.ErrorPageContent.title": {
     "message": "Cette page a planté.",

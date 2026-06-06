@@ -3,22 +3,22 @@
     "message": "了解海曼 →"
   },
   "feature.fire.title": {
-    "message": "智慧消防"
+    "message": "Protezione antincendio intelligente"
   },
   "feature.fire.desc": {
-    "message": "烟雾报警器、一氧化碳报警器等消防传感产品，支持蜂窝网络连接与多平台对接，守护生命财产安全。"
+    "message": "I prodotti di rilevamento incendio come i rilevatori di fumo e i rilevatori di monossido di carbonio supportano la connessione di rete cellulare e il docking multipiattaforma per proteggere la sicurezza della vita e delle proprietà."
   },
   "feature.gas.title": {
     "message": "智慧燃气"
   },
   "feature.gas.desc": {
-    "message": "工业及商业级燃气泄漏报警系统，高精度气体检测，实时远程监控与联动切断。"
+    "message": "Sistema di allarme per perdite di gas di livello industriale e commerciale, rilevamento di gas ad alta precisione, monitoraggio remoto in tempo reale e spegnimento collegato."
   },
   "feature.elderly.title": {
-    "message": "智慧养老"
+    "message": "Assistenza agli anziani intelligente"
   },
   "feature.elderly.desc": {
-    "message": "跌倒检测、一键呼叫、多终端联动通知，为长者提供全方位的安全保障。"
+    "message": "Il rilevamento delle cadute, le chiamate con un clic e la notifica di collegamento multiterminale forniscono una protezione di sicurezza completa per gli anziani."
   },
   "theme.ErrorPageContent.title": {
     "message": "Questa pagina è andata in crash.",

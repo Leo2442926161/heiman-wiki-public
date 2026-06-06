@@ -4,7 +4,7 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.生态平台": {
-    "message": "生态平台",
+    "message": "Piattaforma ecologica",
     "description": "The label for category '生态平台' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Home Assistant": {
@@ -52,7 +52,7 @@
     "description": "The label for category 'ZHA（Zigbee Home Automation）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.无线协议": {
-    "message": "无线协议",
+    "message": "protocollo senza fili",
     "description": "The label for category '无线协议' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Matter": {
@@ -68,7 +68,7 @@
     "description": "The label for category 'Wi-Fi' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Sub-1G（远距离通信）": {
-    "message": "Sub-1G（远距离通信）",
+    "message": "Sub-1G (comunicazione a lunga distanza)",
     "description": "The label for category 'Sub-1G（远距离通信）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Z-Wave": {
@@ -76,35 +76,35 @@
     "description": "The label for category 'Z-Wave' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wM-Bus（无线计量总线）": {
-    "message": "wM-Bus（无线计量总线）",
+    "message": "wM-Bus (bus di misurazione wireless)",
     "description": "The label for category 'wM-Bus（无线计量总线）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.产品类型": {
-    "message": "产品类型",
+    "message": "tipo di prodotto",
     "description": "The label for category '产品类型' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.烟雾传感器": {
-    "message": "烟雾传感器",
+    "message": "sensore di fumo",
     "description": "The label for category '烟雾传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.一氧化碳传感器": {
-    "message": "一氧化碳传感器",
+    "message": "sensore di monossido di carbonio",
     "description": "The label for category '一氧化碳传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.门磁传感器": {
-    "message": "门磁传感器",
+    "message": "sensore della porta",
     "description": "The label for category '门磁传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.人体红外传感器": {
-    "message": "人体红外传感器",
+    "message": "Sensore a infrarossi del corpo umano",
     "description": "The label for category '人体红外传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.人体存在传感器": {
-    "message": "人体存在传感器",
+    "message": "sensore di presenza umana",
     "description": "The label for category '人体存在传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.温湿度传感器": {
-    "message": "温湿度传感器",
+    "message": "Sensore di temperatura e umidità",
     "description": "The label for category '温湿度传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.火灾温感传感器": {
@@ -116,7 +116,7 @@
     "description": "The label for category '水浸探测传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.空气质量传感器": {
-    "message": "空气质量传感器",
+    "message": "sensore di qualità dell'aria",
     "description": "The label for category '空气质量传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.可燃气体探测器": {
@@ -124,7 +124,7 @@
     "description": "The label for category '可燃气体探测器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能插座": {
-    "message": "智能插座",
+    "message": "presa intelligente",
     "description": "The label for category '智能插座' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.声光报警器（警号）": {
@@ -132,15 +132,15 @@
     "description": "The label for category '声光报警器（警号）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.振动传感器": {
-    "message": "振动传感器",
+    "message": "Sensore di vibrazioni",
     "description": "The label for category '振动传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.紧急按钮": {
-    "message": "紧急按钮",
+    "message": "pulsante antipanico",
     "description": "The label for category '紧急按钮' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.跌倒探测器": {
-    "message": "跌倒探测器",
+    "message": "rilevatore di caduta",
     "description": "The label for category '跌倒探测器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能门铃": {
@@ -148,7 +148,7 @@
     "description": "The label for category '智能门铃' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能网关": {
-    "message": "智能网关",
+    "message": "Porta intelligente",
     "description": "The label for category '智能网关' in sidebar 'tutorialSidebar'"
   }
 }

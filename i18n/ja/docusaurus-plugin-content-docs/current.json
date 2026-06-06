@@ -40,7 +40,7 @@
     "description": "The label for category 'Amazon Alexa' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Tuya（涂鸦智能）": {
-    "message": "Tuya（涂鸦智能）",
+    "message": "Tuya (トゥヤ スマート)",
     "description": "The label for category 'Tuya（涂鸦智能）' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Hubitat": {
@@ -92,7 +92,7 @@
     "description": "The label for category '一氧化碳传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.门磁传感器": {
-    "message": "门磁传感器",
+    "message": "ドアセンサー",
     "description": "The label for category '门磁传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.人体红外传感器": {
@@ -124,7 +124,7 @@
     "description": "The label for category '可燃气体探测器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能插座": {
-    "message": "智能插座",
+    "message": "スマートソケット",
     "description": "The label for category '智能插座' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.声光报警器（警号）": {
@@ -136,7 +136,7 @@
     "description": "The label for category '振动传感器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.紧急按钮": {
-    "message": "紧急按钮",
+    "message": "パニックボタン",
     "description": "The label for category '紧急按钮' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.跌倒探测器": {
@@ -144,11 +144,11 @@
     "description": "The label for category '跌倒探测器' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能门铃": {
-    "message": "智能门铃",
+    "message": "スマートドアベル",
     "description": "The label for category '智能门铃' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.智能网关": {
-    "message": "智能网关",
+    "message": "スマートゲートウェイ",
     "description": "The label for category '智能网关' in sidebar 'tutorialSidebar'"
   }
 }

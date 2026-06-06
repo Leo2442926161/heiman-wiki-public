@@ -350,4 +350,180 @@ code {
   article {
     padding: 16px;
   }
+
+  .pagination-nav {
+    flex-direction: column;
+    gap: 12px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 15px;
+  }
+
+  article,
+  .docItemContainer_article {
+    padding: 14px !important;
+    border-radius: 12px;
+  }
+
+  .markdown h1 {
+    font-size: 1.5rem;
+  }
+  .markdown h2 {
+    font-size: 1.25rem;
+  }
+  .markdown h3 {
+    font-size: 1.1rem;
+  }
+
+  .markdown table {
+    min-width: 100%;
+    font-size: 0.85rem;
+  }
+
+  .markdown td,
+  .markdown th {
+    padding: 6px 10px;
+    white-space: nowrap;
+  }
+
+  .markdown td:last-child {
+    min-width: 140px;
+  }
+
+  .table-wrapper {
+    margin: 0 -14px;
+    padding: 0 14px;
+    width: calc(100% + 28px);
+    border-radius: 0;
+  }
+
+  .card {
+    padding: 16px;
+  }
+
+  .footer__links {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .footer__col {
+    text-align: center;
+  }
+
+  .pagination-nav__link {
+    padding: 12px 16px;
+  }
+
+  .hero--primary {
+    padding: 32px 16px;
+  }
+
+  .hero__title {
+    font-size: 1.6rem;
+  }
+
+  .hero__subtitle {
+    font-size: 0.95rem;
+  }
+
+  .tabs {
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+
+  .tabs__item {
+    padding: 6px 12px;
+    font-size: 0.85rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+
+  article,
+  .docItemContainer_article {
+    padding: 12px !important;
+    border-radius: 10px;
+    margin: 0 -8px;
+    width: calc(100% + 16px);
+  }
+
+  .markdown h1 {
+    font-size: 1.35rem;
+  }
+  .markdown h2 {
+    font-size: 1.1rem;
+  }
+  .markdown h3 {
+    font-size: 1rem;
+  }
+
+  .markdown td,
+  .markdown th {
+    padding: 5px 8px;
+    font-size: 0.8rem;
+  }
+
+  .markdown td:last-child {
+    min-width: 120px;
+  }
+
+  .table-wrapper {
+    margin: 0 -12px;
+    padding: 0 12px;
+    width: calc(100% + 24px);
+  }
+
+  :root {
+    --search-local-modal-width-sm: 300px;
+  }
+
+  .navbar__items--right {
+    gap: 2px;
+  }
+
+  .navbar__link {
+    font-size: 0.8rem;
+    padding: 4px 8px;
+  }
+
+  .footer {
+    padding: 24px 12px;
+  }
+
+  .theme-doc-sidebar-container {
+    width: 280px !important;
+  }
+}
+
+/* backdrop-filter fallback for mobile browsers that don't support it */
+@supports not ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
+  .navbar,
+  .card,
+  .footer,
+  .theme-doc-sidebar-container,
+  .table-of-contents,
+  article,
+  .docItemContainer_article,
+  .pagination-nav__link,
+  .dropdown__menu {
+    background: var(--glass-bg-strong) !important;
+  }
+
+  [data-theme='dark'] .navbar,
+  [data-theme='dark'] .card,
+  [data-theme='dark'] .footer,
+  [data-theme='dark'] .theme-doc-sidebar-container,
+  [data-theme='dark'] .table-of-contents,
+  [data-theme='dark'] article,
+  [data-theme='dark'] .docItemContainer_article,
+  [data-theme='dark'] .pagination-nav__link,
+  [data-theme='dark'] .dropdown__menu {
+    background: rgba(25, 30, 55, 0.95) !important;
+  }
 }
