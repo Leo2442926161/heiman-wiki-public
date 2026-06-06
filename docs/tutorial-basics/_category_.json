@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "产品与方案",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "了解海曼科技核心产品线与解决方案。"
   }
 }

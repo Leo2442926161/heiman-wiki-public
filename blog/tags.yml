@@ -1,19 +1,29 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+heiman:
+  label: 海曼科技
+  permalink: /heiman
+  description: 海曼科技相关资讯
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+smart-fire:
+  label: 智慧消防
+  permalink: /smart-fire
+  description: 智慧消防产品与解决方案
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+smart-gas:
+  label: 智慧燃气
+  permalink: /smart-gas
+  description: 智慧燃气报警系统
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+smart-elderly:
+  label: 智慧养老
+  permalink: /smart-elderly
+  description: 智慧养老解决方案
+
+smart-sensor:
+  label: 智能传感
+  permalink: /smart-sensor
+  description: 智能传感产品技术
+
+matter:
+  label: Matter
+  permalink: /matter
+  description: Matter 协议相关内容

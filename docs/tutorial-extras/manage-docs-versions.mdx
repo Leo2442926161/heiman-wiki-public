@@ -2,54 +2,21 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# 文档版本管理
 
-Docusaurus can manage multiple versions of your docs.
+海曼科技 Wiki 支持多版本文档管理，确保您能访问到与产品固件版本对应的技术文档。
 
-## Create a docs version
+## 版本对照
 
-Release a version 1.0 of your project:
+| 文档版本 | 适用产品固件 | 发布日期 |
+|---------|------------|---------|
+| 2.0    | Matter 系列  | 2025-06 |
+| 1.0    | Zigbee 系列  | 2024-01 |
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+## 查看不同版本
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+在页面顶部导航栏的版本下拉菜单中，您可以切换查看不同版本的文档内容。
 
-Your docs now have 2 versions:
+## 版本更新说明
 
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
-
-## Add a Version Dropdown
-
-To navigate seamlessly across versions, add a version dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-export default {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
-
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+我们持续更新文档以匹配产品迭代，建议定期查看最新版本。

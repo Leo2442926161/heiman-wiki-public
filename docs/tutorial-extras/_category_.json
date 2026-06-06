@@ -1,7 +1,8 @@
 {
-  "label": "Tutorial - Extras",
+  "label": "其他资源",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "文档版本管理与多语言支持等信息。"
   }
 }
