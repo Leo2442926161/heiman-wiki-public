@@ -1,0 +1,74 @@
+{
+  "tagline": {
+    "message": "匠の心で安全を守り、テクノロジーで暮らしを温かく"
+  },
+  "navbar.title": {
+    "message": "海曼科技"
+  },
+  "navbar.logo.alt": {
+    "message": "海曼科技 ロゴ"
+  },
+  "navbar.label.docs": {
+    "message": "ドキュメント"
+  },
+  "navbar.label.blog": {
+    "message": "ブログ"
+  },
+  "navbar.label.website": {
+    "message": "公式サイト"
+  },
+  "footer.title.docs": {
+    "message": "ドキュメント"
+  },
+  "footer.link.intro": {
+    "message": "企業紹介"
+  },
+  "footer.link.products": {
+    "message": "製品情報"
+  },
+  "footer.title.solutions": {
+    "message": "製品とソリューション"
+  },
+  "footer.link.fire": {
+    "message": "スマート消防"
+  },
+  "footer.link.gas": {
+    "message": "スマートガス"
+  },
+  "footer.link.elderly": {
+    "message": "スマート介護"
+  },
+  "footer.title.more": {
+    "message": "もっと見る"
+  },
+  "footer.link.blog": {
+    "message": "ブログ"
+  },
+  "footer.link.contact": {
+    "message": "お問い合わせ"
+  },
+  "footer.copyright": {
+    "message": "Shenzhen Heiman Technology Co., Ltd."
+  },
+  "homepage.cta": {
+    "message": "海曼科技について →"
+  },
+  "feature.fire.title": {
+    "message": "スマート消防"
+  },
+  "feature.fire.desc": {
+    "message": "セルラー接続とマルチプラットフォーム統合に対応した煙警報器、CO警報器、消防センサーで人命と財産を守ります。"
+  },
+  "feature.gas.title": {
+    "message": "スマートガス"
+  },
+  "feature.gas.desc": {
+    "message": "高精度センサー、リアルタイム遠隔監視、自動バルブ遮断を備えた産業・業務用ガス漏れ検知システム。"
+  },
+  "feature.elderly.title": {
+    "message": "スマート介護"
+  },
+  "feature.elderly.desc": {
+    "message": "転倒検知、ワンタッチ緊急通報、マルチデバイス通知 — 高齢者の安全を総合的に守ります。"
+  }
+}

@@ -1,0 +1,15 @@
+heiman:
+  name: 하이만 테크놀로지
+  title: Shenzhen Heiman Technology Co., Ltd.
+  url: https://www.heiman.com.cn
+  image_url: https://www.heiman.com.cn/favicon.ico
+  page: true
+  socials:
+    x: heimantech
+    linkedin: heimantech
+
+heiman_editor:
+  name: 하이만 에디터
+  title: 하이만 테크놀로지 콘텐츠 팀
+  url: https://www.heiman.com.cn
+  page: true

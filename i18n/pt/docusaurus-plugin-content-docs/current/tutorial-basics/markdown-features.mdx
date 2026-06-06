@@ -1,0 +1,51 @@
+---
+sidebar_position: 4
+---
+
+# Recursos Markdown
+
+A documentação técnica da Heiman suporta totalmente a sintaxe Markdown e recursos estendidos, facilitando a escrita de documentação estruturada de produtos.
+
+## Exemplo de Código
+
+Exemplo de integração de API para desenvolvimento de produtos:
+
+```jsx title="Integração de API do Detector de Fumaça"
+const heimanClient = new HeimanClient({
+  apiKey: 'your-api-key',
+  deviceId: 'HS1SA-xxxxx',
+});
+
+// Obter status do dispositivo
+const status = await heimanClient.getDeviceStatus();
+console.log(status);
+```
+
+## Advertências
+
+Use advertências para destacar informações importantes:
+
+:::tip
+
+O detector de fumaça Heiman HS1SA é certificado EN14604
+
+:::
+
+:::caution
+
+Ao instalar alarmes de gás, siga o guia de instalação para a fiação adequada
+
+:::
+
+:::danger
+
+Em caso de vazamento de gás, não opere nenhum interruptor elétrico. Abra as janelas imediatamente e evacue a área
+
+:::
+
+## Links
+
+Saiba mais sobre nossos produtos:
+
+- [Site Oficial da Heiman](https://www.heiman.com.cn)
+- [Produtos](/docs/tutorial-basics/create-a-page)

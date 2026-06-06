@@ -1,0 +1,74 @@
+{
+  "tagline": {
+    "message": "Zanaatkarlıkla Koruma, Teknolojiyle Isıtma"
+  },
+  "navbar.title": {
+    "message": "Heiman Teknoloji"
+  },
+  "navbar.logo.alt": {
+    "message": "Heiman Teknoloji Logosu"
+  },
+  "navbar.label.docs": {
+    "message": "Dokümantasyon"
+  },
+  "navbar.label.blog": {
+    "message": "Blog"
+  },
+  "navbar.label.website": {
+    "message": "Resmi Site"
+  },
+  "footer.title.docs": {
+    "message": "Dokümanlar"
+  },
+  "footer.link.intro": {
+    "message": "Hakkımızda"
+  },
+  "footer.link.products": {
+    "message": "Ürünler"
+  },
+  "footer.title.solutions": {
+    "message": "Ürünler ve Çözümler"
+  },
+  "footer.link.fire": {
+    "message": "Akıllı Yangın Güvenliği"
+  },
+  "footer.link.gas": {
+    "message": "Akıllı Gaz Güvenliği"
+  },
+  "footer.link.elderly": {
+    "message": "Akıllı Yaşlı Bakımı"
+  },
+  "footer.title.more": {
+    "message": "Daha Fazla"
+  },
+  "footer.link.blog": {
+    "message": "Blog"
+  },
+  "footer.link.contact": {
+    "message": "İletişim"
+  },
+  "footer.copyright": {
+    "message": "Shenzhen Heiman Technology Co., Ltd."
+  },
+  "homepage.cta": {
+    "message": "Heiman'ı Keşfedin →"
+  },
+  "feature.fire.title": {
+    "message": "Akıllı Yangın Güvenliği"
+  },
+  "feature.fire.desc": {
+    "message": "Hücresel bağlantı ve çoklu platform entegrasyonu ile duman alarmları, CO alarmları ve yangın güvenliği sensörleri, can ve mal güvenliğini korur."
+  },
+  "feature.gas.title": {
+    "message": "Akıllı Gaz Güvenliği"
+  },
+  "feature.gas.desc": {
+    "message": "Yüksek hassasiyetli sensörler, gerçek zamanlı uzaktan izleme ve otomatik vana kapatma özellikli endüstriyel ve ticari gaz kaçağı tespit sistemleri."
+  },
+  "feature.elderly.title": {
+    "message": "Akıllı Yaşlı Bakımı"
+  },
+  "feature.elderly.desc": {
+    "message": "Düşme tespiti, tek tuşla acil çağrı, çoklu cihaz bildirimi — yaşlılar için kapsamlı güvenlik koruması."
+  }
+}

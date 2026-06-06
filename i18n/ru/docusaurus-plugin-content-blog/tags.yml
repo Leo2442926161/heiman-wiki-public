@@ -1,0 +1,29 @@
+heiman:
+  label: Heiman Technology
+  permalink: /heiman
+  description: Новости и обновления Heiman Technology
+
+smart-fire:
+  label: Пожарная безопасность
+  permalink: /smart-fire
+  description: Продукты и решения для пожарной безопасности
+
+smart-gas:
+  label: Газовая безопасность
+  permalink: /smart-gas
+  description: Системы газовой сигнализации
+
+smart-elderly:
+  label: Уход за пожилыми
+  permalink: /smart-elderly
+  description: Решения для ухода за пожилыми
+
+smart-sensor:
+  label: Интеллектуальные датчики
+  permalink: /smart-sensor
+  description: Технологии интеллектуальных датчиков
+
+matter:
+  label: Matter
+  permalink: /matter
+  description: Информация о протоколе Matter

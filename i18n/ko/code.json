@@ -1,0 +1,74 @@
+{
+  "tagline": {
+    "message": "장인정신으로 안전을 지키고, 기술로 삶을 따뜻하게"
+  },
+  "navbar.title": {
+    "message": "하이만 테크놀로지"
+  },
+  "navbar.logo.alt": {
+    "message": "하이만 테크놀로지 로고"
+  },
+  "navbar.label.docs": {
+    "message": "문서"
+  },
+  "navbar.label.blog": {
+    "message": "블로그"
+  },
+  "navbar.label.website": {
+    "message": "공식 사이트"
+  },
+  "footer.title.docs": {
+    "message": "문서"
+  },
+  "footer.link.intro": {
+    "message": "회사 소개"
+  },
+  "footer.link.products": {
+    "message": "제품"
+  },
+  "footer.title.solutions": {
+    "message": "제품 및 솔루션"
+  },
+  "footer.link.fire": {
+    "message": "스마트 화재 안전"
+  },
+  "footer.link.gas": {
+    "message": "스마트 가스 안전"
+  },
+  "footer.link.elderly": {
+    "message": "스마트 노인 케어"
+  },
+  "footer.title.more": {
+    "message": "더보기"
+  },
+  "footer.link.blog": {
+    "message": "블로그"
+  },
+  "footer.link.contact": {
+    "message": "문의하기"
+  },
+  "footer.copyright": {
+    "message": "Shenzhen Heiman Technology Co., Ltd."
+  },
+  "homepage.cta": {
+    "message": "하이만 알아보기 →"
+  },
+  "feature.fire.title": {
+    "message": "스마트 화재 안전"
+  },
+  "feature.fire.desc": {
+    "message": "셀룰러 연결 및 다중 플랫폼 통합을 지원하는 연기 감지기, CO 경보기 및 화재 안전 센서로 생명과 재산을 보호합니다."
+  },
+  "feature.gas.title": {
+    "message": "스마트 가스 안전"
+  },
+  "feature.gas.desc": {
+    "message": "고정밀 센서, 실시간 원격 모니터링 및 자동 밸브 차단 기능을 갖춘 산업용 및 상업용 가스 누출 감지 시스템."
+  },
+  "feature.elderly.title": {
+    "message": "스마트 노인 케어"
+  },
+  "feature.elderly.desc": {
+    "message": "낙상 감지, 원키 긴급 호출, 다중 기기 알림 — 노인을 위한 종합적인 안전 보호."
+  }
+}

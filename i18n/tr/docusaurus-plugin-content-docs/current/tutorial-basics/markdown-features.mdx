@@ -1,0 +1,51 @@
+---
+sidebar_position: 4
+---
+
+# Markdown Özellikleri
+
+Heiman teknik dokümantasyonu, Markdown sözdizimini ve genişletilmiş özellikleri tam olarak destekleyerek yapılandırılmış ürün dokümantasyonu yazmayı kolaylaştırır.
+
+## Kod Örneği
+
+Ürün geliştirme için API entegrasyon örneği:
+
+```jsx title="Duman Alarmı API Entegrasyonu"
+const heimanClient = new HeimanClient({
+  apiKey: 'your-api-key',
+  deviceId: 'HS1SA-xxxxx',
+});
+
+// Cihaz durumunu al
+const status = await heimanClient.getDeviceStatus();
+console.log(status);
+```
+
+## Uyarı Kutuları
+
+Önemli bilgileri vurgulamak için uyarı kutularını kullanın:
+
+:::tip
+
+Heiman HS1SA duman alarmı EN14604 sertifikalıdır
+
+:::
+
+:::caution
+
+Gaz alarmlarını kurarken, doğru kablolama için kurulum kılavuzunu izleyin
+
+:::
+
+:::danger
+
+Gaz kaçağı durumunda, herhangi bir elektrik anahtarını çalıştırmayın. Derhal pencereleri açın ve alanı boşaltın
+
+:::
+
+## Bağlantılar
+
+Ürünlerimiz hakkında daha fazla bilgi edinin:
+
+- [Heiman Resmi Sitesi](https://www.heiman.com.cn)
+- [Ürünler](/docs/tutorial-basics/create-a-page)

@@ -1,0 +1,29 @@
+heiman:
+  label: Heiman Teknoloji
+  permalink: /heiman
+  description: Heiman Teknoloji haberleri ve güncellemeleri
+
+smart-fire:
+  label: Akıllı Yangın Güvenliği
+  permalink: /smart-fire
+  description: Akıllı yangın güvenliği ürünleri ve çözümleri
+
+smart-gas:
+  label: Akıllı Gaz Güvenliği
+  permalink: /smart-gas
+  description: Akıllı gaz alarm sistemleri
+
+smart-elderly:
+  label: Akıllı Yaşlı Bakımı
+  permalink: /smart-elderly
+  description: Akıllı yaşlı bakımı çözümleri
+
+smart-sensor:
+  label: Akıllı Sensör
+  permalink: /smart-sensor
+  description: Akıllı sensör teknolojisi
+
+matter:
+  label: Matter
+  permalink: /matter
+  description: Matter protokolü ile ilgili içerikler

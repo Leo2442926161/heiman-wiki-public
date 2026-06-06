@@ -1,0 +1,8 @@
+{
+  "label": "Weitere Ressourcen",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Informationen zur Dokumentenversionsverwaltung und mehrsprachigen Unterstützung."
+  }
+}

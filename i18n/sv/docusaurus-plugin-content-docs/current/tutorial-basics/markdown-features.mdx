@@ -1,0 +1,51 @@
+---
+sidebar_position: 4
+---
+
+# Markdown-funktioner
+
+Heimans tekniska dokumentation stöder fullt ut Markdown-syntax och utökade funktioner, vilket gör det enkelt att skriva strukturerad produktdokumentation.
+
+## Kodexempel
+
+API-integrationsexempel för produktutveckling:
+
+```jsx title="Smoke Alarm API Integration"
+const heimanClient = new HeimanClient({
+  apiKey: 'your-api-key',
+  deviceId: 'HS1SA-xxxxx',
+});
+
+// Get device status
+const status = await heimanClient.getDeviceStatus();
+console.log(status);
+```
+
+## Admonitions
+
+Använd admonitions för att framhäva viktig information:
+
+:::tip
+
+Heimans rökdetektor HS1SA är EN14604-certifierad
+
+:::
+
+:::caution
+
+Vid installation av gaslarm, följ installationsguiden för korrekt kabeldragning
+
+:::
+
+:::danger
+
+Vid gasläcka, använd inga elektriska strömbrytare. Öppna fönster omedelbart och utrym området
+
+:::
+
+## Länkar
+
+Läs mer om våra produkter:
+
+- [Heimans officiella webbplats](https://www.heiman.com.cn)
+- [Produkter](/docs/tutorial-basics/create-a-page)

@@ -2,8 +2,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
 const config: Config = {
   title: '海曼科技 Wiki',
   tagline: '用匠心守护安全，让科技温暖生活',
@@ -23,7 +21,51 @@ const config: Config = {
 
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    locales: ['zh-Hans', 'en', 'fr', 'de', 'es', 'it', 'pt', 'ru', 'nl', 'pl', 'sv', 'tr', 'ja', 'ko'],
+    localeConfigs: {
+      'zh-Hans': {
+        label: '中文',
+      },
+      en: {
+        label: 'English',
+      },
+      fr: {
+        label: 'Français',
+      },
+      de: {
+        label: 'Deutsch',
+      },
+      es: {
+        label: 'Español',
+      },
+      it: {
+        label: 'Italiano',
+      },
+      pt: {
+        label: 'Português',
+      },
+      ru: {
+        label: 'Русский',
+      },
+      nl: {
+        label: 'Nederlands',
+      },
+      pl: {
+        label: 'Polski',
+      },
+      sv: {
+        label: 'Svenska',
+      },
+      tr: {
+        label: 'Türkçe',
+      },
+      ja: {
+        label: '日本語',
+      },
+      ko: {
+        label: '한국어',
+      },
+    },
   },
 
   presets: [
@@ -69,6 +111,10 @@ const config: Config = {
           label: '文档中心',
         },
         {to: '/blog', label: '博客', position: 'left'},
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
         {
           href: 'https://www.heiman.com.cn',
           label: '官网',

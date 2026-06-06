@@ -1,0 +1,74 @@
+{
+  "tagline": {
+    "message": "Protegiendo con Artesanía, Calentando Vidas con Tecnología"
+  },
+  "navbar.title": {
+    "message": "Heiman Technology"
+  },
+  "navbar.logo.alt": {
+    "message": "Logotipo de Heiman Technology"
+  },
+  "navbar.label.docs": {
+    "message": "Documentación"
+  },
+  "navbar.label.blog": {
+    "message": "Blog"
+  },
+  "navbar.label.website": {
+    "message": "Sitio Oficial"
+  },
+  "footer.title.docs": {
+    "message": "Documentos"
+  },
+  "footer.link.intro": {
+    "message": "Sobre Nosotros"
+  },
+  "footer.link.products": {
+    "message": "Productos"
+  },
+  "footer.title.solutions": {
+    "message": "Productos y Soluciones"
+  },
+  "footer.link.fire": {
+    "message": "Seguridad contra Incendios Inteligente"
+  },
+  "footer.link.gas": {
+    "message": "Seguridad de Gas Inteligente"
+  },
+  "footer.link.elderly": {
+    "message": "Cuidado de Ancianos Inteligente"
+  },
+  "footer.title.more": {
+    "message": "Más"
+  },
+  "footer.link.blog": {
+    "message": "Blog"
+  },
+  "footer.link.contact": {
+    "message": "Contáctenos"
+  },
+  "footer.copyright": {
+    "message": "Shenzhen Heiman Technology Co., Ltd."
+  },
+  "homepage.cta": {
+    "message": "Conozca Heiman →"
+  },
+  "feature.fire.title": {
+    "message": "Seguridad contra Incendios Inteligente"
+  },
+  "feature.fire.desc": {
+    "message": "Detectores de humo, alarmas de CO y sensores de seguridad contra incendios con conectividad celular e integración multiplataforma, protegiendo vidas y propiedades."
+  },
+  "feature.gas.title": {
+    "message": "Seguridad de Gas Inteligente"
+  },
+  "feature.gas.desc": {
+    "message": "Sistemas industriales y comerciales de detección de fugas de gas con sensores de alta precisión, monitoreo remoto en tiempo real y cierre automático de válvulas."
+  },
+  "feature.elderly.title": {
+    "message": "Cuidado de Ancianos Inteligente"
+  },
+  "feature.elderly.desc": {
+    "message": "Detección de caídas, llamada de emergencia con un solo botón, notificación a múltiples dispositivos: protección integral para personas mayores."
+  }
+}

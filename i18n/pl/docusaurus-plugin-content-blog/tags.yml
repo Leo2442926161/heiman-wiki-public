@@ -1,0 +1,29 @@
+heiman:
+  label: Heiman Technology
+  permalink: /heiman
+  description: Aktualności związane z Heiman Technology
+
+smart-fire:
+  label: Inteligentne bezpieczeństwo pożarowe
+  permalink: /smart-fire
+  description: Produkty i rozwiązania inteligentnego bezpieczeństwa pożarowego
+
+smart-gas:
+  label: Inteligentne bezpieczeństwo gazowe
+  permalink: /smart-gas
+  description: Systemy alarmowe inteligentnego bezpieczeństwa gazowego
+
+smart-elderly:
+  label: Inteligentna opieka nad seniorami
+  permalink: /smart-elderly
+  description: Rozwiązania inteligentnej opieki nad seniorami
+
+smart-sensor:
+  label: Inteligentne czujniki
+  permalink: /smart-sensor
+  description: Technologia inteligentnych czujników
+
+matter:
+  label: Matter
+  permalink: /matter
+  description: Treści związane z protokołem Matter

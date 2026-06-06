@@ -1,0 +1,29 @@
+heiman:
+  label: 하이만 테크놀로지
+  permalink: /heiman
+  description: 하이만 테크놀로지 뉴스 및 업데이트
+
+smart-fire:
+  label: 스마트 화재 안전
+  permalink: /smart-fire
+  description: 스마트 화재 안전 제품 및 솔루션
+
+smart-gas:
+  label: 스마트 가스 안전
+  permalink: /smart-gas
+  description: 스마트 가스 경보 시스템
+
+smart-elderly:
+  label: 스마트 노인 케어
+  permalink: /smart-elderly
+  description: 스마트 노인 케어 솔루션
+
+smart-sensor:
+  label: 스마트 센서
+  permalink: /smart-sensor
+  description: 스마트 센서 기술
+
+matter:
+  label: Matter
+  permalink: /matter
+  description: Matter 프로토콜 관련 콘텐츠

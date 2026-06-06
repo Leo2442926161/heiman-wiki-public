@@ -1,0 +1,74 @@
+{
+  "tagline": {
+    "message": "Safeguarding with Craftsmanship, Warming Lives with Technology"
+  },
+  "navbar.title": {
+    "message": "Heiman Technology"
+  },
+  "navbar.logo.alt": {
+    "message": "Heiman Technology Logo"
+  },
+  "navbar.label.docs": {
+    "message": "Documentation"
+  },
+  "navbar.label.blog": {
+    "message": "Blog"
+  },
+  "navbar.label.website": {
+    "message": "Official Site"
+  },
+  "footer.title.docs": {
+    "message": "Docs"
+  },
+  "footer.link.intro": {
+    "message": "About Us"
+  },
+  "footer.link.products": {
+    "message": "Products"
+  },
+  "footer.title.solutions": {
+    "message": "Products & Solutions"
+  },
+  "footer.link.fire": {
+    "message": "Smart Fire Safety"
+  },
+  "footer.link.gas": {
+    "message": "Smart Gas Safety"
+  },
+  "footer.link.elderly": {
+    "message": "Smart Elderly Care"
+  },
+  "footer.title.more": {
+    "message": "More"
+  },
+  "footer.link.blog": {
+    "message": "Blog"
+  },
+  "footer.link.contact": {
+    "message": "Contact Us"
+  },
+  "footer.copyright": {
+    "message": "Shenzhen Heiman Technology Co., Ltd."
+  },
+  "homepage.cta": {
+    "message": "Learn About Heiman →"
+  },
+  "feature.fire.title": {
+    "message": "Smart Fire Safety"
+  },
+  "feature.fire.desc": {
+    "message": "Smoke alarms, CO alarms and fire safety sensors with cellular connectivity and multi-platform integration, protecting lives and property."
+  },
+  "feature.gas.title": {
+    "message": "Smart Gas Safety"
+  },
+  "feature.gas.desc": {
+    "message": "Industrial and commercial gas leak detection systems with high-precision sensors, real-time remote monitoring and automatic valve shutoff."
+  },
+  "feature.elderly.title": {
+    "message": "Smart Elderly Care"
+  },
+  "feature.elderly.desc": {
+    "message": "Fall detection, one-key emergency call, multi-device notification — comprehensive safety protection for the elderly."
+  }
+}

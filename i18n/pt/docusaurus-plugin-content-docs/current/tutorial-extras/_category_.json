@@ -1,0 +1,8 @@
+{
+  "label": "Outros Recursos",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Informações sobre gerenciamento de versões de documentos e suporte a múltiplos idiomas."
+  }
+}

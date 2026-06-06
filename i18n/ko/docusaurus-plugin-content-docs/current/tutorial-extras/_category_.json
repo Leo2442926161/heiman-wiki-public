@@ -1,0 +1,8 @@
+{
+  "label": "기타 리소스",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "문서 버전 관리 및 다국어 지원 정보입니다."
+  }
+}

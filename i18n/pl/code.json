@@ -1,0 +1,74 @@
+{
+  "tagline": {
+    "message": "Bezpieczeństwo z precyzją rzemieślniczą, ogrzewanie życia technologią"
+  },
+  "navbar.title": {
+    "message": "Heiman Technology"
+  },
+  "navbar.logo.alt": {
+    "message": "Logo Heiman Technology"
+  },
+  "navbar.label.docs": {
+    "message": "Dokumentacja"
+  },
+  "navbar.label.blog": {
+    "message": "Blog"
+  },
+  "navbar.label.website": {
+    "message": "Oficjalna strona"
+  },
+  "footer.title.docs": {
+    "message": "Dokumenty"
+  },
+  "footer.link.intro": {
+    "message": "O nas"
+  },
+  "footer.link.products": {
+    "message": "Produkty"
+  },
+  "footer.title.solutions": {
+    "message": "Produkty i rozwiązania"
+  },
+  "footer.link.fire": {
+    "message": "Inteligentne bezpieczeństwo pożarowe"
+  },
+  "footer.link.gas": {
+    "message": "Inteligentne bezpieczeństwo gazowe"
+  },
+  "footer.link.elderly": {
+    "message": "Inteligentna opieka nad seniorami"
+  },
+  "footer.title.more": {
+    "message": "Więcej"
+  },
+  "footer.link.blog": {
+    "message": "Blog"
+  },
+  "footer.link.contact": {
+    "message": "Kontakt"
+  },
+  "footer.copyright": {
+    "message": "Shenzhen Heiman Technology Co., Ltd."
+  },
+  "homepage.cta": {
+    "message": "Poznaj Heiman →"
+  },
+  "feature.fire.title": {
+    "message": "Inteligentne bezpieczeństwo pożarowe"
+  },
+  "feature.fire.desc": {
+    "message": "Czujniki dymu, czujniki CO i czujniki bezpieczeństwa pożarowego z łącznością komórkową i integracją z wieloma platformami, chroniące życie i mienie."
+  },
+  "feature.gas.title": {
+    "message": "Inteligentne bezpieczeństwo gazowe"
+  },
+  "feature.gas.desc": {
+    "message": "Przemysłowe i komercyjne systemy wykrywania wycieków gazu z precyzyjnymi czujnikami, zdalnym monitorowaniem w czasie rzeczywistym i automatycznym odcięciem zaworu."
+  },
+  "feature.elderly.title": {
+    "message": "Inteligentna opieka nad seniorami"
+  },
+  "feature.elderly.desc": {
+    "message": "Wykrywanie upadków, przycisk alarmowy jednym dotknięciem, powiadomienia na wielu urządzeniach — kompleksowa ochrona bezpieczeństwa dla osób starszych."
+  }
+}

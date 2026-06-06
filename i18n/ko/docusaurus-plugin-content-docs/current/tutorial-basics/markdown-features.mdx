@@ -1,0 +1,51 @@
+---
+sidebar_position: 4
+---
+
+# Markdown 기능
+
+하이만 기술 문서는 Markdown 구문과 확장 기능을 완벽하게 지원하여 구조화된 제품 문서를 쉽게 작성할 수 있습니다.
+
+## 코드 예제
+
+제품 개발을 위한 API 통합 예제:
+
+```jsx title="연기 감지기 API 통합"
+const heimanClient = new HeimanClient({
+  apiKey: 'your-api-key',
+  deviceId: 'HS1SA-xxxxx',
+});
+
+// 기기 상태 가져오기
+const status = await heimanClient.getDeviceStatus();
+console.log(status);
+```
+
+## Admonitions
+
+중요 정보를 강조하려면 admonitions을 사용하세요:
+
+:::tip
+
+하이만 연기 감지기 HS1SA는 EN14604 인증을 받았습니다
+
+:::
+
+:::caution
+
+가스 경보기 설치 시 설치 가이드에 따라 올바르게 배선해 주십시오
+
+:::
+
+:::danger
+
+가스 누출 시 어떤 전기 스위치도 작동하지 마십시오. 즉시 창문을 열고 대피하십시오
+
+:::
+
+## 링크
+
+제품에 대해 더 알아보기:
+
+- [하이만 공식 사이트](https://www.heiman.com.cn)
+- [제품](/docs/tutorial-basics/create-a-page)

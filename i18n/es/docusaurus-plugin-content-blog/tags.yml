@@ -1,0 +1,29 @@
+heiman:
+  label: Heiman Technology
+  permalink: /heiman
+  description: Noticias y actualizaciones de Heiman Technology
+
+smart-fire:
+  label: Seguridad contra Incendios Inteligente
+  permalink: /smart-fire
+  description: Productos y soluciones de seguridad contra incendios inteligente
+
+smart-gas:
+  label: Seguridad de Gas Inteligente
+  permalink: /smart-gas
+  description: Sistemas inteligentes de alarma de gas
+
+smart-elderly:
+  label: Cuidado de Ancianos Inteligente
+  permalink: /smart-elderly
+  description: Soluciones inteligentes para el cuidado de ancianos
+
+smart-sensor:
+  label: Sensor Inteligente
+  permalink: /smart-sensor
+  description: Tecnología de sensores inteligentes
+
+matter:
+  label: Matter
+  permalink: /matter
+  description: Contenido relacionado con el protocolo Matter

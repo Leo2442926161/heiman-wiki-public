@@ -1,0 +1,74 @@
+{
+  "tagline": {
+    "message": "Защита с мастерством, согревая жизнь технологиями"
+  },
+  "navbar.title": {
+    "message": "Heiman Technology"
+  },
+  "navbar.logo.alt": {
+    "message": "Логотип Heiman Technology"
+  },
+  "navbar.label.docs": {
+    "message": "Документация"
+  },
+  "navbar.label.blog": {
+    "message": "Блог"
+  },
+  "navbar.label.website": {
+    "message": "Официальный сайт"
+  },
+  "footer.title.docs": {
+    "message": "Документация"
+  },
+  "footer.link.intro": {
+    "message": "О нас"
+  },
+  "footer.link.products": {
+    "message": "Продукция"
+  },
+  "footer.title.solutions": {
+    "message": "Продукция и решения"
+  },
+  "footer.link.fire": {
+    "message": "Пожарная безопасность"
+  },
+  "footer.link.gas": {
+    "message": "Газовая безопасность"
+  },
+  "footer.link.elderly": {
+    "message": "Уход за пожилыми"
+  },
+  "footer.title.more": {
+    "message": "Ещё"
+  },
+  "footer.link.blog": {
+    "message": "Блог"
+  },
+  "footer.link.contact": {
+    "message": "Контакты"
+  },
+  "footer.copyright": {
+    "message": "Shenzhen Heiman Technology Co., Ltd."
+  },
+  "homepage.cta": {
+    "message": "Узнать о Heiman →"
+  },
+  "feature.fire.title": {
+    "message": "Пожарная безопасность"
+  },
+  "feature.fire.desc": {
+    "message": "Дымовые извещатели, CO-извещатели и датчики пожарной безопасности с сотовой связью и мультиплатформенной интеграцией, защищающие жизнь и имущество."
+  },
+  "feature.gas.title": {
+    "message": "Газовая безопасность"
+  },
+  "feature.gas.desc": {
+    "message": "Промышленные и коммерческие системы обнаружения утечек газа с высокоточными датчиками, удалённым мониторингом в реальном времени и автоматическим перекрытием клапанов."
+  },
+  "feature.elderly.title": {
+    "message": "Уход за пожилыми"
+  },
+  "feature.elderly.desc": {
+    "message": "Обнаружение падений, экстренный вызов одной кнопкой, оповещение на多个 устройства — комплексная защита для пожилых людей."
+  }
+}

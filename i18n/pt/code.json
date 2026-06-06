@@ -1,0 +1,74 @@
+{
+  "tagline": {
+    "message": "Protegendo com Artesanato, Aquecendo Vidas com Tecnologia"
+  },
+  "navbar.title": {
+    "message": "Heiman Technology"
+  },
+  "navbar.logo.alt": {
+    "message": "Logotipo da Heiman Technology"
+  },
+  "navbar.label.docs": {
+    "message": "Documentação"
+  },
+  "navbar.label.blog": {
+    "message": "Blog"
+  },
+  "navbar.label.website": {
+    "message": "Site Oficial"
+  },
+  "footer.title.docs": {
+    "message": "Documentos"
+  },
+  "footer.link.intro": {
+    "message": "Sobre Nós"
+  },
+  "footer.link.products": {
+    "message": "Produtos"
+  },
+  "footer.title.solutions": {
+    "message": "Produtos e Soluções"
+  },
+  "footer.link.fire": {
+    "message": "Segurança contra Incêndios Inteligente"
+  },
+  "footer.link.gas": {
+    "message": "Segurança de Gás Inteligente"
+  },
+  "footer.link.elderly": {
+    "message": "Cuidado de Idosos Inteligente"
+  },
+  "footer.title.more": {
+    "message": "Mais"
+  },
+  "footer.link.blog": {
+    "message": "Blog"
+  },
+  "footer.link.contact": {
+    "message": "Fale Conosco"
+  },
+  "footer.copyright": {
+    "message": "Shenzhen Heiman Technology Co., Ltd."
+  },
+  "homepage.cta": {
+    "message": "Conheça a Heiman →"
+  },
+  "feature.fire.title": {
+    "message": "Segurança contra Incêndios Inteligente"
+  },
+  "feature.fire.desc": {
+    "message": "Detectores de fumaça, CO e sensores de incêndio com conectividade celular e integração multiplataforma, protegendo vidas e propriedades."
+  },
+  "feature.gas.title": {
+    "message": "Segurança de Gás Inteligente"
+  },
+  "feature.gas.desc": {
+    "message": "Sistemas industriais e comerciais de detecção de vazamento de gás com sensores de alta precisão, monitoramento remoto em tempo real e fechamento automático de válvulas."
+  },
+  "feature.elderly.title": {
+    "message": "Cuidado de Idosos Inteligente"
+  },
+  "feature.elderly.desc": {
+    "message": "Detecção de quedas, chamada de emergência com um botão, notificação multi-dispositivo — proteção abrangente para idosos."
+  }
+}

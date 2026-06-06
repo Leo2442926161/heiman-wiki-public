@@ -1,0 +1,29 @@
+heiman:
+  label: Heiman Technology
+  permalink: /heiman
+  description: Heiman Technology news and updates
+
+smart-fire:
+  label: Smart Fire Safety
+  permalink: /smart-fire
+  description: Smart fire safety products and solutions
+
+smart-gas:
+  label: Smart Gas Safety
+  permalink: /smart-gas
+  description: Smart gas alarm systems
+
+smart-elderly:
+  label: Smart Elderly Care
+  permalink: /smart-elderly
+  description: Smart elderly care solutions
+
+smart-sensor:
+  label: Smart Sensor
+  permalink: /smart-sensor
+  description: Smart sensor technology
+
+matter:
+  label: Matter
+  permalink: /matter
+  description: Matter protocol相关内容

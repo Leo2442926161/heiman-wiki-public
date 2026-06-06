@@ -1,0 +1,74 @@
+{
+  "tagline": {
+    "message": "Skyddar med hantverksskicklighet, värmer liv med teknik"
+  },
+  "navbar.title": {
+    "message": "Heiman Technology"
+  },
+  "navbar.logo.alt": {
+    "message": "Heiman Technology Logotyp"
+  },
+  "navbar.label.docs": {
+    "message": "Dokumentation"
+  },
+  "navbar.label.blog": {
+    "message": "Blogg"
+  },
+  "navbar.label.website": {
+    "message": "Officiell webbplats"
+  },
+  "footer.title.docs": {
+    "message": "Dokument"
+  },
+  "footer.link.intro": {
+    "message": "Om oss"
+  },
+  "footer.link.products": {
+    "message": "Produkter"
+  },
+  "footer.title.solutions": {
+    "message": "Produkter & Lösningar"
+  },
+  "footer.link.fire": {
+    "message": "Smart brandskydd"
+  },
+  "footer.link.gas": {
+    "message": "Smart gassäkerhet"
+  },
+  "footer.link.elderly": {
+    "message": "Smart äldreomsorg"
+  },
+  "footer.title.more": {
+    "message": "Mer"
+  },
+  "footer.link.blog": {
+    "message": "Blogg"
+  },
+  "footer.link.contact": {
+    "message": "Kontakta oss"
+  },
+  "footer.copyright": {
+    "message": "Shenzhen Heiman Technology Co., Ltd."
+  },
+  "homepage.cta": {
+    "message": "Lär känna Heiman →"
+  },
+  "feature.fire.title": {
+    "message": "Smart brandskydd"
+  },
+  "feature.fire.desc": {
+    "message": "Rökdetektorer, CO-larm och brandskyddssensorer med mobilanslutning och integration med flera plattformar som skyddar liv och egendom."
+  },
+  "feature.gas.title": {
+    "message": "Smart gassäkerhet"
+  },
+  "feature.gas.desc": {
+    "message": "Industriella och kommersiella gasläckagedetekteringssystem med högprecision, realtidsövervakning på distans och automatisk ventilavstängning."
+  },
+  "feature.elderly.title": {
+    "message": "Smart äldreomsorg"
+  },
+  "feature.elderly.desc": {
+    "message": "Fall-detektering, enknapps nödsamtal, meddelanden till flera enheter — omfattande säkerhetsskydd för äldre."
+  }
+}
